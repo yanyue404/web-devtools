@@ -155,3 +155,7 @@ yarn global list
 
 - Clover - 文件管理器固定展示常用文件夹
 - [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - 代码搜索
+
+## 优美的 markdown 文档
+
+- [is-odd](https://github.com/jonschlinkert/is-odd) , by [jonschlinkert](https://github.com/jonschlinkert)

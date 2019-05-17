@@ -1,0 +1,66 @@
+{
+  // 关闭自动更新
+  "update.channel": "none",
+  // 不显示新版本的信息
+  "vsicons.dontShowNewVersionMessage": true,
+  // editor
+  "editor.tabSize": 4,
+  "editor.fontSize": 15,
+  "editor.lineHeight": 24,
+  "editor.wordWrap": "on",
+  "editor.cursorStyle": "block",
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "editor.foldingStrategy": "indentation",
+  "editor.lineNumbers": "on",
+  "editor.minimap.enabled": true,
+  "editor.formatOnSave": true, // 保存时格式化
+  "editor.rulers": [120],
+  "editor.matchBrackets": true, // 当选择其中一项时，将突出显示匹配的括号
+  "editor.quickSuggestions": {
+    // 键入时自动显示建议
+    "other": true,
+    "comments": true,
+    "strings": true
+  },
+  "editor.snippetSuggestions": "top",
+  "files.autoSave": "afterDelay",
+  // workbench
+  // - 黑
+  "workbench.colorTheme": "Solarized Dark",
+  // - 白
+  // "workbench.colorTheme": "Visual Studio Light",
+  "workbench.sideBar.location": "left",
+  "workbench.startupEditor": "none",
+  "workbench.iconTheme": "vscode-icons",
+  // emmet
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.syntaxProfiles": {
+    "vue-html": "html",
+    "javascript": "javascriptreact"
+  },
+  // git start
+  "git.ignoreMissingGitWarning": true,
+  "git.path": " D:/Environment/git/Git/cmd/git.exe",
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "git.enableSmartCommit": true,
+  "window.menuBarVisibility": "default", // 自动拉取
+  // git end
+  // 浏览器
+  "view-in-browser.customBrowser": "chrome",
+  // dev
+  "liveServer.settings.donotVerifyTags": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  // todo-tree
+  "todo-tree.defaultHighlight": {
+    "foreground": "green",
+    "type": "none"
+  },
+  "todo-tree.customHighlight": {
+    "TODO": {},
+    "FIXME": {}
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "sync.gist": "2adf616eb05f5a46800050fa7a024e39"
+}

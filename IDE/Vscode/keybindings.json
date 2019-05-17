@@ -1,0 +1,38 @@
+// Place your key bindings in this file to overwrite the defaults
+// 将键绑定放入此文件中以覆盖默认值
+[
+    // ctrl+d 删除一行
+    {
+        "command": "editor.action.copyLinesDownAction",
+        "key": "ctrl+d",
+        "when": "editorTextFocus && !editorReadonly"
+    },
+    //viewInBrowser修改
+    {
+        "key": "alt+1",
+        "command": "extension.openInDefaultBrowser"
+    },
+    // ctrl+shift+/多行注释
+    {
+        "key": "ctrl+shift+/",
+        "command": "editor.action.blockComment",
+        "when": "editorTextFocus"
+    },
+    //回车换行
+    {
+        "key": "shift+enter",
+        "command": "editor.action.insertLineAfter",
+        "when": "editorTextFocus && !editorReadonly"
+    },
+    // 打开格式好的 md
+    {
+        "key": "ctrl+shift+m",
+        "command": "markdown.showPreview",
+        "when": "editorLangId == 'markdown'"
+    },
+    // 资源管理器
+    {
+        "key": "shift+r",
+        "command": "revealFileInOS",
+    }
+]

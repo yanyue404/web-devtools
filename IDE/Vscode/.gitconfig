@@ -1,0 +1,10 @@
+[user]
+	name = xiaoyueyue165
+	email = 1656800216@qq.com
+	signingkey = ""
+[http]
+	proxy = http://proxy3.bj.petrochina:8080
+[commit]
+  template = ~/.gitmessage	
+[credential]
+	helper = store

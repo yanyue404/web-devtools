@@ -77,27 +77,34 @@ yarn global list
   - GitHub Hovercard
   - Awesome Autocomplete for GitHub
 - 辅助开发
+  - Clear Cache
+  - [ReRes](https://github.com/annnhan/ReRes) - Change the response of the request
+  - ColorZilla - 取色器
   - 新浪微博图床 - markdown 图片
   - Axure RP Extension for Chrome
   - ReplaceGoogleCDN
-  - Clear Cache
-  - 掘金
+  - 高效网页截图编辑插件
+  - 有道云笔记插件
 - devtools
   - Vue.js devtools
   - Redux DevTools
   - React Developer Tools
 - 优化基础环境
+  - 捕捉网页截图 - FireShot
   - OneTab
   - Holmes 书签搜索
+  - 扩展管理器(Extension Manager)
   - JSONView
-  - 有道云笔记插件
-  - FireShot 捕捉网页截图
   - Wappalyzer
   - PageSpeed Insights
   - Open SEO Stats
 - 待开发使用
   - Tampermonkey
-  - TeamViewer
+
+### 应用 apps
+
+- Postman
+- TeamViewer
 
 ## Vscode 插件
 

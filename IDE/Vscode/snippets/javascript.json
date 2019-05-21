@@ -114,12 +114,16 @@
     "body": "mapStateToProps",
     "description": "shorter word"
   },
+  "View": {
+    "prefix": "tview",
+    "body": ["<View className=\"${1:className}\"></View>"]
+  },
   "tarcs": {
     "prefix": "tarc",
     "body": [
       "import Taro from '@tarojs/taro';",
       "import { View, Text } from '@tarojs/components';",
-      "import styles from './index.scss'",
+      "import styles from './style.scss'",
       "",
       "export default class ${1:Test} extends Taro.Component {",
       "  render() {",

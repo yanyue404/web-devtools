@@ -1,6 +1,11 @@
 {
   // 关闭自动更新
   "update.channel": "none",
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "**/dist": true
+  },
   // 不显示新版本的信息
   "vsicons.dontShowNewVersionMessage": true,
   // editor
@@ -17,6 +22,7 @@
   "editor.formatOnSave": true, // 保存时格式化
   "editor.rulers": [120],
   "editor.matchBrackets": true, // 当选择其中一项时，将突出显示匹配的括号
+  "editor.parameterHints": true,
   "editor.quickSuggestions": {
     // 键入时自动显示建议
     "other": true,
@@ -62,5 +68,23 @@
     "FIXME": {}
   },
   "javascript.updateImportsOnFileMove.enabled": "always",
-  "sync.gist": "2adf616eb05f5a46800050fa7a024e39"
+  "sync.gist": "2adf616eb05f5a46800050fa7a024e39",
+  "liveSassCompile.settings.formats": [
+    // You can add more
+    {
+      "format": "expanded",
+      "extensionName": ".css",
+      "savePath": "/css"
+    }
+  ],
+  "css.fileExtensions": ["css", "scss", "js", "javascriptreact"],
+  "files.associations": {
+    "*.cjson": "jsonc",
+    "*.wxss": "css",
+    "*.wxs": "javascript"
+  },
+  "emmet.includeLanguages": {
+    "wxml": "html"
+  },
+  "minapp-vscode.disableAutoConfig": true
 }

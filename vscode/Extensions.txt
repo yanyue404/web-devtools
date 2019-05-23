@@ -1,0 +1,36 @@
+Extensions Added:
+  app-migrator v0.0.6
+  auto-close-tag v0.5.6
+  auto-rename-tag v0.0.15
+  bracket-pair-colorizer v1.0.61
+  code-runner v0.9.9
+  code-settings-sync v3.2.9
+  comment-translate v1.4.1
+  cssrem v0.0.7
+  debugger-for-chrome v4.11.3
+  docthis v0.7.1
+  EditorConfig v0.13.0
+  githistory v0.4.6
+  HTMLHint v0.6.0
+  light-plus-tweaked v0.1.16
+  live-sass v3.0.0
+  LiveServer v5.6.1
+  minapp-vscode v1.13.3
+  npm-intellisense v1.3.0
+  open-in-browser v2.0.0
+  path-autocomplete v1.13.3
+  path-intellisense v1.4.2
+  prettier-vscode v1.9.0
+  project-manager v10.5.1
+  todo-tree v0.0.132
+  vetur v0.21.0
+  view-in-browser v0.0.5
+  vscode-ast v0.0.3
+  vscode-html-css v0.2.0
+  vscode-icons v8.6.0
+  vscode-import-cost v2.12.0
+  vscode-language-pack-zh-hans v1.32.4
+  vscode-scss-formatter v1.4.1
+  vscode-todo-highlight v1.0.4
+  vscode-wxml v0.1.9
+--------------------

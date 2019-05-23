@@ -1,0 +1,7 @@
+[user]
+	name = xiaoyueyue165
+	email = xiaoyueyue165@gmail.com
+[credential]
+	helper = store
+[http]
+    postBuffer = 524288000

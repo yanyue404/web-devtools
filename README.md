@@ -39,6 +39,7 @@ yarn global list
 - [rimraf](https://github.com/isaacs/rimraf) - 删除文件
 - [nodemon](https://github.com/remy/nodemon/) - 监视 node.js 应用程序中的修改，实时更新
 - [nrm](https://github.com/Pana/nrm) - npm 下载源切换
+- [opener](https://github.com/domenic/opener) - 打开某个端口，固定文件
 
 ### 临时性
 

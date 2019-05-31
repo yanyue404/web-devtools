@@ -46,6 +46,7 @@ yarn global list
 - [hexo](https://github.com/hexojs/hexo) - hexo-cli, blog framework, powered by Node.js
   - [jacman](https://github.com/wuchong/jacman) - `jacman` 主题，正在使用...
   - [hexo-theme-next](https://github.com/iissnan/hexo-theme-next)
+  - [hexo-theme-indigo](https://github.com/yscoder/hexo-theme-indigo)
 - [vuepress](https://github.com/vuejs/vuepress) - Vue 驱动的静态站点生成器，文档说明
 - [rimraf](https://github.com/isaacs/rimraf) - 删除文件
 - [nodemon](https://github.com/remy/nodemon/) - 监视 node.js 应用程序中的修改，实时更新

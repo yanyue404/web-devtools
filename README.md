@@ -24,6 +24,10 @@
 - 图片压缩
   - https://tinypng.com/
   - https://squoosh.app/ - 这个好，可调整长宽等比适配
+  
+## 下载使用
+
+- [PicGo](https://github.com/Molunerfinn/PicGo) - PicGo, 图片上传
 
 ## CLI
 
@@ -171,6 +175,6 @@ yarn global list
 - Clover - 文件管理器固定展示常用文件夹
 - [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - 代码搜索
 
-## 优美的 markdown 文档
+## MarkDown
 
 - [is-odd](https://github.com/jonschlinkert/is-odd) , by [jonschlinkert](https://github.com/jonschlinkert)

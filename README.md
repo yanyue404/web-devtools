@@ -11,6 +11,9 @@
   - [JavaScript Visualizer ](https://tylermcginnis.com/javascript-visualizer/) 可视化 **ES5** `JavaScript` 执行
   - [loupe](http://latentflip.com/loupe/) - 可视化的 javascript 实时运行,理解异步, Built by [Philip Roberts](http://github.com/latentflip)
 
+- 正则可视化
+  - [regexper](https://regexper.com/)
+  - [regulex](https://jex.im/regulex/)
 - github 开源项目
   - [runpkg](https://github.com/FormidableLabs/runpkg) - the online package explorer https://runpkg.com/
 - WAV to MP3
@@ -22,9 +25,10 @@
   - [netlify](https://www.netlify.com/) - 静态网站托管服务
   - [codesandbox](https://codesandbox.io/u/xiaoyueyue165) - vue && react 仓库，借助官方脚手架构建，Show-mycode
 - 图片压缩
+
   - https://tinypng.com/
   - https://squoosh.app/ - 这个好，可调整长宽等比适配
-  
+
 ## 下载使用
 
 - [PicGo](https://github.com/Molunerfinn/PicGo) - PicGo, 图片上传

@@ -18,6 +18,7 @@
 
 ### github 开源项目
 
+- [AutoPiano](https://github.com/WarpPrism/AutoPiano) - 自由钢琴 🎹 AutoPiano http://www.autopiano.cn
 - [runpkg](https://github.com/FormidableLabs/runpkg) - the online package explorer https://runpkg.com/
 - [waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art http://waifu2x.udp.jp/index.zh-CN.html
 

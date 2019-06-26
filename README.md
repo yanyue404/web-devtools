@@ -16,13 +16,13 @@
 - [regexper](https://regexper.com/)
 - [regulex](https://jex.im/regulex/)
 
-### github 开源项目
+### github 开源
 
 - [AutoPiano](https://github.com/WarpPrism/AutoPiano) - 自由钢琴 🎹 AutoPiano http://www.autopiano.cn
 - [runpkg](https://github.com/FormidableLabs/runpkg) - the online package explorer https://runpkg.com/
 - [waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art http://waifu2x.udp.jp/index.zh-CN.html
 
-### WAV to MP3
+### Wav to Mp3
 
 - [WAV to MP3 -- Bear Audio online tool](https://www.bearaudiotool.com/wav-to-mp3)
 - [WAV 轉 MP3 工具 - OnlineVideoConverter.com](https://www.onlinevideoconverter.com/zh/convert-wav-to-mp3)
@@ -40,10 +40,6 @@
 - 压缩
   - https://tinypng.com/
   - https://squoosh.app/ - 这个好，可调整长宽等比适配
-
-## 下载使用
-
-- [PicGo](https://github.com/Molunerfinn/PicGo) - PicGo, 图片上传
 
 ## CLI
 
@@ -68,9 +64,6 @@ yarn global list
 - [nodemon](https://github.com/remy/nodemon/) - 监视 node.js 应用程序中的修改，实时更新
 - [nrm](https://github.com/Pana/nrm) - npm 下载源切换
 - [opener](https://github.com/domenic/opener) - 打开某个端口，固定文件
-
-### 临时性
-
 - [taro](https://github.com/NervJS/taro) - tarojs/cli，多端统一开发框架，用 React 的开发方式编写一次代码
 
 ### 待体验
@@ -148,27 +141,28 @@ yarn global list
 - Bracket Pair Colorizer - 彩虹括号
 - Project Manager - 多项目文件夹管理，方便切换
 
-## Network
+## For GFW
 
 - [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows)
-- [lantern](https://github.com/getlantern/download)
+  - [freess](https://github.com/max2max/freess) - 免费 ss 账号 免费 shadowsocks 账号 免费 v2ray 账号 (长期更新)
+- [lantern](https://github.com/getlantern/download) - 最新版蓝灯下载
 - [jsproxy](https://github.com/EtherDream/jsproxy) 一个基于浏览器端 JS 实现的在线代理 https://zjcqoo.github.io/
 
 ### 未使用
 
-- [freess](https://github.com/max2max/freess) 免费 ss 账号 免费 shadowsocks 账号 免费 v2ray 账号 (长期更新)
-- [Free-VPN-for-Coursera](https://github.com/Y1ran/Free-VPN-for-Coursera) 免费开源的科学上网工具
+- [Vila](https://vilavpn.com/) - 付费可用，基于 V2ray 技术
+- [Dler Cloud](https://dlercloud.org/)
 
 ## Mock
-
-> 模拟测试
 
 - [mockapi](https://www.mockapi.io/projects)
 - [json-server](https://github.com/typicode/json-server)
 - [yapi](https://github.com/YMFE/yapi)
 - [easyapi](https://www.easyapi.com/info/doc)
-- https://www.easy-mock.com/
-- https://github.com/nuysoft/Mock
+- [easy-mock](https://www.easy-mock.com/)
+
+### 开放 api
+
 - [jsonplaceholder](https://github.com/typicode/jsonplaceholder) A simple online fake REST API server https://jsonplaceholder.typicode.com
 
 ## 软件配置
@@ -184,14 +178,15 @@ yarn global list
 - [QuickLook](https://pooi.moe/QuickLook/) - 文件预览
 - [Fiddler](https://www.telerik.com/fiddler) - 调试网络，线上测试修改
 - [Postman](https://www.getpostman.com/) - api 请求，我通过 chrome apps 使用
-- [Pandoc](https://github.com/jgm/pandoc) - 强大的文件转换，用作处理 Resume
+- [Pandoc](https://github.com/jgm/pandoc) - 强大的文档格式转换，用作处理 Resume
 - [oCam](http://ohsoft.net/eng/) - 视频录制
+- [有道云笔记](https://note.youdao.com/)
+- [Navicat Premium](https://www.navicat.com.cn/products/navicat-premium) - 数据库开发工具
+- [Xmind](https://www.xmind.cn/xmind8-pro/) - 思维导图
+- [微信开发者工具](https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html) - 选择稳定版
 
 ### 待体验
 
-- Clover - 文件管理器固定展示常用文件夹
 - [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - 代码搜索
-
-## MarkDown
-
-- [is-odd](https://github.com/jonschlinkert/is-odd) , by [jonschlinkert](https://github.com/jonschlinkert)
+- [PicGo](https://github.com/Molunerfinn/PicGo) - PicGo, 图片上传
+- [Charles](https://www.charlesproxy.com/) - 抓包，支持 https

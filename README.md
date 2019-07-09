@@ -21,6 +21,7 @@
 - [AutoPiano](https://github.com/WarpPrism/AutoPiano) - 自由钢琴 🎹 AutoPiano http://www.autopiano.cn
 - [runpkg](https://github.com/FormidableLabs/runpkg) - the online package explorer https://runpkg.com/
 - [waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art http://waifu2x.udp.jp/index.zh-CN.html
+- [RMind](https://github.com/Mongkii/RMind) - 基于 React Hooks 与 flex 布局 的思维导图 https://mongkii.github.io/RMind/
 
 ### Wav to Mp3
 
@@ -181,6 +182,7 @@ yarn global list
 - [Pandoc](https://github.com/jgm/pandoc) - 强大的文档格式转换，用作处理 Resume
 - [oCam](http://ohsoft.net/eng/) - 视频录制
 - [有道云笔记](https://note.youdao.com/)
+- [网易邮箱大师](https://mail.163.com/dashi/)
 - [Navicat Premium](https://www.navicat.com.cn/products/navicat-premium) - 数据库开发工具
 - [Xmind](https://www.xmind.cn/xmind8-pro/) - 思维导图
 - [微信开发者工具](https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html) - 选择稳定版

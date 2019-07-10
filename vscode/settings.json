@@ -1,6 +1,6 @@
 {
   // 关闭自动更新
-  "update.channel": "none",
+  "update.mode": "none",
   "search.exclude": {
     "**/node_modules": true,
     "**/bower_components": true,
@@ -19,10 +19,8 @@
   "editor.foldingStrategy": "indentation",
   "editor.lineNumbers": "on",
   "editor.minimap.enabled": true,
-  "editor.formatOnSave": true, // 保存时格式化
   "editor.rulers": [120],
   "editor.matchBrackets": true, // 当选择其中一项时，将突出显示匹配的括号
-  "editor.parameterHints": true,
   "editor.quickSuggestions": {
     // 键入时自动显示建议
     "other": true,
@@ -30,6 +28,7 @@
     "strings": true
   },
   "editor.snippetSuggestions": "top",
+  "editor.formatOnSave": true, // 保存时格式化
   "files.autoSave": "afterDelay",
   // workbench
   // - 黑
@@ -86,5 +85,6 @@
   "emmet.includeLanguages": {
     "wxml": "html"
   },
+  "window.zoomLevel": 0,
   "minapp-vscode.disableAutoConfig": true
 }

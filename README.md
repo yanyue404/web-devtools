@@ -165,10 +165,15 @@ yarn global list
 ## 开放 API
 
 - [jsonplaceholder](https://github.com/typicode/jsonplaceholder) A simple online fake REST API server https://jsonplaceholder.typicode.com
+- [GitHub API v3](https://developer.github.com/v3/)
 - [cnode](https://cnodejs.org/api)
 - [douban-api-proxy](https://github.com/zce/douban-api-proxy) https://douban.uieee.com/
 - [和风天气](https://dev.heweather.com/docs/api/weather)
-- [腾讯地图](https://lbs.qq.com/product/miniapp/jssdk/)
+- [腾讯地图](https://lbs.qq.com/webservice_v1/index.html)
+
+### 更多
+
+- [Awesome_APIs](https://github.com/TonnyL/Awesome_APIs/blob/master/README-zh.md)
 
 ## 软件配置
 

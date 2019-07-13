@@ -165,6 +165,7 @@ yarn global list
 ### 开放 api
 
 - [jsonplaceholder](https://github.com/typicode/jsonplaceholder) A simple online fake REST API server https://jsonplaceholder.typicode.com
+- [cnode](https://cnodejs.org/api)
 
 ## 软件配置
 

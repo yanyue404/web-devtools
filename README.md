@@ -162,7 +162,7 @@ yarn global list
 - [easyapi](https://www.easyapi.com/info/doc)
 - [easy-mock](https://www.easy-mock.com/)
 
-### 开放 api
+## 开放 API
 
 - [jsonplaceholder](https://github.com/typicode/jsonplaceholder) A simple online fake REST API server https://jsonplaceholder.typicode.com
 - [cnode](https://cnodejs.org/api)

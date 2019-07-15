@@ -190,6 +190,7 @@ yarn global list
 - [Postman](https://www.getpostman.com/) - api 请求，我通过 chrome apps 使用
 - [Pandoc](https://github.com/jgm/pandoc) - 强大的文档格式转换，用作处理 Resume
 - [oCam](http://ohsoft.net/eng/) - 视频录制
+- [olive](https://github.com/olive-editor/olive) - 视频剪辑
 - [有道云笔记](https://note.youdao.com/)
 - [网易邮箱大师](https://mail.163.com/dashi/)
 - [Navicat Premium](https://www.navicat.com.cn/products/navicat-premium) - 数据库开发工具

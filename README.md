@@ -66,6 +66,7 @@ yarn global list
 - [nrm](https://github.com/Pana/nrm) - npm 下载源切换
 - [opener](https://github.com/domenic/opener) - 打开某个端口，固定文件
 - [taro](https://github.com/NervJS/taro) - tarojs/cli，多端统一开发框架，用 React 的开发方式编写一次代码
+- [readme-md-generator](https://github.com/kefranabg/readme-md-generator) -  CLI that generates beautiful README.md files
 
 ### 待体验
 

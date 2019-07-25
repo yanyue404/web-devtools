@@ -66,7 +66,8 @@ yarn global list
 - [nrm](https://github.com/Pana/nrm) - npm 下载源切换
 - [opener](https://github.com/domenic/opener) - 打开某个端口，固定文件
 - [taro](https://github.com/NervJS/taro) - tarojs/cli，多端统一开发框架，用 React 的开发方式编写一次代码
-- [readme-md-generator](https://github.com/kefranabg/readme-md-generator) -  CLI that generates beautiful README.md files
+- [readme-md-generator](https://github.com/kefranabg/readme-md-generator) -  生成 `README.md` 文档的 cli 工具, `readme`
+- [kill-port-process](https://github.com/hilleer/kill-port-process) - 命令行杀死被占用的端口服务 `kill-port 3000`
 
 ### 待体验
 

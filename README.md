@@ -68,6 +68,7 @@ yarn global list
 - [taro](https://github.com/NervJS/taro) - tarojs/cli，多端统一开发框架，用 React 的开发方式编写一次代码
 - [readme-md-generator](https://github.com/kefranabg/readme-md-generator) -  生成 `README.md` 文档的 cli 工具, `readme`
 - [kill-port-process](https://github.com/hilleer/kill-port-process) - 命令行杀死被占用的端口服务 `kill-port 3000`
+- [gh-pages](https://github.com/tschaub/gh-pages) - 将文件发布到GitHub上的 `gh-pages` 分支
 
 ### 待体验
 

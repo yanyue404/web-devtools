@@ -69,6 +69,7 @@ yarn global list
 - [readme-md-generator](https://github.com/kefranabg/readme-md-generator) -  生成 `README.md` 文档的 cli 工具, `readme`
 - [kill-port-process](https://github.com/hilleer/kill-port-process) - 命令行杀死被占用的端口服务 `kill-port 3000`
 - [gh-pages](https://github.com/tschaub/gh-pages) - 将文件发布到GitHub上的 `gh-pages` 分支
+- [pm2](https://github.com/Unitech/pm2) - node进程管理工具
 
 ### 待体验
 

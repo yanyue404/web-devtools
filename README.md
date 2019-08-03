@@ -22,6 +22,7 @@
 - [runpkg](https://github.com/FormidableLabs/runpkg) - the online package explorer https://runpkg.com/
 - [waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art http://waifu2x.udp.jp/index.zh-CN.html
 - [RMind](https://github.com/Mongkii/RMind) - 基于 React Hooks 与 flex 布局 的思维导图 https://mongkii.github.io/RMind/
+- [h2m](https://github.com/island205/h2m/) - Tool for converting HTML to Markdown, like html2markdown. http://island205.github.io/h2m/
 
 ### Wav to Mp3
 
@@ -66,10 +67,12 @@ yarn global list
 - [nrm](https://github.com/Pana/nrm) - npm 下载源切换
 - [opener](https://github.com/domenic/opener) - 打开某个端口，固定文件
 - [taro](https://github.com/NervJS/taro) - tarojs/cli，多端统一开发框架，用 React 的开发方式编写一次代码
-- [readme-md-generator](https://github.com/kefranabg/readme-md-generator) -  生成 `README.md` 文档的 cli 工具, `readme`
+- [readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 生成 `README.md` 文档的 cli 工具, `readme`
 - [kill-port-process](https://github.com/hilleer/kill-port-process) - 命令行杀死被占用的端口服务 `kill-port 3000`
-- [gh-pages](https://github.com/tschaub/gh-pages) - 将文件发布到GitHub上的 `gh-pages` 分支
-- [pm2](https://github.com/Unitech/pm2) - node进程管理工具
+- [gh-pages](https://github.com/tschaub/gh-pages) - 将文件发布到 GitHub 上的 `gh-pages` 分支
+- [pm2](https://github.com/Unitech/pm2) - node 进程管理工具
+- [eslint](https://github.com/eslint/eslint) - A fully pluggable tool for identifying and reporting on patterns in JavaScript https://eslint.org/docs/rules/
+- [prettier](https://github.com/prettier/prettier/) - Prettier is an opinionated code formatter. https://prettier.io
 
 ### 待体验
 

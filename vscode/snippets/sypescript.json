@@ -1,0 +1,216 @@
+{
+  "log": {
+    "prefix": "clog",
+    "body": "console.log($1)"
+  },
+  "div": {
+    "prefix": "div",
+    "body": "<div className=\"\">$1</div>"
+  },
+  "span": {
+    "prefix": "span",
+    "body": "<span className=\"\">$1</span>"
+  },
+  "response": {
+    "prefix": "resp",
+    "body": "res.data.response_data"
+  },
+  "logRes": {
+    "prefix": "logRes",
+    "body": "console.log(res.data.response_data)"
+  },
+  "aLink": {
+    "prefix": "aLink",
+    "body": "<a href=\"\" className=\"\">$1</a>"
+  },
+  "path": {
+    "prefix": "path",
+    "body": "this.props.match.path"
+  },
+  "btn": {
+    "prefix": "btn",
+    "body": "<button className=\"\"></button>"
+  },
+  "RF": {
+    "prefix": "RF",
+    "body": "<React.Fragment>$1</React.Fragment>"
+  },
+  "PureComponent": {
+    "prefix": "PC",
+    "body": "PureComponent"
+  },
+  "img": {
+    "prefix": "img",
+    "body": "<img  className=\"\"  src={}/>"
+  },
+  "w_img": {
+    "prefix": "w_img",
+    "body": "<Image className=\"img\" mode=\"widthFix\" src={${1}} />"
+  },
+  "dir": {
+    "prefix": "dir",
+    "body": "console.dir($1)"
+  },
+  "注释": {
+    "prefix": "zhu",
+    "body": "/**\n* ${1}\n* @param {*} ${intro}\n*/"
+  },
+  "arrow function": {
+    "prefix": "AF",
+    "body": "${1:componentName} = (e) => {\n}"
+  },
+  "closure": {
+    "prefix": "fcc",
+    "body": "  (function(){\n\t$1\t\n})()"
+  },
+  "api": {
+    "prefix": "api",
+    "body": "`/api/${API.$1}`"
+  },
+  "alert1": {
+    "prefix": "a1",
+    "body": "alert(1 + ' , 通过测试');"
+  },
+  "hasOwnProperty": {
+    "prefix": "hasOwnP",
+    "body": "hasOwnProperty($1)"
+  },
+  "history": {
+    "prefix": "his",
+    "body": " this.props.history.push('$1')"
+  },
+  "ipropType": {
+    "prefix": "ipropType",
+    "body": "import PropTypes from 'prop-types'"
+  },
+  "propType": {
+    "prefix": "setPropType",
+    "body": "static propTypes = {\n\t${1:PropName}: PropTypes\n}"
+  },
+  "reactRouterDomLink": {
+    "prefix": "Link",
+    "body": "import { Link } from \"react-router-dom\""
+  },
+  "reactRouterDomWithRouter": {
+    "prefix": "withRouter",
+    "body": "import { withRouter } from 'react-router-dom'"
+  },
+  "iaxios": {
+    "prefix": "iaxios",
+    "body": "import axios from 'axios'"
+  },
+  "classConstructor": {
+    "prefix": "con",
+    "body": "constructor(props) {\n\tsuper(props);\n\t$0\n}\n",
+    "description": "Adds a default constructor for the class that contains props as arguments"
+  },
+  "componentRender": {
+    "prefix": "ren",
+    "body": "render() {\n\treturn (\n\t\t<div>\n\t\t\t$0\n\t\t</div>\n\t);\n}",
+    "description": "When called, it should examine this.props and this.state and return a single child element."
+  },
+  "mapStateToProps": {
+    "prefix": "mstp",
+    "body": "mapStateToProps",
+    "description": "shorter word"
+  },
+  "View": {
+    "prefix": "tview",
+    "body": ["<View className=\"${1:className}\"></View>"]
+  },
+  "tarcs": {
+    "prefix": "tarc",
+    "body": [
+      "import Taro from '@tarojs/taro';",
+      "import { View, Text } from '@tarojs/components';",
+      "import styles from './style.scss'",
+      "",
+      "export default class ${1:Test} extends Taro.Component {",
+      "  render() {",
+      "    return (",
+      "      <View className={styles.${2:main}}>",
+      "        <Text> ${1:测试输入} </Text>",
+      "      </View>",
+      "    );",
+      "  }",
+      "}",
+      ""
+    ],
+    "description": "taro页面模板带状态"
+  },
+  "taroComponent": {
+    "prefix": "taroc",
+    "body": "import Taro, { Component } from '@tarojs/taro';\nimport { View, Text } from '@tarojs/components';\nimport './style.scss'; \nexport default class ${1:componentName} extends Component {\n\tconfig = {\n\t\tnavigationBarTitleText:'${2:componentTitle}'\n\t};\n\tcomponentWillMount() {}\n\tcomponentDidMount() {}\n\tcomponentWillUnmount() {}\n\tcomponentDidShow () { }\n\tcomponentDidHide () { }\n\trender() {\n\t\treturn <View className='index'>${2:componentTitle}</View>\n\t}\n}",
+    "description": "taro页面模板"
+  },
+  "reactComponent": {
+    "prefix": "crc",
+    "body": "import React, { Component } from 'react'\nimport './style.scss'\n\nclass ${1:componentName} extends Component {\n\trender () {\n\t\treturn (\n\t\t\t<div>\n\t\t\t\t$0\n\t\t\t</div>\n\t\t)\n\t}\n}\n\nexport default ${1:componentName}\n",
+    "description": "Creates a React component class with ES6 module system"
+  },
+  "reactClassComponentPropTypes": {
+    "prefix": "crcp",
+    "body": "import React, { Component } from 'react';\nimport PropTypes from 'prop-types';\n\nclass ${1:componentName} extends Component {\n\trender() {\n\t\treturn (\n\t\t\t<div>\n\t\t\t\t$0\n\t\t\t</div>\n\t\t);\n\t}\n}\n\n${1:componentName}.propTypes = propTypes\n\nexport default ${1:componentName};",
+    "description": "Creates a React component class with PropTypes and ES6 module system"
+  },
+  "reactJustClassComponent": {
+    "prefix": "cc",
+    "body": "class ${1:componentName} extends Component {\n\trender() {\n\t\treturn (\n\t\t\t<div>\n\t\t\t\t$0\n\t\t\t</div>\n\t\t);\n\t}\n}\n",
+    "description": "Creates a component as child component"
+  },
+  "reactStateless": {
+    "prefix": "crcf",
+    "body": "import React from 'react';\n\nconst ${1:componentName} = () => {\n\treturn (\n\t\t<div>\n\t\t\t$0\n\t\t</div>\n\t);\n};\n\nexport default ${1:componentName};",
+    "description": "Creates a stateless React component without PropTypes and ES6 module system"
+  },
+  "reactStatelessProps": {
+    "prefix": "crcfp",
+    "body": "import React from 'react';\nimport PropTypes from 'prop-types';\n\nconst ${1:componentName} = props => {\n\treturn (\n\t\t<div>\n\t\t\t\n\t\t</div>\n\t);\n};\n\n${1:componentName}.propTypes = {\n\t$0\n};\n\nexport default ${1:componentName};",
+    "description": "Creates a stateless React component with PropTypes and ES6 module system"
+  },
+  "reactReduxComponent": {
+    "prefix": "crcc",
+    "body": "import React, { Component } from 'react';\nimport { connect } from 'react-redux';\n\nfunction mapStateToProps(state) {\n\treturn {\n\n\t};\n}\n\nclass ${1:componentName} extends Component {\n\trender() {\n\t\treturn (\n\t\t\t<div>\n\t\t\t\t$0\n\t\t\t</div>\n\t\t);\n\t}\n}\n\nexport default connect(\n\tmapStateToProps,\n)(${1:componentName});",
+    "description": "Creates a React component class connected to redux"
+  },
+  "reactClassComponentWithMethods": {
+    "prefix": "crlc",
+    "body": "import React, { Component } from 'react';\nimport PropTypes from 'prop-types';\n\nclass ${1:componentName} extends Component {\n\tconstructor(props) {\n\t\tsuper(props);\n\n\t}\n\n\tcomponentWillMount() {\n\n\t}\n\n\tcomponentDidMount() {\n\n\t}\n\n\tcomponentWillReceiveProps(nextProps) {\n\n\t}\n\n\tshouldComponentUpdate(nextProps, nextState) {\n\n\t}\n\n\tcomponentWillUpdate(nextProps, nextState) {\n\n\t}\n\n\tcomponentDidUpdate(prevProps, prevState) {\n\n\t}\n\n\tcomponentWillUnmount() {\n\n\t}\n\n\trender() {\n\t\treturn (\n\t\t\t<div>\n\n\t\t\t</div>\n\t\t);\n\t}\n}\n\n${1:componentName}.propTypes = {\n\n};\n\nexport default ${1:componentName};",
+    "description": "Creates a React component class with PropTypes and all lifecycle methods and ES6 module system"
+  },
+  "componentWillMount": {
+    "prefix": "cwm",
+    "body": "\ncomponentWillMount() {\n\t$0\n}\n",
+    "description": "Invoked once, both on the client and server, immediately before the initial rendering occurs"
+  },
+  "componentDidMount": {
+    "prefix": "cdm",
+    "body": "componentDidMount() {\n\t$0\n}\n",
+    "description": "Invoked once, only on the client (not on the server), immediately after the initial rendering occurs."
+  },
+  "componentWillReceiveProps": {
+    "prefix": "cwr",
+    "body": "componentWillReceiveProps(nextProps) {\n\t$0\n}\n",
+    "description": "Invoked when a component is receiving new props. This method is not called for the initial render."
+  },
+  "shouldComponentUpdate": {
+    "prefix": "scu",
+    "body": "shouldComponentUpdate(nextProps, nextState) {\n\t$0\n}\n",
+    "description": "Invoked before rendering when new props or state are being received. "
+  },
+  "componentWillUpdate": {
+    "prefix": "cwup",
+    "body": "componentWillUpdate(nextProps, nextState) {\n\t$0\n}\n",
+    "description": "Invoked immediately before rendering when new props or state are being received."
+  },
+  "componentDidUpdate": {
+    "prefix": "cdup",
+    "body": "componentDidUpdate(prevProps, prevState) {\n\t$0\n}\n",
+    "description": "Invoked immediately after the component's updates are flushed to the DOM."
+  },
+  "componentWillUnmount": {
+    "prefix": "cwun",
+    "body": "componentWillUnmount() {\n\t$0\n}\n",
+    "description": "Invoked immediately before a component is unmounted from the DOM."
+  }
+}

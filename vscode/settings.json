@@ -1,63 +1,52 @@
 {
+  // shift+alt+左键下拉 多行游标
+  // 当选择其中一项时，将突出显示匹配的括号
+  "editor.matchBrackets": true,
   // 关闭自动更新
-  "update.mode": "none",
-  "search.exclude": {
-    "**/node_modules": true,
-    "**/bower_components": true,
-    "**/dist": true
-  },
-  // 不显示新版本的信息
-  "vsicons.dontShowNewVersionMessage": true,
-  // editor
-  "editor.tabSize": 4,
-  "editor.fontSize": 15,
-  "editor.lineHeight": 24,
+  "update.channel": "none",
+  // 配色、图标、字体以及其他外观配置项
+  "workbench.colorTheme": "Solarized Dark",
+  // "workbench.colorTheme": "Solarized Dark",
   "editor.wordWrap": "on",
   "editor.cursorStyle": "block",
   "editor.fontFamily": "Fira Code",
   "editor.fontLigatures": true,
-  "editor.foldingStrategy": "indentation",
+  "editor.fontSize": 15,
+  "editor.lineHeight": 24,
   "editor.lineNumbers": "on",
   "editor.minimap.enabled": true,
+  "files.autoSave": "afterDelay",
+  "editor.formatOnSave": true,
   "editor.rulers": [120],
-  "editor.matchBrackets": true, // 当选择其中一项时，将突出显示匹配的括号
-  "editor.quickSuggestions": {
-    // 键入时自动显示建议
-    "other": true,
-    "comments": true,
-    "strings": true
+  "emmet.includeLanguages": {
+    "vue-html": "html",
+    "javascript": "javascriptreact"
   },
   "editor.snippetSuggestions": "top",
-  "editor.formatOnSave": true, // 保存时格式化
-  "files.autoSave": "afterDelay",
-  // workbench
-  // - 黑
-  "workbench.colorTheme": "Solarized Dark",
-  // - 白
-  // "workbench.colorTheme": "Visual Studio Light",
-  "workbench.sideBar.location": "left",
-  "workbench.startupEditor": "none",
-  "workbench.iconTheme": "vscode-icons",
   // emmet
   "emmet.triggerExpansionOnTab": true,
   "emmet.syntaxProfiles": {
     "vue-html": "html",
     "javascript": "javascriptreact"
   },
-  // git start
+  "workbench.startupEditor": "none",
+  // git
   "git.ignoreMissingGitWarning": true,
-  "git.path": " D:/Environment/git/Git/cmd/git.exe",
+  "git.path": "D:/Environment/git/Git/cmd/git.exe",
   "git.autofetch": true,
   "git.confirmSync": false,
-  "git.enableSmartCommit": true,
   "window.menuBarVisibility": "default", // 自动拉取
-  // git end
   // 浏览器
   "view-in-browser.customBrowser": "chrome",
-  // dev
   "liveServer.settings.donotVerifyTags": true,
-  "liveServer.settings.donotShowInfoMsg": true,
-  // todo-tree
+  "workbench.sideBar.location": "left",
+  "workbench.iconTheme": "vscode-icons",
+  "window.zoomLevel": 0,
+  "explorer.confirmDragAndDrop": false,
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+  "vsicons.dontShowNewVersionMessage": true,
+  "sync.gist": "6ec0cfa175274df2dd12e4614a59b756",
+  "extensions.ignoreRecommendations": true,
   "todo-tree.defaultHighlight": {
     "foreground": "green",
     "type": "none"
@@ -67,24 +56,27 @@
     "FIXME": {}
   },
   "javascript.updateImportsOnFileMove.enabled": "always",
-  "sync.gist": "2adf616eb05f5a46800050fa7a024e39",
-  "liveSassCompile.settings.formats": [
-    // You can add more
-    {
-      "format": "expanded",
-      "extensionName": ".css",
-      "savePath": "/css"
+  // "view-in-browser.customBrowser": "iexplore",
+  // "view-in-browser.customBrowser": "mozilla"
+  /** Easy Sass 插件 **/
+  // "easysass.formats": [
+  //   {
+  //     "format": "nested", //  嵌套(编译格式)
+  //     "extension": ".css"
+  //   }
+  // ],
+  // "easysass.targetDir": "" // 自定义css输出文件路径
+  "stylelint.enable": true,
+  "css.validate": true,
+  "scss.validate": false,
+  "stylelint.config": {
+    "rules": {
+      "function-url-quotes": "always",
+      "indentation": 10, //缩进4位
+      "number-leading-zero": null,
+      "color-no-hex": true,
+      "unit-whitelist": ["em", "rem", "s", "%", "px", "deg"]
     }
-  ],
-  "css.fileExtensions": ["css", "scss", "js", "javascriptreact"],
-  "files.associations": {
-    "*.cjson": "jsonc",
-    "*.wxss": "css",
-    "*.wxs": "javascript"
   },
-  "emmet.includeLanguages": {
-    "wxml": "html"
-  },
-  "window.zoomLevel": 0,
-  "minapp-vscode.disableAutoConfig": true
+  "prettier.singleQuote": true
 }

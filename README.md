@@ -10,6 +10,7 @@
 - [Babel 编译](https://babeljs.io/repl)
 - [JavaScript Visualizer ](https://tylermcginnis.com/javascript-visualizer/) 可视化 **ES5** `JavaScript` 执行
 - [loupe](http://latentflip.com/loupe/) - 可视化的 javascript 实时运行,理解异步, Built by [Philip Roberts](http://github.com/latentflip)
+- [locoloader](https://www.locoloader.com/) - Download Online Videos, Music & Photos
 
 ### 正则可视化
 
@@ -204,6 +205,9 @@ yarn global list
 - [Navicat Premium](https://www.navicat.com.cn/products/navicat-premium) - 数据库开发工具
 - [Xmind](https://www.xmind.cn/xmind8-pro/) - 思维导图
 - [微信开发者工具](https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html) - 选择稳定版
+- [GetFLV](http://www.vdigger.com/index.html) - DOWNLOAD VIDEOS AND MUSIC FROM 200,000+ SITES.
+
+
 
 ### 待体验
 

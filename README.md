@@ -10,6 +10,11 @@
 - [loupe](http://latentflip.com/loupe/) - 可视化的 javascript 实时运行,理解异步, Built by [Philip Roberts](http://github.com/latentflip)
 - [savefrom](https://zh.savefrom.net/) - 免费在线 YouTube 下载器：下载 YouTube 视频、Facebook 等等！
 - [locoloader](https://www.locoloader.com/) - Download Online Videos, Music & Photos
+- [Temporary Email Address](https://temp-mail.org) - 临时邮件使用
+- [SMS Receive Free](https://smsreceivefree.com/) - 免费接收短信
+- [Temp](https://temp.pm/) - 短信息（可加密）
+- [Bitly](https://bitly.com/) - 短网址
+- [草料二维码](https://cli.im/) - 草料二维码生成器
 
 ### 正则可视化
 
@@ -177,6 +182,7 @@ yarn global list
 - [douban-api-proxy](https://github.com/zce/douban-api-proxy) https://douban.uieee.com/
 - [和风天气](https://dev.heweather.com/docs/api/weather)
 - [腾讯地图](https://lbs.qq.com/webservice_v1/index.html)
+- [Twilio API Docs](https://www.twilio.com/docs/)
 
 ### 更多
 
@@ -205,8 +211,6 @@ yarn global list
 - [Xmind](https://www.xmind.cn/xmind8-pro/) - 思维导图
 - [微信开发者工具](https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html) - 选择稳定版
 - [GetFLV](http://www.vdigger.com/index.html) - DOWNLOAD VIDEOS AND MUSIC FROM 200,000+ SITES.
-
-
 
 ### 待体验
 

@@ -1,6 +1,6 @@
 # awesome-dev-tools
 
-存放我使用的开发资源合集，Synchronize every day!
+存放我使用的開發資源合集...
 
 ## 在线使用
 
@@ -85,17 +85,16 @@ yarn global list
 
 ## Chrome 扩展
 
-- 使用 chorme 搜索
+- Google Search
   - [Chrome 同步助手](https://chrome.google.com/webstore/detail/chrome-sync-helper/gbkepcmpjglfonklehdgjnimebhnmlel) - 实现 Chrome 账号同步和扩展自动更新
   - [谷歌服务助手](https://chrome.google.com/webstore/detail/%E8%B0%B7%E6%AD%8C%E6%9C%8D%E5%8A%A1%E5%8A%A9%E6%89%8B/cgncbhnhlkbdieckbbmeppcefokppagh)
   - [谷歌访问助手](https://chrome.google.com/webstore/detail/%E8%B0%B7%E6%AD%8C%E8%AE%BF%E9%97%AE%E5%8A%A9%E6%89%8B/gocklaboggjfkolaknpbhddbaopcepfp)
-  - [谷歌上网助手](https://chrome.google.com/webstore/detail/%E8%B0%B7%E6%AD%8C%E4%B8%8A%E7%BD%91%E5%8A%A9%E6%89%8B/nonmafimegllfoonjgplbabhmgfanaka) - 暂未注册使用
+  - [谷歌上网助手](https://chrome.google.com/webstore/detail/%E8%B0%B7%E6%AD%8C%E4%B8%8A%E7%BD%91%E5%8A%A9%E6%89%8B/nonmafimegllfoonjgplbabhmgfanaka)
 - 广告拦截
   - Adblock Plus
   - 广告终结者
 - 翻译
   - Google 翻译
-  - 翰林英汉双解词典
   - 划词翻译
   - 沙拉查词-聚合词典划词翻译
 - 下载
@@ -133,26 +132,14 @@ yarn global list
   - Wappalyzer
   - PageSpeed Insights
   - Open SEO Stats
-- 待开发使用
-  - Tampermonkey
+- Tampermonkey
+  - [baiduyun](https://github.com/syhyz1990/baiduyun)
+  - [SaveFrom.net helper](https://zh.savefrom.net/1-how-to-download-youtube-video.html) - 速度最快的免费 YouTube 下载器
 
 ### 应用 apps
 
 - Postman
 - TeamViewer
-
-## Vscode 插件
-
-- [Settings Sync](https://github.com/shanalikhan/code-settings-sync) - 使用 Github GIST 在多台计算机上同步 Visual Studio 代码设置
-- [Document This](https://github.com/joelday/vscode-docthis) - JS Doc 生成
-- Live Server - 为静态和动态页面启动具有实时重新加载功能的开发本地服务器
-- [Prettier](https://github.com/prettier/prettier-vscode) - 代码格式化
-- [TODO Highlight](https://github.com/wayou/vscode-todo-highlight) - 高亮显示 TODO，FIXME 和任何关键字，注释..
-- [Todo Tree](https://github.com/Gruntfuggly/todo-tree) - 树状图显示 todo 列表
-- [Debugger for Chrome](https://github.com/Microsoft/vscode-chrome-debug) - 从 VS Code 调试在 Google Chrome 中运行的 JavaScript 代码
-- [Comment Translate](https://github.com/intellism/vscode-comment-translate) - vscode 注释翻译, 快速阅读源码
-- Bracket Pair Colorizer - 彩虹括号
-- Project Manager - 多项目文件夹管理，方便切换
 
 ## For GFW
 
@@ -160,11 +147,9 @@ yarn global list
   - [freess](https://github.com/max2max/freess) - 免费 ss 账号 免费 shadowsocks 账号 免费 v2ray 账号 (长期更新)
 - [lantern](https://github.com/getlantern/download) - 最新版蓝灯下载
 - [jsproxy](https://github.com/EtherDream/jsproxy) 一个基于浏览器端 JS 实现的在线代理 https://zjcqoo.github.io/
-
-### 未使用
-
-- [Vila](https://vilavpn.com/) - 付费可用，基于 V2ray 技术
-- [Dler Cloud](https://dlercloud.org/)
+- 未使用
+  - [Vila](https://vilavpn.com/) - 付费可用，基于 V2ray 技术
+  - [Dler Cloud](https://dlercloud.org/)
 
 ## Mock
 
@@ -200,14 +185,14 @@ yarn global list
 - [Snipaste](https://zh.snipaste.com/) - 截图+切图
 - [QuickLook](https://pooi.moe/QuickLook/) - 文件预览
 - [Fiddler](https://www.telerik.com/fiddler) - 调试网络，线上测试修改
-- [Postman](https://www.getpostman.com/) - api 请求，我通过 chrome apps 使用
+- [Postman](https://www.getpostman.com/) - api 请求，通过 chrome apps 使用
 - [Pandoc](https://github.com/jgm/pandoc) - 强大的文档格式转换，用作处理 Resume
 - [oCam](http://ohsoft.net/eng/) - 视频录制
 - [olive](https://github.com/olive-editor/olive) - 视频剪辑
 - [ArcTime](https://arctime.org/) - 字幕制作
 - [有道云笔记](https://note.youdao.com/)
 - [网易邮箱大师](https://mail.163.com/dashi/)
-- [Navicat Premium](https://www.navicat.com.cn/products/navicat-premium) - 数据库开发工具
+- [Navicat Premium](https://www.navicat.com.cn/products/navicat-premium) - 数据库合集开发工具
 - [Xmind](https://www.xmind.cn/xmind8-pro/) - 思维导图
 - [微信开发者工具](https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html) - 选择稳定版
 - [GetFLV](http://www.vdigger.com/index.html) - DOWNLOAD VIDEOS AND MUSIC FROM 200,000+ SITES.

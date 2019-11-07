@@ -124,6 +124,7 @@ yarn global list
   - Redux DevTools
   - React Developer Tools
 - 优化基础环境
+  - ezLinkPreview - 预览链接插件
   - 捕捉网页截图 - FireShot
   - OneTab
   - Holmes 书签搜索

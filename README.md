@@ -142,7 +142,7 @@ yarn global list
 
 ## 其他场景
 
-### For GFW
+**For GFW**
 
 - [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows)
   - [freess](https://github.com/max2max/freess) - 免费 ss 账号 免费 shadowsocks 账号 免费 v2ray 账号 (长期更新)
@@ -152,7 +152,7 @@ yarn global list
   - [Vila](https://vilavpn.com/) - 付费可用，基于 V2ray 技术
   - [Dler Cloud](https://dlercloud.org/)
 
-### 开放 API
+**开放 API**
 
 - [jsonplaceholder](https://github.com/typicode/jsonplaceholder) A simple online fake REST API server https://jsonplaceholder.typicode.com
 - [GitHub API v3](https://developer.github.com/v3/)
@@ -166,6 +166,6 @@ yarn global list
 
 - [Awesome_APIs](https://github.com/TonnyL/Awesome_APIs/blob/master/README-zh.md)
 
-#### 其他链接
+### 其他链接
 
 - https://github.com/sorrycc/awesome-tools

@@ -139,6 +139,7 @@ yarn global list
 - **应用 apps**
   - Postman
   - TeamViewer
+  - Gliffy 绘图工具
 
 ## 其他场景
 

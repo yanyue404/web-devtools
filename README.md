@@ -21,6 +21,7 @@
   - [Convert WAV to MP3 Online Free | Online UniConverter (Media.io)](https://www.media.io/convert/wav-to-mp3.html)
 - **github 开源**
   - [runpkg](https://github.com/FormidableLabs/runpkg) - 在线 npm 包浏览器 https://runpkg.com/
+  - [Picas](https://github.com/djyde/Picas) - Google字体生成的项目徽标  https://picas.now.sh/
   - [json-server](https://github.com/typicode/json-server) - 最佳 RESTful API Mock
   - [astexplorer](https://astexplorer.net/) - 一个用于探索各种解析器生成的 AST 的网络工具 https://astexplorer.net/
   - [JavaScript Visualizer ](https://tylermcginnis.com/javascript-visualizer/) 可视化 **ES5** `JavaScript` 执行

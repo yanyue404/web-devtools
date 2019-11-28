@@ -29,6 +29,7 @@
   - [AutoPiano](https://github.com/WarpPrism/AutoPiano) - 自由钢琴 🎹 http://www.autopiano.cn
   - [waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art http://waifu2x.udp.jp/index.zh-CN.html
   - [RMind](https://github.com/Mongkii/RMind) - 基于 React Hooks 与 flex 布局 的思维导图 https://mongkii.github.io/RMind/
+  - [resumd](https://github.com/timqian/resumd) - 使用 markdown 写简历，支持自定义主题，`html`,`pdf`,`md`导出 https://resumd.t9t.io
   - [h2m](https://github.com/island205/h2m/) - 将 HTML 转换为 Markdown 的工具 http://island205.github.io/h2m/
 - **Show My Code**
   - [carbon](https://carbon.now.sh/) 在线代码生成图片 https://carbon.now.sh/

@@ -1,6 +1,6 @@
-# awesome-dev-tools
+# awesome-tools
 
-存放我使用的開發資源合集...
+A list of resources I use
 
 ## 在线使用
 

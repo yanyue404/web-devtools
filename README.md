@@ -19,6 +19,8 @@ A list of resources I use
 - [**git-tips**](https://github.com/521xueweihan/git-tips) - Git 的奇技淫巧
 - [**project-guidelines**](https://github.com/elsewhencode/project-guidelines/blob/master/README-zh.md) - JavaScript 工程项目规范
 
+**[⬆ 返回顶部](#目录)**
+
 ## 在线使用
 
 **Dev 相关**
@@ -30,8 +32,6 @@ A list of resources I use
 - [**regexper**](https://regexper.com/) / [**regulex**](https://jex.im/regulex/) - 正则可视化
 - [**tinypng**](https://tinypng.com/) / [**squoosh**](https://squoosh.app) - 图片压缩
 - [**Package Diff**](https://diff.intrinsic.com/)，比较 npm 包两个版本直接的区别
-
-**[⬆ 返回顶部](#目录)**
 
 **GitHub 开源**
 
@@ -161,6 +161,8 @@ yarn global list
 - Postman
 - TeamViewer
 - Gliffy 绘图工具
+
+**[⬆ 返回顶部](#目录)**
 
 ## Windows 软件
 

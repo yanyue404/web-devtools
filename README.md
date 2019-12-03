@@ -4,23 +4,34 @@ A list of resources I use
 
 ## 目录
 
+- [起步](#起步)
 - [在线使用](#在线使用)
 - [脚手架以及工具包](#脚手架以及工具包)
 - [Chrome 扩展](#Chrome-扩展)
 - [Windows 软件](#Windows-软件)
 - [其他 Repo](#其他-Repo)
 
+## 起步
+
+- [**chinese-copywriting-guidelines**](https://github.com/sparanoid/chinese-copywriting-guidelines) - 中文文案排版指北
+- [**document-style-guide**](https://github.com/ruanyf/document-style-guide) - 中文技术文档的写作规范，by [ruanyf](https://github.com/ruanyf)
+- [**How-To-Ask-Questions-The-Smart-Way**](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md) - 提问的智慧
+- [**git-tips**](https://github.com/521xueweihan/git-tips) - Git 的奇技淫巧
+- [**project-guidelines**](https://github.com/elsewhencode/project-guidelines/blob/master/README-zh.md) - JavaScript 工程项目规范
+
 ## 在线使用
 
 **Dev 相关**
 
-- 编译器 [**Babel**](https://babeljs.io/repl) / [**TypeScript**](https://www.typescriptlang.org/play/index.html) / [**Sass**](https://www.sassmeister.com/)
+- [**Babel**](https://babeljs.io/repl) / [**TypeScript**](https://www.typescriptlang.org/play/index.html) / [**Sass**](https://www.sassmeister.com/) - 编译器
 - [**netlify**](https://www.netlify.com/) - 静态网站托管服务
 - [**codesandbox**](https://codesandbox.io/u/xiaoyueyue165) - vue && react 仓库，借助官方脚手架构建
 - [**carbon**](https://carbon.now.sh/) 在线代码生成图片 https://carbon.now.sh/
 - [**regexper**](https://regexper.com/) / [**regulex**](https://jex.im/regulex/) - 正则可视化
 - [**tinypng**](https://tinypng.com/) / [**squoosh**](https://squoosh.app) - 图片压缩
 - [**Package Diff**](https://diff.intrinsic.com/)，比较 npm 包两个版本直接的区别
+
+**[⬆ 返回顶部](#目录)**
 
 **GitHub 开源**
 
@@ -64,6 +75,8 @@ A list of resources I use
 - [**草料二维码**](https://cli.im/) - 草料二维码生成器
 - [**Awesome_APIs**](https://github.com/TonnyL/Awesome_APIs/blob/master/README-zh.md)
 
+**[⬆ 返回顶部](#目录)**
+
 ## 脚手架以及工具包
 
 ```bash
@@ -90,6 +103,8 @@ yarn global list
 - [**eslint**](https://github.com/eslint/eslint) - A fully pluggable tool for identifying and reporting on patterns in JavaScript https://eslint.org/docs/rules/
 - [**prettier**](https://github.com/prettier/prettier/) - 漂亮的代码格式化 https://prettier.io
 - [**debug**](https://github.com/visionmedia/debug) - 打印调试信息
+
+**[⬆ 返回顶部](#目录)**
 
 ## Chrome 扩展
 
@@ -150,7 +165,7 @@ yarn global list
 ## Windows 软件
 
 - [**FiraCode**](https://github.com/tonsky/FiraCode) Vscode 设置使用的字体
-- node 包管理 [**npm**](https://github.com/npm/cli) + [**yarn**](https://yarnpkg.com/zh-Hant)
+- [**npm**](https://github.com/npm/cli) + [**yarn**](https://yarnpkg.com/zh-Hant) - node 包管理
 - [**ConEmu**](https://github.com/Maximus5/ConEmu/) - Terminal 终端
 - [**Listary**](https://www.listary.com/) - 快速检索文件
 - [**ScreenToGif**](https://www.screentogif.com/) - gif 动画录制
@@ -169,6 +184,16 @@ yarn global list
 - [**GetFLV**](http://www.vdigger.com/index.html) - 视频资源下载
 - [**Pandoc**](https://github.com/jgm/pandoc) - 强大的文档格式转换
 
+**[⬆ 返回顶部](#目录)**
+
 ## 其他 Repo
 
-- [sorrycc/awesome-tools](https://github.com/sorrycc/awesome-tools)
+- [awesome-tools](https://github.com/sorrycc/awesome-tools) - Awesome tools I used , by [sorrycc](https://github.com/sorrycc)
+- [free-books](https://github.com/ruanyf/free-books) - 互联网上的免费书籍，by [ruanyf](https://github.com/ruanyf)
+- [the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - 自学是门手艺，by 李笑来
+
+**[⬆ 返回顶部](#目录)**
+
+## License
+
+MIT

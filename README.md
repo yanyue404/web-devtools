@@ -23,6 +23,10 @@ A list of resources I use
 
 ## 在线使用
 
+**Bible**
+
+- [**有声圣经**](https://sj.fuyin.tv/?ref=weixin_menu)
+
 **Dev 相关**
 
 - [**Babel**](https://babeljs.io/repl) / [**TypeScript**](https://www.typescriptlang.org/play/index.html) / [**Sass**](https://www.sassmeister.com/) - 编译器

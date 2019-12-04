@@ -197,6 +197,9 @@ yarn global list
 - [awesome-tools](https://github.com/sorrycc/awesome-tools) - Awesome tools I used , by [sorrycc](https://github.com/sorrycc)
 - [free-books](https://github.com/ruanyf/free-books) - 互联网上的免费书籍，by [ruanyf](https://github.com/ruanyf)
 - [the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - 自学是门手艺，by 李笑来
+- [weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布，by [ruanyf](https://github.com/ruanyf)
+- [articles](https://github.com/ruanyf/articles)- personal articles，by [ruanyf](https://github.com/ruanyf)
+- [reading-list](https://github.com/ruanyf/reading-list) - Some books I read，by [ruanyf](https://github.com/ruanyf)
 
 **[⬆ 返回顶部](#目录)**
 

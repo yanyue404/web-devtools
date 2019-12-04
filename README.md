@@ -200,6 +200,7 @@ yarn global list
 - [weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布，by [ruanyf](https://github.com/ruanyf)
 - [articles](https://github.com/ruanyf/articles)- personal articles，by [ruanyf](https://github.com/ruanyf)
 - [reading-list](https://github.com/ruanyf/reading-list) - Some books I read，by [ruanyf](https://github.com/ruanyf)
+- [weekly](https://github.com/dt-fe/weekly) - 前端精读周刊
 
 **[⬆ 返回顶部](#目录)**
 

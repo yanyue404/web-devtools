@@ -33,7 +33,7 @@ A list of resources I use
 - [**netlify**](https://www.netlify.com/) - 静态网站托管服务
 - [**codesandbox**](https://codesandbox.io/u/xiaoyueyue165) - vue && react 仓库，借助官方脚手架构建
 - [**carbon**](https://carbon.now.sh/) 在线代码生成图片 https://carbon.now.sh/
-- [**regexper**](https://regexper.com/) / [**regulex**](https://jex.im/regulex/) - 正则可视化
+- [**regulex**](https://jex.im/regulex/) - 正则可视化
 - [**tinypng**](https://tinypng.com/) / [**squoosh**](https://squoosh.app) - 图片压缩
 - [**Package Diff**](https://diff.intrinsic.com/)，比较 npm 包两个版本直接的区别
 

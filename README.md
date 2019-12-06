@@ -19,6 +19,7 @@ A list of resources I use
 - [**git-tips**](https://github.com/521xueweihan/git-tips) - Git 的奇技淫巧
 - [**project-guidelines**](https://github.com/elsewhencode/project-guidelines/blob/master/README-zh.md) - JavaScript 工程项目规范
 - [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.chinese.md) - 最大的Node.js最佳实践列表
+- [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices/blob/master/readme-zh-CN.md) - 全面而详尽的JavaScript和Node.js测试最佳实践
 
 **[⬆ 返回顶部](#目录)**
 

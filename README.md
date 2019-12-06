@@ -18,6 +18,7 @@ A list of resources I use
 - [**How-To-Ask-Questions-The-Smart-Way**](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md) - 提问的智慧
 - [**git-tips**](https://github.com/521xueweihan/git-tips) - Git 的奇技淫巧
 - [**project-guidelines**](https://github.com/elsewhencode/project-guidelines/blob/master/README-zh.md) - JavaScript 工程项目规范
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.chinese.md) - 最大的Node.js最佳实践列表
 
 **[⬆ 返回顶部](#目录)**
 

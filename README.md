@@ -19,8 +19,8 @@ A list of resources I use
 - [**How-To-Ask-Questions-The-Smart-Way**](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md) - 提问的智慧
 - [**git-tips**](https://github.com/521xueweihan/git-tips) - Git 的奇技淫巧
 - [**project-guidelines**](https://github.com/elsewhencode/project-guidelines/blob/master/README-zh.md) - JavaScript 工程项目规范
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.chinese.md) - 最大的 Node.js 最佳实践列表
-- [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices/blob/master/readme-zh-CN.md) - 全面而详尽的 JavaScript 和 Node.js 测试最佳实践
+- [**nodebestpractices**](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.chinese.md) - 最大的 Node.js 最佳实践列表
+- [**javascript-testing-best-practices**](https://github.com/goldbergyoni/javascript-testing-best-practices/blob/master/readme-zh-CN.md) - 全面而详尽的 JavaScript 和 Node.js 测试最佳实践
 
 **[⬆ 返回顶部](#目录)**
 
@@ -57,6 +57,7 @@ A list of resources I use
 - [**resumd**](https://github.com/timqian/resumd) - 使用 markdown 写简历，支持自定义主题，`html`,`pdf`,`md`导出 https://resumd.t9t.io
 - [**h2m**](https://github.com/island205/h2m/) - 将 HTML 转换为 Markdown 的工具 http://island205.github.io/h2m/
 - [**WAV to MP3 -- Bear Audio online tool**](https://www.bearaudiotool.com/wav-to-mp3)
+- [**Smalpdf**](https://smallpdf.com/cn) - 简单好用的线上 PDF 工具
 
 **网络**
 
@@ -173,6 +174,7 @@ yarn global list
 
 ## Windows 软件
 
+- [**eyefoo**](http://eyefoo.com/) / [**f.lux**](https://justgetflux.com/) / [**Sunset Screen**](https://www.skytopia.com/software/sunsetscreen/)- 保护眼睛
 - [**FiraCode**](https://github.com/tonsky/FiraCode) Vscode 设置使用的字体
 - [**npm**](https://github.com/npm/cli) + [**yarn**](https://yarnpkg.com/zh-Hant) - node 包管理
 - [**ConEmu**](https://github.com/Maximus5/ConEmu/) - Terminal 终端
@@ -205,12 +207,12 @@ yarn global list
 - YouTube
 - 端传媒 - 新闻
 - Chrome
-- [Inoreader](https://play.google.com/store/apps/details?id=com.innologica.inoreader&hl=zh_TW) - RSS 和新闻阅读器
+- [**Inoreader**](https://play.google.com/store/apps/details?id=com.innologica.inoreader&hl=zh_TW) - RSS 和新闻阅读器
 - Google 翻译
 - Dir - 垃圾清理
 - OpenHub - GitHub 客户端
 - Snapseed -美化图片
-- 微读圣经 + [圣经](https://play.google.com/store/apps/details?id=com.sirma.mobile.bible.android&hl=zh_TW)
+- 微读圣经 + [**圣经**](https://play.google.com/store/apps/details?id=com.sirma.mobile.bible.android&hl=zh_TW)
 - 维基百科
 - MX Player - 视频播放器
 - VLC for Android
@@ -222,6 +224,9 @@ yarn global list
 ## 其他 Repo
 
 - [awesome-tools](https://github.com/sorrycc/awesome-tools) - Awesome tools I used , by [sorrycc](https://github.com/sorrycc)
+- [my-development-tools](https://github.com/adoyle-h/my-development-tools) - [我的开发工具箱](https://adoyle.me/my-development-tools/)
+- [Soft-Tools](https://github.com/skyseraph/Soft-Tools) - Awesome Soft Tools ~~
+- [awesome-mac](https://github.com/jaywcjlove/awesome-mac) - 收各种类别的高级软件 g https://git.io/macx
 - [free-books](https://github.com/ruanyf/free-books) - 互联网上的免费书籍，by [ruanyf](https://github.com/ruanyf)
 - [the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - 自学是门手艺，by 李笑来
 - [weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布，by [ruanyf](https://github.com/ruanyf)

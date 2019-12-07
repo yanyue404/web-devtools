@@ -9,6 +9,7 @@ A list of resources I use
 - [脚手架以及工具包](#脚手架以及工具包)
 - [Chrome 扩展](#Chrome-扩展)
 - [Windows 软件](#Windows-软件)
+- [Android 软件](#Android-软件)
 - [其他 Repo](#其他-Repo)
 
 ## 起步
@@ -18,8 +19,8 @@ A list of resources I use
 - [**How-To-Ask-Questions-The-Smart-Way**](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md) - 提问的智慧
 - [**git-tips**](https://github.com/521xueweihan/git-tips) - Git 的奇技淫巧
 - [**project-guidelines**](https://github.com/elsewhencode/project-guidelines/blob/master/README-zh.md) - JavaScript 工程项目规范
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.chinese.md) - 最大的Node.js最佳实践列表
-- [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices/blob/master/readme-zh-CN.md) - 全面而详尽的JavaScript和Node.js测试最佳实践
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.chinese.md) - 最大的 Node.js 最佳实践列表
+- [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices/blob/master/readme-zh-CN.md) - 全面而详尽的 JavaScript 和 Node.js 测试最佳实践
 
 **[⬆ 返回顶部](#目录)**
 
@@ -191,6 +192,30 @@ yarn global list
 - [**微信开发者工具**](https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html) - 选择稳定版
 - [**GetFLV**](http://www.vdigger.com/index.html) - 视频资源下载
 - [**Pandoc**](https://github.com/jgm/pandoc) - 强大的文档格式转换
+
+**[⬆ 返回顶部](#目录)**
+
+## Android 软件
+
+- Tim
+- 网易邮箱大师 - 收 gmail 邮件
+- 有道云笔记
+- Google play 商店
+- Twitter
+- YouTube
+- 端传媒 - 新闻
+- Chrome
+- [Inoreader](https://play.google.com/store/apps/details?id=com.innologica.inoreader&hl=zh_TW) - RSS 和新闻阅读器
+- Google 翻译
+- Dir - 垃圾清理
+- OpenHub - GitHub 客户端
+- Snapseed -美化图片
+- 微读圣经 + [圣经](https://play.google.com/store/apps/details?id=com.sirma.mobile.bible.android&hl=zh_TW)
+- 维基百科
+- MX Player - 视频播放器
+- VLC for Android
+- OfficeSuite + PDF Editor - 查看，编辑，创建，Word，Excel 和 PowerPoint 文档
+- ReadEra - pdf, epub, word 电子书
 
 **[⬆ 返回顶部](#目录)**
 

@@ -37,8 +37,15 @@ A list of resources I use
 - [**codesandbox**](https://codesandbox.io/u/xiaoyueyue165) - vue && react 仓库，借助官方脚手架构建
 - [**carbon**](https://carbon.now.sh/) 在线代码生成图片 https://carbon.now.sh/
 - [**regulex**](https://jex.im/regulex/) - 正则可视化
+- [**regex101**](https://regex101.com/) - 正则表达式测试
 - [**tinypng**](https://tinypng.com/) / [**squoosh**](https://squoosh.app) - 图片压缩
 - [**Package Diff**](https://diff.intrinsic.com/)，比较 npm 包两个版本直接的区别
+- [**remove bg**](https://www.remove.bg/zh/upload) - 为上传的图片消除背景
+- [**Material icons**](https://material.io/resources/icons/?style=baseline) - material 图标
+- [**grabient**](https://www.grabient.com/) - 生成漂亮的 CSS 渐变
+- [**animista**](https://animista.net/) - 在线生成 CSS 动画
+- [**easings**](https://easings.net/) - 缓动函数速查表
+- [**visualgo**](https://visualgo.net/zh/) - 数据结构，算法可视化
 
 **GitHub 开源**
 
@@ -226,6 +233,7 @@ yarn global list
 - [awesome-tools](https://github.com/sorrycc/awesome-tools) - Awesome tools I used , by [sorrycc](https://github.com/sorrycc)
 - [my-development-tools](https://github.com/adoyle-h/my-development-tools) - [我的开发工具箱](https://adoyle.me/my-development-tools/)
 - [Soft-Tools](https://github.com/skyseraph/Soft-Tools) - Awesome Soft Tools ~~
+- [useful-tools](https://github.com/shenzekun/useful-tools) - 🔨 一些有用的工具网站
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac) - 收各种类别的高级软件 g https://git.io/macx
 - [free-books](https://github.com/ruanyf/free-books) - 互联网上的免费书籍，by [ruanyf](https://github.com/ruanyf)
 - [the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - 自学是门手艺，by 李笑来

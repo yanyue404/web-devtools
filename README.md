@@ -26,9 +26,10 @@ A list of resources I use
 
 ## 在线使用
 
-**Bible**
+**常用**
 
 - [**有声圣经**](https://sj.fuyin.tv/?ref=weixin_menu)
+- [**HTML2MD**](https://tool.lu/markdown/) - Convert HTML to Markdown.
 
 **Dev 相关**
 
@@ -130,6 +131,7 @@ yarn global list
 - Adblock Plus - 免费的广告拦截器
 - ezLinkPreview - 预览网页
 - 扩展管理器(Extension Manager)
+- 翻译 Google 翻译 / 划词翻译 / 彩云小译
 - 捕捉网页截图 - FireShot
 - 云盘万能钥匙
 - OneTab
@@ -137,7 +139,6 @@ yarn global list
 - JSONView
 - Wappalyzer - 查看网站所用技术栈
 - PageSpeed Insights
-- 翻译 Google 翻译 / 划词翻译 / 彩云小译
 
 **下载**
 
@@ -201,6 +202,7 @@ yarn global list
 - [**微信开发者工具**](https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html) - 选择稳定版
 - [**GetFLV**](http://www.vdigger.com/index.html) - 视频资源下载
 - [**Pandoc**](https://github.com/jgm/pandoc) - 强大的文档格式转换
+- [**7ZIP**](https://www.7-zip.org/) - 工具压缩工具（逃离 2345）
 
 **[⬆ 返回顶部](#目录)**
 

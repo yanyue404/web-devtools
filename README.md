@@ -84,6 +84,7 @@ A list of resources I use
 
 **其他**
 
+- [**彩云小译**](https://fanyi.caiyunapp.com/#/web) - [小译同传](https://www.caiyunapp.com/interpretation/)
 - [**Temporary Email Address**](https://temp-mail.org) - 临时邮件使用
 - [**SMS Receive Free**](https://smsreceivefree.com/) - 免费接收短信
 - [**Temp**](https://temp.pm/) - 短信息（可加密）

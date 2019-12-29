@@ -81,6 +81,7 @@ A list of resources I use
 - [**douban-api-proxy**](https://github.com/zce/douban-api-proxy) https://douban.uieee.com/
 - [**和风天气**](https://dev.heweather.com/docs/api/weather)
 - [**Twilio API Docs**](https://www.twilio.com/docs/)
+- [**paperplane**](https://docs.paperplane.app/) High quality HTML to PDF conversion API
 
 **其他**
 

@@ -121,6 +121,7 @@ yarn global list
 - [**eslint**](https://github.com/eslint/eslint) - A fully pluggable tool for identifying and reporting on patterns in JavaScript https://eslint.org/docs/rules/
 - [**prettier**](https://github.com/prettier/prettier/) - 漂亮的代码格式化 https://prettier.io
 - [**debug**](https://github.com/visionmedia/debug) - 打印调试信息
+- [**object.omit**](https://github.com/jonschlinkert/object.omit) - 返回忽略 key 的对象副本
 
 **[⬆ 返回顶部](#目录)**
 

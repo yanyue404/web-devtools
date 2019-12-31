@@ -110,7 +110,8 @@ yarn global list
 - [**create-react-app**](https://github.com/facebook/create-react-app) - react 官方脚手架
 - [**vue-cli**](https://github.com/vuejs/vue-cli) - vue 命令行工具,项目脚手架
 - [**taro**](https://github.com/NervJS/taro) - tarojs/cli，多端统一开发框架，类 React 语法编写
-  **工具包**
+
+**工具包**
 - [**rimraf**](https://github.com/isaacs/rimraf) - 删除文件 `rimraf node_modules`
 - [**kill-port-process**](https://github.com/hilleer/kill-port-process) - 命令行杀死被占用的端口服务 `kill-port 3000`
 - [**pm2**](https://github.com/Unitech/pm2) - node 进程管理工具
@@ -122,6 +123,7 @@ yarn global list
 - [**prettier**](https://github.com/prettier/prettier/) - 漂亮的代码格式化 https://prettier.io
 - [**debug**](https://github.com/visionmedia/debug) - 打印调试信息
 - [**object.omit**](https://github.com/jonschlinkert/object.omit) - 返回忽略 key 的对象副本
+- [**download**](https://github.com/rndme/download) - 使用客户端javascript下载文件
 
 **[⬆ 返回顶部](#目录)**
 

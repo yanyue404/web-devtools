@@ -124,6 +124,7 @@ yarn global list
 - [**debug**](https://github.com/visionmedia/debug) - 打印调试信息
 - [**object.omit**](https://github.com/jonschlinkert/object.omit) - 返回忽略 key 的对象副本
 - [**download**](https://github.com/rndme/download) - 使用客户端javascript下载文件
+- [**markdown-table**](https://github.com/wooorm/markdown-table) - node.js 生成 markdown table 表
 
 **[⬆ 返回顶部](#目录)**
 

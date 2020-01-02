@@ -155,6 +155,7 @@ yarn global list
 
 **Github 相关**
 
+- [**GayHub**](https://github.com/jawil/GayHub) - 文件目录树
 - Octotree + Sourcegraph + [**OctoLinker**](https://github.com/OctoLinker/OctoLinker) - 查看代码
 - [**npmhub**](https://github.com/npmhub/npmhub) - 显示 **Repo** 的 npm 依赖项
 - [**Enhanced GitHub**](https://github.com/softvar/enhanced-github) - 显示 **Repo**大小，每个文件的大小，下载链接和复制文件内容的选项

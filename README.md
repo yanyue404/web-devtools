@@ -240,6 +240,7 @@ yarn global list
 ## 其他 Repo
 
 - [awesome-tools](https://github.com/sorrycc/awesome-tools) - Awesome tools I used , by [sorrycc](https://github.com/sorrycc)
+- [awesome-books](https://github.com/guanpengchn/awesome-books) - 📚 开发者推荐阅读的书籍
 - [my-development-tools](https://github.com/adoyle-h/my-development-tools) - [我的开发工具箱](https://adoyle.me/my-development-tools/)
 - [Soft-Tools](https://github.com/skyseraph/Soft-Tools) - Awesome Soft Tools ~~
 - [useful-tools](https://github.com/shenzekun/useful-tools) - 🔨 一些有用的工具网站

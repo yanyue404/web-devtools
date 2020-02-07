@@ -132,7 +132,7 @@ yarn global list
 
 **优化基础环境**
 
-- 谷歌访问助手 - Google Search
+- [**谷歌访问助手**](https://github.com/haotian-wang/google-access-helper) - Google Search
 - SetupVPN - 网络应急 VPN
 - Adblock Plus - 免费的广告拦截器
 - ezLinkPreview - 预览网页

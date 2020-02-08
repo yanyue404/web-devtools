@@ -134,6 +134,7 @@ yarn global list
 
 - [**谷歌访问助手**](https://github.com/haotian-wang/google-access-helper) - Google Search
 - SetupVPN - 网络应急 VPN
+- [**Vimium**](https://github.com/philc/vimium) - 黑客的浏览器
 - Adblock Plus - 免费的广告拦截器
 - ezLinkPreview - 预览网页
 - 扩展管理器(Extension Manager)

@@ -5,6 +5,7 @@ A list of resources I use
 ## 目录
 
 - [起步](#起步)
+- [網路自由](#網路自由)
 - [在线使用](#在线使用)
 - [脚手架以及工具包](#脚手架以及工具包)
 - [Chrome 扩展](#Chrome-扩展)
@@ -21,6 +22,30 @@ A list of resources I use
 - [**project-guidelines**](https://github.com/elsewhencode/project-guidelines/blob/master/README-zh.md) - JavaScript 工程项目规范
 - [**nodebestpractices**](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.chinese.md) - 最大的 Node.js 最佳实践列表
 - [**javascript-testing-best-practices**](https://github.com/goldbergyoni/javascript-testing-best-practices/blob/master/readme-zh-CN.md) - 全面而详尽的 JavaScript 和 Node.js 测试最佳实践
+
+**[⬆ 返回顶部](#目录)**
+
+
+## 網路自由
+
+**软件**
+
+- [**lantern**](https://github.com/getlantern/download) - 最新版蓝灯下载
+- [**shadowsocks-windows**](https://github.com/shadowsocks/shadowsocks-windows) + [**freess**](https://github.com/max2max/freess) (免费账号)
+- [**google-access-helper**](https://github.com/haotian-wang/google-access-helper) - 谷歌访问助手
+
+**YouTube**
+
+- [陈秋实](https://www.youtube.com/channel/UCv361SF6FKznoGPKEFG9Yhw)
+- [公子時評](https://www.youtube.com/channel/UCrGSFNEBmCN0rqhATZels2Q)
+- [睿眼看世界](https://www.youtube.com/channel/UCcWBxfaO69GPOFHSArNET2Q)
+- [老雷](https://www.youtube.com/channel/UCT3YvT4kdEiJ3up3PINhyQQ)
+- [无名的小雷](https://www.youtube.com/channel/UCcBcUj082kc6z_7nAt1PuRQ)
+- 館長
+
+**移民**
+
+- [**OurCoders**](https://ourcoders.com/)
 
 **[⬆ 返回顶部](#目录)**
 
@@ -66,12 +91,6 @@ A list of resources I use
 - [**h2m**](https://github.com/island205/h2m/) - 将 HTML 转换为 Markdown 的工具 http://island205.github.io/h2m/
 - [**WAV to MP3 -- Bear Audio online tool**](https://www.bearaudiotool.com/wav-to-mp3)
 - [**Smalpdf**](https://smallpdf.com/cn) - 简单好用的线上 PDF 工具
-
-**网络**
-
-- [**lantern**](https://github.com/getlantern/download) - 最新版蓝灯下载
-- [**shadowsocks-windows**](https://github.com/shadowsocks/shadowsocks-windows) + [**freess**](https://github.com/max2max/freess) (免费账号)
-- [**jsproxy**](https://github.com/EtherDream/jsproxy)
 
 **开放 API**
 

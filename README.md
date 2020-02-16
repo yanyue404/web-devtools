@@ -154,7 +154,7 @@ yarn global list
 
 - [**谷歌访问助手**](https://github.com/haotian-wang/google-access-helper) - Google Search
 - SetupVPN - 网络应急 VPN
-- [**Vimium**](https://github.com/philc/vimium) - 黑客的浏览器
+- [**Vimium**](https://github.com/philc/vimium) - 脱离鼠标操控浏览器
 - Adblock Plus - 免费的广告拦截器
 - ezLinkPreview - 预览网页
 - 扩展管理器(Extension Manager)
@@ -162,7 +162,7 @@ yarn global list
 - 捕捉网页截图 - FireShot
 - 云盘万能钥匙
 - OneTab
-- Holmes - 书签搜索
+- <del>Holmes - 书签搜索</del>
 - JSONView
 - Wappalyzer - 查看网站所用技术栈
 - PageSpeed Insights

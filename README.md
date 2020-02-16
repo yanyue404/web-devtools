@@ -55,7 +55,7 @@ A list of resources I use
 
 - [**有声圣经**](https://sj.fuyin.tv/?ref=weixin_menu)
 - [**HTML2MD**](https://tool.lu/markdown/) - Convert HTML to Markdown.
-
+- [**DNS 查询**](http://tool.chinaz.com/dns)
 **Dev 相关**
 
 - [**Babel**](https://babeljs.io/repl) / [**TypeScript**](https://www.typescriptlang.org/play/index.html) / [**Sass**](https://www.sassmeister.com/) - 编译器

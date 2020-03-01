@@ -169,6 +169,7 @@ yarn global list
 
 **下载**
 
+- Video DownloadHelper
 - Image Downloader
 - Flash Video Downloader - 超级强大的下载工具
 - Video Downloader professional
@@ -197,8 +198,8 @@ yarn global list
 - 有道云笔记插件
 - [**Tampermonkey**](https://greasyfork.org/zh-TW)
   - [**SaveFrom.net helper**](https://zh.savefrom.net/1-how-to-download-youtube-video.html) - 速度最快的免费 YouTube 下载器
-  - 网页限制解除
-  - 百度网盘直链下载助手
+  - [**网页限制解除**](https://greasyfork.org/zh-TW/scripts/28497-remove-web-limits-modified) - 通殺大部分網站,可以解除禁止復制、剪切、選擇文本、右鍵菜單的限制
+  - [**本地 YouTube 下載器**](https://greasyfork.org/zh-TW/scripts/369400-local-youtube-downloader) - 下载视频与音乐
 
 **应用 apps**
 

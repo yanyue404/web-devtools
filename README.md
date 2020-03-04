@@ -31,7 +31,9 @@ A list of resources I use
 **软件**
 
 - [**lantern**](https://github.com/getlantern/download) - 最新版蓝灯下载
-- [**shadowsocks-windows**](https://github.com/shadowsocks/shadowsocks-windows) + [**freess**](https://github.com/max2max/freess) (免费账号)
+- [**shadowsocks-windows**](https://github.com/shadowsocks/shadowsocks-windows) 
+  + [**freess**](https://github.com/max2max/freess) (免费账号)
+  + [免费上网账号](https://free-ss.site/)
 - [**google-access-helper**](https://github.com/haotian-wang/google-access-helper) - 谷歌访问助手
 
 **YouTube**
@@ -41,7 +43,6 @@ A list of resources I use
 - [睿眼看世界](https://www.youtube.com/channel/UCcWBxfaO69GPOFHSArNET2Q)
 - [老雷](https://www.youtube.com/channel/UCT3YvT4kdEiJ3up3PINhyQQ)
 - [无名的小雷](https://www.youtube.com/channel/UCcBcUj082kc6z_7nAt1PuRQ)
-- 館長
 
 **移民**
 
@@ -167,6 +168,12 @@ yarn global list
 - Wappalyzer - 查看网站所用技术栈
 - PageSpeed Insights
 
+**Youtube**
+
+- Looper for YouTube - 自动重播
+- YouTube™双字幕
+- 油猴脚本 - 本地 YouTube 下載器
+
 **下载**
 
 - Video DownloadHelper
@@ -229,7 +236,6 @@ yarn global list
 - [**Navicat Premium**](https://www.navicat.com.cn/products/navicat-premium) - 数据库合集开发工具
 - [**Xmind**](https://www.xmind.cn/xmind8-pro/) - 思维导图
 - [**微信开发者工具**](https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html) - 选择稳定版
-- [**GetFLV**](http://www.vdigger.com/index.html) - 视频资源下载
 - [**Pandoc**](https://github.com/jgm/pandoc) - 强大的文档格式转换
 - [**7ZIP**](https://www.7-zip.org/) - 工具压缩工具（逃离 2345）
 

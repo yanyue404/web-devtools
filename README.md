@@ -6,7 +6,8 @@ A list of resources I use
 
 - [起步](#起步)
 - [網路自由](#網路自由)
-- [在线使用](#在线使用)
+- [書籍](#書籍)
+- [在線使用](#在線使用)
 - [脚手架以及工具包](#脚手架以及工具包)
 - [Chrome 扩展](#Chrome-扩展)
 - [Windows 软件](#Windows-软件)
@@ -22,6 +23,12 @@ A list of resources I use
 - [**project-guidelines**](https://github.com/elsewhencode/project-guidelines/blob/master/README-zh.md) - JavaScript 工程项目规范
 - [**nodebestpractices**](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.chinese.md) - 最大的 Node.js 最佳实践列表
 - [**javascript-testing-best-practices**](https://github.com/goldbergyoni/javascript-testing-best-practices/blob/master/readme-zh-CN.md) - 全面而详尽的 JavaScript 和 Node.js 测试最佳实践
+
+**[⬆ 返回顶部](#目录)**
+
+## 書籍
+
+- [free-books](https://github.com/ruanyf/free-books) - 互联网上的免费书籍，by [ruanyf](https://github.com/ruanyf)
 
 **[⬆ 返回顶部](#目录)**
 
@@ -50,7 +57,7 @@ A list of resources I use
 
 **[⬆ 返回顶部](#目录)**
 
-## 在线使用
+## 在線使用
 
 **常用**
 
@@ -269,12 +276,10 @@ yarn global list
 ## 其他 Repo
 
 - [awesome-tools](https://github.com/sorrycc/awesome-tools) - Awesome tools I used , by [sorrycc](https://github.com/sorrycc)
-- [awesome-books](https://github.com/guanpengchn/awesome-books) - 📚 开发者推荐阅读的书籍
 - [my-development-tools](https://github.com/adoyle-h/my-development-tools) - [我的开发工具箱](https://adoyle.me/my-development-tools/)
 - [Soft-Tools](https://github.com/skyseraph/Soft-Tools) - Awesome Soft Tools ~~
 - [useful-tools](https://github.com/shenzekun/useful-tools) - 🔨 一些有用的工具网站
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac) - 收各种类别的高级软件 g https://git.io/macx
-- [free-books](https://github.com/ruanyf/free-books) - 互联网上的免费书籍，by [ruanyf](https://github.com/ruanyf)
 - [the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - 自学是门手艺，by 李笑来
 - [weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布，by [ruanyf](https://github.com/ruanyf)
 - [articles](https://github.com/ruanyf/articles)- personal articles，by [ruanyf](https://github.com/ruanyf)

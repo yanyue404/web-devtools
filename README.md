@@ -30,6 +30,7 @@ A list of resources I use
 
 - [free-books](https://github.com/ruanyf/free-books) - 互联网上的免费书籍，by [ruanyf](https://github.com/ruanyf)
 - [Books](https://github.com/Urinx/Books) - 无它术，唯勤读书而多为之，自工， by [Urinx](https://github.com/Urinx/Books)
+- [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - 免费的计算机编程类中文书籍, by [justjavac](https://github.com/justjavac)
 
 **[⬆ 返回顶部](#目录)**
 

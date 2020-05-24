@@ -29,6 +29,7 @@ A list of resources I use
 ## 書籍
 
 - [free-books](https://github.com/ruanyf/free-books) - 互联网上的免费书籍，by [ruanyf](https://github.com/ruanyf)
+- [Books](https://github.com/Urinx/Books) - 无它术，唯勤读书而多为之，自工， by [Urinx](https://github.com/Urinx/Books)
 
 **[⬆ 返回顶部](#目录)**
 
@@ -42,14 +43,6 @@ A list of resources I use
   + [**freess**](https://github.com/max2max/freess) (免费账号)
   + [免费上网账号](https://free-ss.site/)
 - [**google-access-helper**](https://github.com/haotian-wang/google-access-helper) - 谷歌访问助手
-
-**YouTube**
-
-- [陈秋实](https://www.youtube.com/channel/UCv361SF6FKznoGPKEFG9Yhw)
-- [公子時評](https://www.youtube.com/channel/UCrGSFNEBmCN0rqhATZels2Q)
-- [睿眼看世界](https://www.youtube.com/channel/UCcWBxfaO69GPOFHSArNET2Q)
-- [老雷](https://www.youtube.com/channel/UCT3YvT4kdEiJ3up3PINhyQQ)
-- [无名的小雷](https://www.youtube.com/channel/UCcBcUj082kc6z_7nAt1PuRQ)
 
 **移民**
 

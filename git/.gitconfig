@@ -13,22 +13,21 @@
 	branch = auto
 	ui = true
 [alias]
+# 简化命令
 	br = branch
 	ci = commit
-	unstage = reset HEAD
 	co = checkout
-  st = status
-	last = log -1
-	last5 = log -5
-	last10 = log -10
-
-  logs = log --pretty=format:'%Cred%h%Creset %Cgreen[%an - %ar]%Creset : %s'
-	logsr = log --pretty=format:'%Cred%h%Creset %Cgreen[%an - %ar]%Creset : %s' --reverse
+    st = status
+# 日志
 	lg = log --color --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+	lgh = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
 	lgr = log --color --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --reverse
-
+    last = log -10
+# 回退
 	back = checkout master
+	unstage = reset HEAD
 	rh = reset --hard HEAD
+# pull
 	pr = pull --rebase
 	prs = pull --rebase --autostash
 [format]

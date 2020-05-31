@@ -1,26 +1,24 @@
 {
-  // shift+alt+左键下拉 多行游标
-  // 当选择其中一项时，将突出显示匹配的括号
-  "editor.matchBrackets": true,
   // 关闭自动更新
-  "update.channel": "none",
   // 配色、图标、字体以及其他外观配置项
   "workbench.colorTheme": "Solarized Dark",
-  // "workbench.colorTheme": "Solarized Dark",
   "editor.wordWrap": "on",
   "editor.cursorStyle": "block",
   "editor.fontFamily": "Fira Code",
   "editor.fontLigatures": true,
-  "editor.fontSize": 15,
+  "editor.fontSize": 13.8,
   "editor.lineHeight": 24,
   "editor.lineNumbers": "on",
   "editor.minimap.enabled": true,
   "files.autoSave": "afterDelay",
+  // 当选择其中一项时，将突出显示匹配的括号
+  "editor.matchBrackets": "always",
   "editor.formatOnSave": true,
   "editor.rulers": [120],
   "emmet.includeLanguages": {
     "vue-html": "html",
-    "javascript": "javascriptreact"
+    "javascript": "javascriptreact",
+    "wxml": "html"
   },
   "editor.snippetSuggestions": "top",
   // emmet
@@ -38,45 +36,67 @@
   "window.menuBarVisibility": "default", // 自动拉取
   // 浏览器
   "view-in-browser.customBrowser": "chrome",
-  "liveServer.settings.donotVerifyTags": true,
   "workbench.sideBar.location": "left",
   "workbench.iconTheme": "vscode-icons",
   "window.zoomLevel": 0,
-  "explorer.confirmDragAndDrop": false,
-  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+  "terminal.integrated.shell.windows": "C:\\windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
   "vsicons.dontShowNewVersionMessage": true,
   "sync.gist": "6ec0cfa175274df2dd12e4614a59b756",
   "extensions.ignoreRecommendations": true,
-  "todo-tree.defaultHighlight": {
-    "foreground": "green",
-    "type": "none"
-  },
-  "todo-tree.customHighlight": {
-    "TODO": {},
-    "FIXME": {}
-  },
   "javascript.updateImportsOnFileMove.enabled": "always",
-  // "view-in-browser.customBrowser": "iexplore",
-  // "view-in-browser.customBrowser": "mozilla"
-  /** Easy Sass 插件 **/
-  // "easysass.formats": [
-  //   {
-  //     "format": "nested", //  嵌套(编译格式)
-  //     "extension": ".css"
-  //   }
-  // ],
-  // "easysass.targetDir": "" // 自定义css输出文件路径
-  "stylelint.enable": true,
   "css.validate": true,
   "scss.validate": false,
-  "stylelint.config": {
-    "rules": {
-      "function-url-quotes": "always",
-      "indentation": 10, //缩进4位
-      "number-leading-zero": null,
-      "color-no-hex": true,
-      "unit-whitelist": ["em", "rem", "s", "%", "px", "deg"]
+  // 在使用搜索功能时，将这些文件夹/文件排除在外
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/logs": true
+  },
+  "files.associations": {
+    "*.cjson": "jsonc",
+    "*.wxss": "css",
+    "*.wxs": "javascript"
+  },
+  // 这些文件将不会显示在工作空间中
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/node_modules": true
+  },
+  // 支持 webpack alias
+  "path-intellisense.mappings": {
+    "@": "${workspaceRoot}/src"
+  },
+  // prettier
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  // todo-tree
+  "todo-tree.general.tags": ["TODO:", "FIXME:"],
+  "todo-tree.highlights.defaultHighlight": {
+    "gutterIcon": true
+  },
+  "todo-tree.highlights.customHighlight": {
+    "TODO:": {
+      "foreground": "#fff",
+      "background": "#ffbd2a",
+      "iconColour": "#ffbd2a"
+    },
+    "FIXME:": {
+      "foreground": "#fff",
+      "background": "#f06292",
+      "icon": "flame",
+      "iconColour": "#f06292"
     }
   },
-  "prettier.singleQuote": true
+  // 工作区文件夹
+  "explorer.confirmDelete": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "explorer.compactFolders": false
 }

@@ -21,12 +21,16 @@
 	last = log -1
 	last5 = log -5
 	last10 = log -10
+
   logs = log --pretty=format:'%Cred%h%Creset %Cgreen[%an - %ar]%Creset : %s'
 	logsr = log --pretty=format:'%Cred%h%Creset %Cgreen[%an - %ar]%Creset : %s' --reverse
 	lg = log --color --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
 	lgr = log --color --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --reverse
+
 	back = checkout master
 	rh = reset --hard HEAD
+	pr = pull --rebase
+	prs = pull --rebase --autostash
 [format]
 	pretty = %C(yellow)%h%Creset %s %C(red)(%an, %cr)%Creset
 [help]

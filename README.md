@@ -5,6 +5,7 @@ A list of resources I use
 ## 目录
 
 - [起步](#起步)
+- [教程](#教程)
 - [網路自由](#網路自由)
 - [書籍](#書籍)
 - [在線使用](#在線使用)
@@ -23,6 +24,12 @@ A list of resources I use
 - [**project-guidelines**](https://github.com/elsewhencode/project-guidelines/blob/master/README-zh.md) - JavaScript 工程项目规范
 - [**nodebestpractices**](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.chinese.md) - 最大的 Node.js 最佳实践列表
 - [**javascript-testing-best-practices**](https://github.com/goldbergyoni/javascript-testing-best-practices/blob/master/readme-zh-CN.md) - 全面而详尽的 JavaScript 和 Node.js 测试最佳实践
+
+**[⬆ 返回顶部](#目录)**
+
+## 教程
+
+- [javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial） https://zh.javascript.info
 
 **[⬆ 返回顶部](#目录)**
 

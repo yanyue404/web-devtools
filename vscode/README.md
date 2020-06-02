@@ -37,4 +37,6 @@
 - vscode-icons v10.1.1
 - vscode-language-pack-zh-hant v1.45.1
 - vscode-scss-formatter v2.0.1
+- gitLens v10.2.1
+
 

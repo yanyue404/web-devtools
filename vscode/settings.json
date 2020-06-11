@@ -6,7 +6,6 @@
   "editor.cursorStyle": "block",
   "editor.fontFamily": "Fira Code",
   "editor.fontLigatures": true,
-  "editor.fontSize": 13.8,
   "editor.lineHeight": 24,
   "editor.lineNumbers": "on",
   "editor.minimap.enabled": true,
@@ -49,7 +48,9 @@
   // 在使用搜索功能时，将这些文件夹/文件排除在外
   "search.exclude": {
     "**/node_modules": true,
-    "**/logs": true
+    "**/logs": true,
+    "package-lock.json": true,
+    "yarn.lock": true
   },
   "files.associations": {
     "*.cjson": "jsonc",
@@ -63,8 +64,13 @@
     "**/node_modules": true
   },
   // 支持 webpack alias
-  "path-intellisense.mappings": {
-    "@": "${workspaceRoot}/src"
+  "path-autocomplete.excludedItems": {
+    "**/*.js": { "when": "**/*.ts" }, // ignore js files if i'm inside a ts file
+    "**/*.map": { "when": "**" }, // always ignore *.map files
+    "**/{.git,node_modules}": { "when": "**" } // always ignore .git and node_modules folders
+  },
+  "path-autocomplete.pathMappings": {
+    "@": "${folder}/src"
   },
   // prettier
   "editor.defaultFormatter": "esbenp.prettier-vscode",
@@ -95,8 +101,10 @@
       "iconColour": "#f06292"
     }
   },
-  // 工作区文件夹
   "explorer.confirmDelete": true,
   "typescript.updateImportsOnFileMove.enabled": "always",
-  "explorer.compactFolders": false
+  "editor.fontSize": 13.8,
+  "explorer.compactFolders": false,
+  "gitlens.views.repositories.files.layout": "tree",
+  "editor.multiCursorModifier": "ctrlCmd"
 }

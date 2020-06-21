@@ -16,6 +16,17 @@
 #      102.54.94.97     rhino.acme.com          # source server
 #       38.25.63.10     x.acme.com              # x client host
 
+
+
 # localhost name resolution is handled within DNS itself.
-#	127.0.0.1       localhost
-#	::1             localhost
+
+  198.35.26.96    zh.wikipedia.org
+  140.82.112.3  github.com  
+  199.232.68.133 githubusercontent.com
+  127.0.0.1 localhost
+# 127.0.0.1 pvp.qq.com
+# 127.0.0.1 www.huya.com
+  13.32.193.199   config.getsync.com
+  13.32.193.207   config.resilio.com
+
+192.168.1.4 windows10.microdone.cn127.0.0.1       activate.navicat.com

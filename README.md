@@ -41,15 +41,15 @@ A list of resources I use
 
 **[⬆ 返回顶部](#目录)**
 
-
 ## 網路自由
 
 **软件**
 
-- [**lantern**](https://github.com/getlantern/download) - 最新版蓝灯下载
-- [**shadowsocks-windows**](https://github.com/shadowsocks/shadowsocks-windows) 
-  + [**freess**](https://github.com/max2max/freess) (免费账号)
-  + [免费上网账号](https://free-ss.site/)
+- [**lantern**](https://github.com/getlantern/download) - [最新版蓝灯下载](https://lantern.io/en_US/index.html)
+- [Shadowsocks](https://shadowsocks.org/en/index.html)
+  - [**shadowsocks-windows**](https://github.com/shadowsocks/shadowsocks-windows)
+  - [**freess**](https://github.com/max2max/freess) (免费账号)
+  - [免费上网账号](https://free-ss.site/)
 - [**google-access-helper**](https://github.com/haotian-wang/google-access-helper) - 谷歌访问助手
 
 **移民**
@@ -142,6 +142,7 @@ yarn global list
 - [**taro**](https://github.com/NervJS/taro) - tarojs/cli，多端统一开发框架，类 React 语法编写
 
 **工具包**
+
 - [**rimraf**](https://github.com/isaacs/rimraf) - 删除文件 `rimraf node_modules`
 - [**kill-port-process**](https://github.com/hilleer/kill-port-process) - 命令行杀死被占用的端口服务 `kill-port 3000`
 - [**pm2**](https://github.com/Unitech/pm2) - node 进程管理工具
@@ -153,7 +154,7 @@ yarn global list
 - [**prettier**](https://github.com/prettier/prettier/) - 漂亮的代码格式化 https://prettier.io
 - [**debug**](https://github.com/visionmedia/debug) - 打印调试信息
 - [**object.omit**](https://github.com/jonschlinkert/object.omit) - 返回忽略 key 的对象副本
-- [**download**](https://github.com/rndme/download) - 使用客户端javascript下载文件
+- [**download**](https://github.com/rndme/download) - 使用客户端 javascript 下载文件
 - [**markdown-table**](https://github.com/wooorm/markdown-table) - node.js 生成 markdown table 表
 
 **[⬆ 返回顶部](#目录)**
@@ -180,7 +181,7 @@ yarn global list
 **Youtube**
 
 - Looper for YouTube - 自动重播
-- YouTube™双字幕
+- YouTube™ 双字幕
 - 油猴脚本 - 本地 YouTube 下載器
 
 **下载**

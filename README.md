@@ -5,9 +5,7 @@ A list of resources I use
 ## 目录
 
 - [起步](#起步)
-- [教程](#教程)
 - [網路自由](#網路自由)
-- [書籍](#書籍)
 - [在線使用](#在線使用)
 - [脚手架以及工具包](#脚手架以及工具包)
 - [Chrome 扩展](#Chrome-扩展)
@@ -27,23 +25,7 @@ A list of resources I use
 
 **[⬆ 返回顶部](#目录)**
 
-## 教程
-
-- [javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial） https://zh.javascript.info
-
-**[⬆ 返回顶部](#目录)**
-
-## 書籍
-
-- [free-books](https://github.com/ruanyf/free-books) - 互联网上的免费书籍，by [ruanyf](https://github.com/ruanyf)
-- [Books](https://github.com/Urinx/Books) - 无它术，唯勤读书而多为之，自工， by [Urinx](https://github.com/Urinx/Books)
-- [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - 免费的计算机编程类中文书籍, by [justjavac](https://github.com/justjavac)
-
-**[⬆ 返回顶部](#目录)**
-
 ## 網路自由
-
-**软件**
 
 - [**lantern**](https://github.com/getlantern/download) - [最新版蓝灯下载](https://lantern.io/en_US/index.html)
 - [Shadowsocks](https://shadowsocks.org/en/index.html)
@@ -51,10 +33,7 @@ A list of resources I use
   - [**freess**](https://github.com/max2max/freess) (免费账号)
   - [免费上网账号](https://free-ss.site/)
 - [**google-access-helper**](https://github.com/haotian-wang/google-access-helper) - 谷歌访问助手
-
-**移民**
-
-- [**OurCoders**](https://ourcoders.com/)
+- [**OurCoders**](https://ourcoders.com/) **移民**
 
 **[⬆ 返回顶部](#目录)**
 
@@ -221,7 +200,6 @@ yarn global list
 **应用 apps**
 
 - Postman
-- TeamViewer
 - Gliffy 绘图工具
 
 **[⬆ 返回顶部](#目录)**
@@ -231,6 +209,9 @@ yarn global list
 - [**eyefoo**](http://eyefoo.com/) / [**f.lux**](https://justgetflux.com/) / [**Sunset Screen**](https://www.skytopia.com/software/sunsetscreen/)- 保护眼睛
 - [**FiraCode**](https://github.com/tonsky/FiraCode) Vscode 设置使用的字体
 - [**npm**](https://github.com/npm/cli) + [**yarn**](https://yarnpkg.com/zh-Hant) - node 包管理
+- [**typora**](https://typora.io/#windows) windows markdown 编辑器
+- [**7ZIP**](https://www.7-zip.org/) - 工具压缩工具（逃离 2345）
+- [**Navicat Premium**](https://www.navicat.com.cn/products/navicat-premium) - 数据库合集开发工具
 - [**ConEmu**](https://github.com/Maximus5/ConEmu/) - Terminal 终端
 - [**Listary**](https://www.listary.com/) - 快速检索文件
 - [**ScreenToGif**](https://www.screentogif.com/) - gif 动画录制
@@ -243,11 +224,9 @@ yarn global list
 - [**ArcTime**](https://arctime.org/) - 字幕制作
 - [**有道云笔记**](https://note.youdao.com/)
 - [**网易邮箱大师**](https://mail.163.com/dashi/)
-- [**Navicat Premium**](https://www.navicat.com.cn/products/navicat-premium) - 数据库合集开发工具
 - [**Xmind**](https://www.xmind.cn/xmind8-pro/) - 思维导图
-- [**微信开发者工具**](https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html) - 选择稳定版
-- [**Pandoc**](https://github.com/jgm/pandoc) - 强大的文档格式转换
-- [**7ZIP**](https://www.7-zip.org/) - 工具压缩工具（逃离 2345）
+- [**向日葵远程控制**](https://sunlogin.oray.com/download/)
+- <del>[**Pandoc**](https://github.com/jgm/pandoc) - 强大的文档格式转换</del>
 
 **[⬆ 返回顶部](#目录)**
 

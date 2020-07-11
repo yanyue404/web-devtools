@@ -143,7 +143,6 @@ yarn global list
 **优化基础环境**
 
 - [**谷歌访问助手**](https://github.com/haotian-wang/google-access-helper) - Google Search
-- SetupVPN - 网络应急 VPN
 - [**Vimium**](https://github.com/philc/vimium) - 脱离鼠标操控浏览器
 - Adblock Plus - 免费的广告拦截器
 - ezLinkPreview - 预览网页
@@ -155,7 +154,6 @@ yarn global list
 - <del>Holmes - 书签搜索</del>
 - JSONView
 - Wappalyzer - 查看网站所用技术栈
-- PageSpeed Insights
 
 **Youtube**
 
@@ -186,12 +184,10 @@ yarn global list
 
 - Clear Cache - 强制刷新清理缓存
 - [**ReRes**](https://github.com/annnhan/ReRes) - 更改页面请求响应的映射，可映射到本机调试
-- ColorZilla - 取色器
 - 新浪微博图床 - markdown 图片
 - Axure RP Extension for Chrome - 原型图查看
 - [**ReplaceGoogleCDN**](https://github.com/justjavac/ReplaceGoogleCDN) - 将 Google CDN 替换为国内的
 - 高效网页截图编辑插件
-- 有道云笔记插件
 - [**Tampermonkey**](https://greasyfork.org/zh-TW)
   - [**SaveFrom.net helper**](https://zh.savefrom.net/1-how-to-download-youtube-video.html) - 速度最快的免费 YouTube 下载器
   - [**网页限制解除**](https://greasyfork.org/zh-TW/scripts/28497-remove-web-limits-modified) - 通殺大部分網站,可以解除禁止復制、剪切、選擇文本、右鍵菜單的限制
@@ -207,6 +203,7 @@ yarn global list
 ## Windows 软件
 
 - [**eyefoo**](http://eyefoo.com/) / [**f.lux**](https://justgetflux.com/) / [**Sunset Screen**](https://www.skytopia.com/software/sunsetscreen/)- 保护眼睛
+- [**notepad2-mod**](https://xhmikosr.github.io/notepad2-mod/) - windows 记事本
 - [**FiraCode**](https://github.com/tonsky/FiraCode) Vscode 设置使用的字体
 - [**npm**](https://github.com/npm/cli) + [**yarn**](https://yarnpkg.com/zh-Hant) - node 包管理
 - [**typora**](https://typora.io/#windows) windows markdown 编辑器
@@ -226,6 +223,7 @@ yarn global list
 - [**网易邮箱大师**](https://mail.163.com/dashi/)
 - [**Xmind**](https://www.xmind.cn/xmind8-pro/) - 思维导图
 - [**向日葵远程控制**](https://sunlogin.oray.com/download/)
+- [**Neat Download Manager**](https://www.neatdownloadmanager.com/index.php/en/) - 32 倍超速下载器
 - <del>[**Pandoc**](https://github.com/jgm/pandoc) - 强大的文档格式转换</del>
 
 **[⬆ 返回顶部](#目录)**

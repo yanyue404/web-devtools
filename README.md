@@ -1,4 +1,4 @@
-# awesome-tools
+# rainbow-tools
 
 A list of resources I use
 

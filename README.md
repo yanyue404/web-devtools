@@ -42,7 +42,7 @@ A list of resources I use
 **常用**
 
 - [**有声圣经**](https://sj.fuyin.tv/?ref=weixin_menu)
-- [**HTML2MD**](https://tool.lu/markdown/) - Convert HTML to Markdown.
+- [**turndown**](https://domchristie.github.io/turndown//) - Convert HTML to Markdown.
 - [**DNS 查询**](http://tool.chinaz.com/dns)
 - [**图片转文字**](https://drive.google.com/drive/my-drive) - [借助 Google 云端硬盘](https://www.youtube.com/watch?v=cbORCzg2nIM)
 

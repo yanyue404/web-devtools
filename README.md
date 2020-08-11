@@ -41,9 +41,10 @@ A list of resources I use
 
 **常用**
 
-- [**在线 PS**](https://www.uupoop.com/)
-- [**有声圣经**](https://sj.fuyin.tv/?ref=weixin_menu)
 - [**turndown**](https://domchristie.github.io/turndown/) -🛏 An HTML to Markdown converter written in JavaScript
+- [**在线 PS**](https://www.uupoop.com/)
+- [**wechat-format**](https://github.com/lyricat/wechat-format) - [微信公众号排版编辑器](https://lab.lyric.im/wxformat)
+- [**有声圣经**](https://sj.fuyin.tv/?ref=weixin_menu)
 - [**DNS 查询**](http://tool.chinaz.com/dns)
 - [**图片转文字**](https://drive.google.com/drive/my-drive) - [借助 Google 云端硬盘](https://www.youtube.com/watch?v=cbORCzg2nIM)
 

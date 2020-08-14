@@ -15,7 +15,6 @@ A list of resources I use
 
 ## 起步
 
-- [**chinese-copywriting-guidelines**](https://github.com/sparanoid/chinese-copywriting-guidelines) - 中文文案排版指北
 - [**document-style-guide**](https://github.com/ruanyf/document-style-guide) - 中文技术文档的写作规范，by [ruanyf](https://github.com/ruanyf)
 - [**How-To-Ask-Questions-The-Smart-Way**](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md) - 提问的智慧
 - [**git-tips**](https://github.com/521xueweihan/git-tips) - Git 的奇技淫巧

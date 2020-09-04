@@ -225,7 +225,8 @@ yarn global list
 - [**Xmind**](https://www.xmind.cn/xmind8-pro/) - 思维导图
 - [**向日葵远程控制**](https://sunlogin.oray.com/download/)
 - [**Neat Download Manager**](https://www.neatdownloadmanager.com/index.php/en/) - 32 倍超速下载器
-- <del>[**Pandoc**](https://github.com/jgm/pandoc) - 强大的文档格式转换</del>
+- [**Beyond Compare**](https://www.scootersoftware.com/download.php) - 快速比较文件和文件夹
+
 
 **[⬆ 返回顶部](#目录)**
 

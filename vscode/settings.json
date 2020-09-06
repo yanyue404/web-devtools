@@ -29,7 +29,7 @@
   "workbench.startupEditor": "none",
   // git
   "git.ignoreMissingGitWarning": true,
-  "git.path": "D:/Environment/git/Git/cmd/git.exe",
+  "git.path": "D:/Alike/git/Git/cmd/git.exe",
   "git.autofetch": true,
   "git.confirmSync": false,
   "window.menuBarVisibility": "default", // 自动拉取
@@ -65,21 +65,15 @@
   },
   // 支持 webpack alias
   "path-autocomplete.excludedItems": {
-    "**/*.js": {
-      "when": "**/*.ts"
-    }, // ignore js files if i'm inside a ts file
-    "**/*.map": {
-      "when": "**"
-    }, // always ignore *.map files
-    "**/{.git,node_modules}": {
-      "when": "**"
-    } // always ignore .git and node_modules folders
+    "**/*.js": { "when": "**/*.ts" }, // ignore js files if i'm inside a ts file
+    "**/*.map": { "when": "**" }, // always ignore *.map files
+    "**/{.git,node_modules}": { "when": "**" } // always ignore .git and node_modules folders
   },
   "path-autocomplete.pathMappings": {
     "@": "${folder}/src"
   },
   // prettier
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  // "editor.defaultFormatter": "esbenp.prettier-vscode",
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
@@ -89,6 +83,16 @@
   "[vue]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
+  "minapp-vscode.wxmlFormatter": "prettier",
+  "minapp-vscode.prettier": {
+    "parser": "html"
+  },
+  "easysass.formats": [
+    {
+      "format": "expanded", // 没有缩进的、扩展的css代码
+      "extension": ".wxss" //转化的后缀名
+    }
+  ],
   // todo-tree
   "todo-tree.general.tags": ["TODO:", "FIXME:"],
   "todo-tree.highlights.defaultHighlight": {
@@ -109,8 +113,18 @@
   },
   "explorer.confirmDelete": true,
   "typescript.updateImportsOnFileMove.enabled": "always",
-  "editor.fontSize": 13.8,
+  "editor.fontSize": 15,
   "explorer.compactFolders": false,
-  "gitlens.views.repositories.files.layout": "tree",
-  "editor.multiCursorModifier": "ctrlCmd"
+  "editor.multiCursorModifier": "ctrlCmd",
+  "minapp-vscode.disableAutoConfig": true,
+  "rss.accounts": {
+    "257ef0e0-d2f8-11ea-8c6e-3be1149b6528": {
+      "name": "Default",
+      "type": "local",
+      "feeds": [
+        "http://www.ruanyifeng.com/blog/atom.xml"
+      ]
+    }
+  },
+  "tabnine.experimentalAutoImports": true
 }

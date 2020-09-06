@@ -213,6 +213,7 @@ yarn global list
 - [**FiraCode**](https://github.com/tonsky/FiraCode) Vscode 使用的字体
 - [**typora**](https://typora.io/#windows) windows markdown 编辑器
 - [**7ZIP**](https://www.7-zip.org/) - 工具压缩工具（逃离 2345）
+- [**PotPlayer**](https://daumpotplayer.com/download/) - 视频播放
 - [**ConEmu**](https://github.com/Maximus5/ConEmu/) - Terminal 终端
 - [**ScreenToGif**](https://www.screentogif.com/) - gif 动画录制
 

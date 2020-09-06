@@ -22,7 +22,7 @@ A list of resources I use
 - [**nodebestpractices**](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.chinese.md) - 最大的 Node.js 最佳实践列表
 - [**javascript-testing-best-practices**](https://github.com/goldbergyoni/javascript-testing-best-practices/blob/master/readme-zh-CN.md) - 全面而详尽的 JavaScript 和 Node.js 测试最佳实践
 
-**[⬆ 返回顶部](#目录)**
+**[? 返回顶部](#目录)**
 
 ## 網路自由
 
@@ -34,13 +34,13 @@ A list of resources I use
 - [**google-access-helper**](https://github.com/haotian-wang/google-access-helper) - 谷歌访问助手
 - [**OurCoders**](https://ourcoders.com/) **移民**
 
-**[⬆ 返回顶部](#目录)**
+**[? 返回顶部](#目录)**
 
 ## 在線使用
 
 **常用**
 
-- [**turndown**](https://domchristie.github.io/turndown/) -🛏 An HTML to Markdown converter written in JavaScript
+- [**turndown**](https://domchristie.github.io/turndown/) -?? An HTML to Markdown converter written in JavaScript
 - [**在线 PS**](https://www.uupoop.com/)
 - [**wechat-format**](https://github.com/lyricat/wechat-format) - [微信公众号排版编辑器](https://lab.lyric.im/wxformat)
 - [**有声圣经**](https://sj.fuyin.tv/?ref=weixin_menu)
@@ -103,7 +103,7 @@ A list of resources I use
 - [**草料二维码**](https://cli.im/) - 草料二维码生成器
 - [**Awesome_APIs**](https://github.com/TonnyL/Awesome_APIs/blob/master/README-zh.md)
 
-**[⬆ 返回顶部](#目录)**
+**[? 返回顶部](#目录)**
 
 ## 脚手架以及工具包
 
@@ -137,7 +137,7 @@ yarn global list
 - [**download**](https://github.com/rndme/download) - 使用客户端 javascript 下载文件
 - [**markdown-table**](https://github.com/wooorm/markdown-table) - node.js 生成 markdown table 表
 
-**[⬆ 返回顶部](#目录)**
+**[? 返回顶部](#目录)**
 
 ## Chrome 扩展
 
@@ -159,7 +159,7 @@ yarn global list
 **Youtube**
 
 - Looper for YouTube - 自动重播
-- YouTube™ 双字幕
+- YouTube? 双字幕
 - 油猴脚本 - 本地 YouTube 下載器
 
 **下载**
@@ -199,36 +199,41 @@ yarn global list
 - Postman
 - Gliffy 绘图工具
 
-**[⬆ 返回顶部](#目录)**
+**[? 返回顶部](#目录)**
 
 ## Windows 软件
 
+**基础搭建**
+
+- [**QuickLook**](https://pooi.moe/QuickLook/) - 文件预览
+- [**Listary**](https://www.listary.com/) - 快速检索文件
+- [**Notepad2-mod**](https://xhmikosr.github.io/notepad2-mod/) - 代替自带 windows 记事本
+- [**Snipaste**](https://zh.snipaste.com/) - 截图 + 取色
 - [**eyefoo**](http://eyefoo.com/) / [**f.lux**](https://justgetflux.com/) / [**Sunset Screen**](https://www.skytopia.com/software/sunsetscreen/)- 保护眼睛
-- [**notepad2-mod**](https://xhmikosr.github.io/notepad2-mod/) - windows 记事本
-- [**FiraCode**](https://github.com/tonsky/FiraCode) Vscode 设置使用的字体
-- [**npm**](https://github.com/npm/cli) + [**yarn**](https://yarnpkg.com/zh-Hant) - node 包管理
+- [**FiraCode**](https://github.com/tonsky/FiraCode) Vscode 使用的字体
 - [**typora**](https://typora.io/#windows) windows markdown 编辑器
 - [**7ZIP**](https://www.7-zip.org/) - 工具压缩工具（逃离 2345）
-- [**Navicat Premium**](https://www.navicat.com.cn/products/navicat-premium) - 数据库合集开发工具
 - [**ConEmu**](https://github.com/Maximus5/ConEmu/) - Terminal 终端
-- [**Listary**](https://www.listary.com/) - 快速检索文件
 - [**ScreenToGif**](https://www.screentogif.com/) - gif 动画录制
-- [**Snipaste**](https://zh.snipaste.com/) - 截图+切图
-- [**QuickLook**](https://pooi.moe/QuickLook/) - 文件预览
-- [**Fiddler**](https://www.telerik.com/fiddler) - 调试网络，线上测试修改
+
+**工作中**
+
+- [**Navicat Premium**](https://www.navicat.com.cn/products/navicat-premium) - 数据库合集开发工具
 - [**Postman**](https://www.getpostman.com/) - api 请求，通过 chrome apps 使用
+- [**npm**](https://github.com/npm/cli) + [**yarn**](https://yarnpkg.com/zh-Hant) - node 包管理
+- [**Beyond Compare**](https://www.scootersoftware.com/download.php) - 快速比较文件和文件夹
+- [**Xmind**](https://www.xmind.cn/xmind8-pro/) - 思维导图
+- [**有道云笔记**](https://note.youdao.com/)
+- [**网易邮箱大师**](https://mail.163.com/dashi/)
+
+**其他**
+
+- [**向日葵远程控制**](https://sunlogin.oray.com/download/) 
 - [**oCam**](http://ohsoft.net/eng/) - 视频录制
 - [**olive**](https://github.com/olive-editor/olive) - 视频剪辑
 - [**ArcTime**](https://arctime.org/) - 字幕制作
-- [**有道云笔记**](https://note.youdao.com/)
-- [**网易邮箱大师**](https://mail.163.com/dashi/)
-- [**Xmind**](https://www.xmind.cn/xmind8-pro/) - 思维导图
-- [**向日葵远程控制**](https://sunlogin.oray.com/download/)
-- [**Neat Download Manager**](https://www.neatdownloadmanager.com/index.php/en/) - 32 倍超速下载器
-- [**Beyond Compare**](https://www.scootersoftware.com/download.php) - 快速比较文件和文件夹
 
-
-**[⬆ 返回顶部](#目录)**
+**[? 返回顶部](#目录)**
 
 ## Android 软件
 
@@ -252,14 +257,14 @@ yarn global list
 - OfficeSuite + PDF Editor - 查看，编辑，创建，Word，Excel 和 PowerPoint 文档
 - ReadEra - pdf, epub, word 电子书
 
-**[⬆ 返回顶部](#目录)**
+**[? 返回顶部](#目录)**
 
 ## 其他 Repo
 
 - [awesome-tools](https://github.com/sorrycc/awesome-tools) - Awesome tools I used , by [sorrycc](https://github.com/sorrycc)
 - [my-development-tools](https://github.com/adoyle-h/my-development-tools) - [我的开发工具箱](https://adoyle.me/my-development-tools/)
 - [Soft-Tools](https://github.com/skyseraph/Soft-Tools) - Awesome Soft Tools ~~
-- [useful-tools](https://github.com/shenzekun/useful-tools) - 🔨 一些有用的工具网站
+- [useful-tools](https://github.com/shenzekun/useful-tools) - ?? 一些有用的工具网站
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac) - 收各种类别的高级软件 g https://git.io/macx
 - [the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - 自学是门手艺，by 李笑来
 - [weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布，by [ruanyf](https://github.com/ruanyf)
@@ -267,7 +272,7 @@ yarn global list
 - [reading-list](https://github.com/ruanyf/reading-list) - Some books I read，by [ruanyf](https://github.com/ruanyf)
 - [weekly](https://github.com/dt-fe/weekly) - 前端精读周刊
 
-**[⬆ 返回顶部](#目录)**
+**[? 返回顶部](#目录)**
 
 ## License
 

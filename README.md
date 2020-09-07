@@ -219,7 +219,7 @@ yarn global list
 
 **工作中**
 
-- Git 版本控制：[TortoiseGit](https://tortoisegit.org/) + [Git bash](https://gitforwindows.org/) + Sourcetree ?
+- Git 版本控制：[TortoiseGit](https://tortoisegit.org/download/) + [Git bash](https://gitforwindows.org/) + Sourcetree ?
 - [**Navicat Premium**](https://www.navicat.com.cn/products/navicat-premium) - 数据库合集开发工具
 - [**Postman**](https://www.getpostman.com/) - api 请求，通过 chrome apps 使用
 - [**npm**](https://github.com/npm/cli) + [**yarn**](https://yarnpkg.com/zh-Hant) - node 包管理

@@ -126,5 +126,10 @@
       ]
     }
   },
-  "tabnine.experimentalAutoImports": true
+  "tabnine.experimentalAutoImports": true,
+   // terminal
+  "terminal.integrated.fontSize": 13,
+  "terminal.integrated.lineHeight": 1.2,
+  "terminal.integrated.fontWeight": "500",
+  "terminal.integrated.fontFamily": "Fira Code"
 }

@@ -12,6 +12,7 @@ A list of resources I use
 - [Windows 软件](#Windows-软件)
 - [Android 软件](#Android-软件)
 - [其他 Repo](#其他-Repo)
+- [参考](#参考)
 
 ## 起步
 
@@ -41,6 +42,7 @@ A list of resources I use
 **常用**
 
 - [**turndown**](https://domchristie.github.io/turndown/) -?? An HTML to Markdown converter written in JavaScript
+- **无损音乐** [无损音乐吧](http://www.wsyyb.com/) [超高无损音乐](https://www.sq688.com/)
 - [**在线 PS**](https://www.uupoop.com/)
 - [**wechat-format**](https://github.com/lyricat/wechat-format) - [微信公众号排版编辑器](https://lab.lyric.im/wxformat)
 - [**有声圣经**](https://sj.fuyin.tv/?ref=weixin_menu)
@@ -275,6 +277,10 @@ yarn global list
 - [weekly](https://github.com/dt-fe/weekly) - 前端精读周刊
 
 **[? 返回顶部](#目录)**
+
+## 参考
+
+- [无损音乐资源 - 收集](http://ningxiaofa.top/blog/ed4kjjql5edb24f192473-0)
 
 ## License
 

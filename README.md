@@ -268,6 +268,7 @@ yarn global list
 - [awesome-tools](https://github.com/sorrycc/awesome-tools) - Awesome tools I used , by [sorrycc](https://github.com/sorrycc)
 - [my-development-tools](https://github.com/adoyle-h/my-development-tools) - [我的开发工具箱](https://adoyle.me/my-development-tools/)
 - [Soft-Tools](https://github.com/skyseraph/Soft-Tools) - Awesome Soft Tools ~~
+- [awesome-bookmarks](https://github.com/PanJiaChen/awesome-bookmarks) - 💖 A curated list of awesome things
 - [useful-tools](https://github.com/shenzekun/useful-tools) - ?? 一些有用的工具网站
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac) - 收各种类别的高级软件 g https://git.io/macx
 - [the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - 自学是门手艺，by 李笑来

@@ -23,7 +23,7 @@ A list of resources I use
 - [**nodebestpractices**](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.chinese.md) - 最大的 Node.js 最佳实践列表
 - [**javascript-testing-best-practices**](https://github.com/goldbergyoni/javascript-testing-best-practices/blob/master/readme-zh-CN.md) - 全面而详尽的 JavaScript 和 Node.js 测试最佳实践
 
-**[? 返回顶部](#目录)**
+**[⬆返回顶部](#目录)**
 
 ## 網路自由
 
@@ -35,7 +35,7 @@ A list of resources I use
 - [**google-access-helper**](https://github.com/haotian-wang/google-access-helper) - 谷歌访问助手
 - [**OurCoders**](https://ourcoders.com/) **移民**
 
-**[? 返回顶部](#目录)**
+**[⬆返回顶部](#目录)**
 
 ## 在線使用
 
@@ -105,7 +105,7 @@ A list of resources I use
 - [**草料二维码**](https://cli.im/) - 草料二维码生成器
 - [**Awesome_APIs**](https://github.com/TonnyL/Awesome_APIs/blob/master/README-zh.md)
 
-**[? 返回顶部](#目录)**
+**[⬆返回顶部](#目录)**
 
 ## 脚手架以及工具包
 
@@ -139,7 +139,7 @@ yarn global list
 - [**download**](https://github.com/rndme/download) - 使用客户端 javascript 下载文件
 - [**markdown-table**](https://github.com/wooorm/markdown-table) - node.js 生成 markdown table 表
 
-**[? 返回顶部](#目录)**
+**[⬆返回顶部](#目录)**
 
 ## Chrome 扩展
 
@@ -201,7 +201,7 @@ yarn global list
 - Postman
 - Gliffy 绘图工具
 
-**[? 返回顶部](#目录)**
+**[⬆返回顶部](#目录)**
 
 ## Windows 软件
 
@@ -237,7 +237,7 @@ yarn global list
 - [**olive**](https://github.com/olive-editor/olive) - 视频剪辑
 - [**ArcTime**](https://arctime.org/) - 字幕制作
 
-**[? 返回顶部](#目录)**
+**[⬆返回顶部](#目录)**
 
 ## Android 软件
 
@@ -261,7 +261,7 @@ yarn global list
 - OfficeSuite + PDF Editor - 查看，编辑，创建，Word，Excel 和 PowerPoint 文档
 - ReadEra - pdf, epub, word 电子书
 
-**[? 返回顶部](#目录)**
+**[⬆返回顶部](#目录)**
 
 ## 其他 Repo
 
@@ -277,11 +277,7 @@ yarn global list
 - [reading-list](https://github.com/ruanyf/reading-list) - Some books I read，by [ruanyf](https://github.com/ruanyf)
 - [weekly](https://github.com/dt-fe/weekly) - 前端精读周刊
 
-**[? 返回顶部](#目录)**
-
-## 参考
-
-- [无损音乐资源 - 收集](http://ningxiaofa.top/blog/ed4kjjql5edb24f192473-0)
+**[⬆返回顶部](#目录)**
 
 ## License
 

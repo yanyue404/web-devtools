@@ -1,91 +1,73 @@
-# awesome-tools
+# awesome-studio
 
 A list of resources I use
 
 ## 目录
 
-- [起步](#起步)
-- [網路自由](#網路自由)
-- [在線使用](#在線使用)
-- [脚手架以及工具包](#脚手架以及工具包)
-- [Chrome 扩展](#Chrome-扩展)
-- [Windows 软件](#Windows-软件)
-- [Android 软件](#Android-软件)
-- [其他 Repo](#其他-Repo)
-- [参考](#参考)
+- [在线使用](#在线使用)
+  - [Top](#top)
+  - [开发中](#开发中)
+  - [格式化](#格式化)
+  - [开放 API](#开放-API)
+- [网络](#网络)
+- [教程](#教程)
+- [前端库](#前端库)
+  - [命令行](#命令行)
+  - [工具库](#工具库)
+- [软件](#软件)
+  - [Chrome 扩展](#Chrome-扩展)
+  - [Windows 平台](#Windows-平台)
+  - [Android 平台](#Android-平台)
+- [参考资料](#参考资料)
 
-## 起步
+## 在线使用
 
-- [**document-style-guide**](https://github.com/ruanyf/document-style-guide) - 中文技术文档的写作规范，by [ruanyf](https://github.com/ruanyf)
-- [**How-To-Ask-Questions-The-Smart-Way**](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md) - 提问的智慧
-- [**git-tips**](https://github.com/521xueweihan/git-tips) - Git 的奇技淫巧
-- [**project-guidelines**](https://github.com/elsewhencode/project-guidelines/blob/master/README-zh.md) - JavaScript 工程项目规范
-- [**nodebestpractices**](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.chinese.md) - 最大的 Node.js 最佳实践列表
-- [**javascript-testing-best-practices**](https://github.com/goldbergyoni/javascript-testing-best-practices/blob/master/readme-zh-CN.md) - 全面而详尽的 JavaScript 和 Node.js 测试最佳实践
+### top
 
-**[⬆返回顶部](#目录)**
-
-## 網路自由
-
-- [**lantern**](https://github.com/getlantern/download) - [最新版蓝灯下载](https://lantern.io/en_US/index.html)
-- [Shadowsocks](https://shadowsocks.org/en/index.html)
-  - [**shadowsocks-windows**](https://github.com/shadowsocks/shadowsocks-windows)
-  - [**freess**](https://github.com/max2max/freess) (免费账号)
-  - [免费上网账号](https://free-ss.site/)
-- [**google-access-helper**](https://github.com/haotian-wang/google-access-helper) - 谷歌访问助手
-- [**OurCoders**](https://ourcoders.com/) **移民**
-
-**[⬆返回顶部](#目录)**
-
-## 在線使用
-
-**常用**
-
-- [**turndown**](https://domchristie.github.io/turndown/) -?? An HTML to Markdown converter written in JavaScript
-- **无损音乐** [无损音乐吧](http://www.wsyyb.com/) [超高无损音乐](https://www.sq688.com/)
-- [**在线 PS**](https://www.uupoop.com/)
-- [**wechat-format**](https://github.com/lyricat/wechat-format) - [微信公众号排版编辑器](https://lab.lyric.im/wxformat)
+- [**prettier**](https://github.com/prettier/prettier/) - 漂亮的代码格式化 https://prettier.io
 - [**有声圣经**](https://sj.fuyin.tv/?ref=weixin_menu)
+- **无损音乐** [无损音乐吧](http://www.wsyyb.com/) [超高无损音乐](https://www.sq688.com/)
+- [**草料二维码**](https://cli.im/) - 二维码生成器
+- [**Temporary Email Address**](https://temp-mail.org) - 临时邮件使用
+
+### 开发中
+
+- [**tinypng**](https://tinypng.com/) / [**squoosh**](https://squoosh.app) - 图片压缩
+- [**runpkg**](https://github.com/FormidableLabs/runpkg) - 在线 npm 包浏览器 https://runpkg.com/
+- [**Package Diff**](https://diff.intrinsic.com/)，比较 npm 包两个版本直接的区别
+- **在线 PS** - https://www.uupoop.com/
+- [**Material icons**](https://material.io/resources/icons/?style=baseline) - material 图标
 - [**DNS 查询**](http://tool.chinaz.com/dns)
 - [**图片转文字**](https://drive.google.com/drive/my-drive) - [借助 Google 云端硬盘](https://www.youtube.com/watch?v=cbORCzg2nIM)
-
-**Dev 相关**
-
-- [**Babel**](https://babeljs.io/repl) / [**TypeScript**](https://www.typescriptlang.org/play/index.html) / [**Sass**](https://www.sassmeister.com/) - 编译器
-- [**netlify**](https://www.netlify.com/) - 静态网站托管服务
-- [**codesandbox**](https://codesandbox.io/u/xiaoyueyue165) - vue && react 仓库，借助官方脚手架构建
 - [**carbon**](https://carbon.now.sh/) 在线代码生成图片 https://carbon.now.sh/
-- [**regulex**](https://jex.im/regulex/) - 正则可视化
-- [**regex101**](https://regex101.com/) - 正则表达式测试
-- [**tinypng**](https://tinypng.com/) / [**squoosh**](https://squoosh.app) - 图片压缩
-- [**Package Diff**](https://diff.intrinsic.com/)，比较 npm 包两个版本直接的区别
-- [**remove bg**](https://www.remove.bg/zh/upload) - 为上传的图片消除背景
-- [**Material icons**](https://material.io/resources/icons/?style=baseline) - material 图标
-- [**grabient**](https://www.grabient.com/) - 生成漂亮的 CSS 渐变
-- [**animista**](https://animista.net/) - 在线生成 CSS 动画
-- [**easings**](https://easings.net/) - 缓动函数速查表
-- [**visualgo**](https://visualgo.net/zh/) - 数据结构，算法可视化
-
-**GitHub 开源**
-
-- [**runpkg**](https://github.com/FormidableLabs/runpkg) - 在线 npm 包浏览器 https://runpkg.com/
-- [**webpack-autoconf**](https://github.com/jakoblind/webpack-autoconf) - webpack 配置工具
-- [**Picas**](https://github.com/djyde/Picas) - Google 字体生成的项目徽标 https://picas.now.sh/
-- [**json-server**](https://github.com/typicode/json-server) - 最佳 RESTful API Mock
 - [**astexplorer**](https://astexplorer.net/) - 一个用于探索各种解析器生成的 AST 的网络工具 https://astexplorer.net/
 - [**JavaScript Visualizer**](https://tylermcginnis.com/javascript-visualizer/) 可视化 **ES5** `JavaScript` 执行
 - [**loupe**](https://github.com/latentflip/loupe) - 可视化的 javascript 实时运行,理解异步, Built by [**Philip Roberts**](http://github.com/latentflip)
-- [**waifu2x**](https://github.com/nagadomi/waifu2x) - 图片进行放大操作 http://waifu2x.udp.jp/index.zh-CN.html
 - [**RMind**](https://github.com/Mongkii/RMind) - 基于 React Hooks 与 flex 布局 的思维导图 https://mongkii.github.io/RMind/
+- [**regulex**](https://jex.im/regulex/) - 正则可视化
+- [**regex101**](https://regex101.com/) - 正则表达式测试
+- [**remove bg**](https://www.remove.bg/zh/upload) - 为上传的图片消除背景
+- [**grabient**](https://www.grabient.com/) - 生成漂亮的 CSS 渐变
+- [**animista**](https://animista.net/) - 在线生成 CSS 动画
+- [**easings**](https://easings.net/) - 缓动函数速查表
+- [**webpack-autoconf**](https://github.com/jakoblind/webpack-autoconf) - webpack 配置工具
+- [**netlify**](https://www.netlify.com/) - 静态网站托管服务
+- [**visualgo**](https://visualgo.net/zh/) - 数据结构，算法可视化
 
-**文件格式转换**
+### 格式化
 
+- [**turndown**](https://domchristie.github.io/turndown/) - An HTML to Markdown converter written in JavaScript
+- [**wechat-format**](https://github.com/lyricat/wechat-format) - [微信公众号排版编辑器](https://lab.lyric.im/wxformat)
+- [**waifu2x**](https://github.com/nagadomi/waifu2x) - 图片进行放大操作 http://waifu2x.udp.jp/index.zh-CN.html
+- [**Picas**](https://github.com/djyde/Picas) - Google 字体生成的项目徽标 https://picas.now.sh/
 - [**resumd**](https://github.com/timqian/resumd) - 使用 markdown 写简历，支持自定义主题，`html`,`pdf`,`md`导出 https://resumd.t9t.io
-- [**h2m**](https://github.com/island205/h2m/) - 将 HTML 转换为 Markdown 的工具 http://island205.github.io/h2m/
 - [**WAV to MP3 -- Bear Audio online tool**](https://www.bearaudiotool.com/wav-to-mp3)
 - [**Smalpdf**](https://smallpdf.com/cn) - 简单好用的线上 PDF 工具
+- [**彩云小译**](https://fanyi.caiyunapp.com/#/web) - [小译同传](https://www.caiyunapp.com/interpretation/)
+- [**Bitly**](https://bitly.com/) - 短网址 [**国内 1**](https://tool.chinaz.com/tools/dwz.aspx)
+- [**Temp**](https://temp.pm/) - 短信息（可加密）
 
-**开放 API**
+### 开放 API
 
 - [**jsonplaceholder**](https://github.com/typicode/jsonplaceholder) A simple online fake REST API server https://jsonplaceholder.typicode.com
 - [**GitHub API v3**](https://developer.github.com/v3/)
@@ -94,54 +76,58 @@ A list of resources I use
 - [**和风天气**](https://dev.heweather.com/docs/api/weather)
 - [**Twilio API Docs**](https://www.twilio.com/docs/)
 - [**paperplane**](https://docs.paperplane.app/) High quality HTML to PDF conversion API
-
-**其他**
-
-- [**彩云小译**](https://fanyi.caiyunapp.com/#/web) - [小译同传](https://www.caiyunapp.com/interpretation/)
-- [**Temporary Email Address**](https://temp-mail.org) - 临时邮件使用
-- [**SMS Receive Free**](https://smsreceivefree.com/) - 免费接收短信
-- [**Temp**](https://temp.pm/) - 短信息（可加密）
-- [**Bitly**](https://bitly.com/) - 短网址 [**国内 1**](https://tool.chinaz.com/tools/dwz.aspx)
-- [**草料二维码**](https://cli.im/) - 草料二维码生成器
 - [**Awesome_APIs**](https://github.com/TonnyL/Awesome_APIs/blob/master/README-zh.md)
 
-**[⬆返回顶部](#目录)**
+**[⬆ 返回顶部](#目录)**
 
-## 脚手架以及工具包
+## 网络
 
-```bash
-# 查看 npm 全局安装的列表
-npm list -g --depth 0
+- [**lantern**](https://github.com/getlantern/download) - [最新版蓝灯下载](https://lantern.io/en_US/index.html)
+- [Shadowsocks](https://shadowsocks.org/en/index.html)
+  - [**shadowsocks-windows**](https://github.com/shadowsocks/shadowsocks-windows)
+  - [**freess**](https://github.com/max2max/freess) (免费账号)
+  - [免费上网账号](https://free-ss.site/)
+- [**google-access-helper**](https://github.com/haotian-wang/google-access-helper) - 谷歌访问助手
 
-# 查看 yarn 全局安装的列表
-yarn global list
-```
+**[⬆ 返回顶部](#目录)**
 
-**脚手架**
+## 教程
 
-- [**create-react-app**](https://github.com/facebook/create-react-app) - react 官方脚手架
-- [**vue-cli**](https://github.com/vuejs/vue-cli) - vue 命令行工具,项目脚手架
-- [**taro**](https://github.com/NervJS/taro) - tarojs/cli，多端统一开发框架，类 React 语法编写
+- [**document-style-guide**](https://github.com/ruanyf/document-style-guide) - 中文技术文档的写作规范，by [ruanyf](https://github.com/ruanyf)
+- [**How-To-Ask-Questions-The-Smart-Way**](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md) - 提问的智慧
+- [**git-tips**](https://github.com/521xueweihan/git-tips) - Git 的奇技淫巧
+- [**project-guidelines**](https://github.com/elsewhencode/project-guidelines/blob/master/README-zh.md) - JavaScript 工程项目规范
+- [**nodebestpractices**](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.chinese.md) - 最大的 Node.js 最佳实践列表
+- [**javascript-testing-best-practices**](https://github.com/goldbergyoni/javascript-testing-best-practices/blob/master/readme-zh-CN.md) - 全面而详尽的 JavaScript 和 Node.js 测试最佳实践
 
-**工具包**
+**[⬆ 返回顶部](#目录)**
+
+## 前端库
+
+### 命令行
 
 - [**rimraf**](https://github.com/isaacs/rimraf) - 删除文件 `rimraf node_modules`
 - [**kill-port-process**](https://github.com/hilleer/kill-port-process) - 命令行杀死被占用的端口服务 `kill-port 3000`
+
+### 工具库
+
+- [**json-server**](https://github.com/typicode/json-server) - 最佳 RESTful API Mock
 - [**pm2**](https://github.com/Unitech/pm2) - node 进程管理工具
 - [**nodemon**](https://github.com/remy/nodemon/) - 监视 node.js 应用程序中的修改，实时更新
 - [**nrm**](https://github.com/Pana/nrm) - npm 下载源切换
 - [**gh-pages**](https://github.com/tschaub/gh-pages) - 将文件发布到 GitHub 上的 `gh-pages` 分支
 - [**opener**](https://github.com/domenic/opener) - 打开某个端口，固定文件
 - [**eslint**](https://github.com/eslint/eslint) - A fully pluggable tool for identifying and reporting on patterns in JavaScript https://eslint.org/docs/rules/
-- [**prettier**](https://github.com/prettier/prettier/) - 漂亮的代码格式化 https://prettier.io
 - [**debug**](https://github.com/visionmedia/debug) - 打印调试信息
 - [**object.omit**](https://github.com/jonschlinkert/object.omit) - 返回忽略 key 的对象副本
 - [**download**](https://github.com/rndme/download) - 使用客户端 javascript 下载文件
 - [**markdown-table**](https://github.com/wooorm/markdown-table) - node.js 生成 markdown table 表
 
-**[⬆返回顶部](#目录)**
+**[⬆ 返回顶部](#目录)**
 
-## Chrome 扩展
+## 软件
+
+### Chrome 扩展
 
 **优化基础环境**
 
@@ -154,7 +140,6 @@ yarn global list
 - 捕捉网页截图 - FireShot
 - 云盘万能钥匙
 - OneTab
-- <del>Holmes - 书签搜索</del>
 - JSONView
 - Wappalyzer - 查看网站所用技术栈
 
@@ -201,9 +186,9 @@ yarn global list
 - Postman
 - Gliffy 绘图工具
 
-**[⬆返回顶部](#目录)**
+**[⬆ 返回顶部](#目录)**
 
-## Windows 软件
+### Windows 平台
 
 **基础搭建**
 
@@ -232,14 +217,14 @@ yarn global list
 
 **其他**
 
-- [**向日葵远程控制**](https://sunlogin.oray.com/download/) 
+- [**向日葵远程控制**](https://sunlogin.oray.com/download/)
 - [**oCam**](http://ohsoft.net/eng/) - 视频录制
 - [**olive**](https://github.com/olive-editor/olive) - 视频剪辑
 - [**ArcTime**](https://arctime.org/) - 字幕制作
 
-**[⬆返回顶部](#目录)**
+**[⬆ 返回顶部](#目录)**
 
-## Android 软件
+### Android 平台
 
 - Tim
 - 网易邮箱大师 - 收 gmail 邮件
@@ -261,9 +246,9 @@ yarn global list
 - OfficeSuite + PDF Editor - 查看，编辑，创建，Word，Excel 和 PowerPoint 文档
 - ReadEra - pdf, epub, word 电子书
 
-**[⬆返回顶部](#目录)**
+**[⬆ 返回顶部](#目录)**
 
-## 其他 Repo
+## 参考资料
 
 - [awesome-tools](https://github.com/sorrycc/awesome-tools) - Awesome tools I used , by [sorrycc](https://github.com/sorrycc)
 - [my-development-tools](https://github.com/adoyle-h/my-development-tools) - [我的开发工具箱](https://adoyle.me/my-development-tools/)
@@ -277,7 +262,7 @@ yarn global list
 - [reading-list](https://github.com/ruanyf/reading-list) - Some books I read，by [ruanyf](https://github.com/ruanyf)
 - [weekly](https://github.com/dt-fe/weekly) - 前端精读周刊
 
-**[⬆返回顶部](#目录)**
+**[⬆ 返回顶部](#目录)**
 
 ## License
 

@@ -1,6 +1,6 @@
-# awesome-studio
+# Awesome Studio
 
-A list of resources I use
+A list of resources I use（Perspective of F2E）
 
 ## 目录
 

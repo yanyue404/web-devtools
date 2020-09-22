@@ -60,6 +60,7 @@ A list of resources I use
 - [**wechat-format**](https://github.com/lyricat/wechat-format) - [微信公众号排版编辑器](https://lab.lyric.im/wxformat)
 - [**waifu2x**](https://github.com/nagadomi/waifu2x) - 图片进行放大操作 http://waifu2x.udp.jp/index.zh-CN.html
 - [**Picas**](https://github.com/djyde/Picas) - Google 字体生成的项目徽标 https://picas.now.sh/
+- [**logoly**](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator https://www.logoly.pro/
 - [**resumd**](https://github.com/timqian/resumd) - 使用 markdown 写简历，支持自定义主题，`html`,`pdf`,`md`导出 https://resumd.t9t.io
 - [**WAV to MP3 -- Bear Audio online tool**](https://www.bearaudiotool.com/wav-to-mp3)
 - [**Smalpdf**](https://smallpdf.com/cn) - 简单好用的线上 PDF 工具

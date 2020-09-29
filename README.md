@@ -13,6 +13,7 @@ A list of resources I use（Perspective of F2E）
 - [教程](#教程)
 - [前端库](#前端库)
   - [命令行](#命令行)
+  - [CSS](#CSS)
   - [工具库](#工具库)
   - [工程化](#工程化)
 - [软件](#软件)
@@ -112,6 +113,10 @@ A list of resources I use（Perspective of F2E）
 - [**tree-cli**](https://github.com/MrRaindrop/tree-cli) - 生成 tree 目录结构 `tree -l 2 -o output.txt --ignore 'node_modules'`
 - [**nodemon**](https://github.com/remy/nodemon/) - 监视 node.js 应用程序中的修改，实时更新
 
+### CSS
+
+- [**materialize.css**](https://github.com/Dogfalo/materialize) - [A CSS Framework based on Material Design](https://materializecss.com/)
+
 ### 工具库
 
 - [**json-server**](https://github.com/typicode/json-server) - 最佳 RESTful API Mock
@@ -127,6 +132,9 @@ A list of resources I use（Perspective of F2E）
 - [**highlight.js**](https://github.com/highlightjs/highlight.js) - Javascript 语法高亮
 - [**tagcanvas.js**](https://github.com/goat1000/TagCanvas) - HTML5 基于 canvas 的标签云
 - [**countUp.js**](https://github.com/inorganik/countUp.js) - 通过对数值进行动画处理
+- [**js-cookie**](https://github.com/js-cookie/js-cookie) - 简单，轻便的JavaScript API，用于处理浏览器cookie
+- [**pinyin**](https://github.com/hotoo/pinyin) - 🇨🇳 汉字拼音 ➜ hàn zì pīn yīn
+- [**screenfull.js**](https://github.com/sindresorhus/screenfull.js) - JavaScript全屏API的跨浏览器使用的简单包装
 
 ### 工程化
 

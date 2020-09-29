@@ -109,7 +109,7 @@ A list of resources I use（Perspective of F2E）
 
 - [**rimraf**](https://github.com/isaacs/rimraf) - 删除文件 `rimraf node_modules`
 - [**kill-port-process**](https://github.com/hilleer/kill-port-process) - 命令行杀死被占用的端口服务 `kill-port 3000`
-- [**tree-cli**](https://github.com/MrRaindrop/tree-cli) - 生成tree目录结构 `tree -l 2 -o output.txt --ignore 'node_modules'`
+- [**tree-cli**](https://github.com/MrRaindrop/tree-cli) - 生成 tree 目录结构 `tree -l 2 -o output.txt --ignore 'node_modules'`
 - [**nodemon**](https://github.com/remy/nodemon/) - 监视 node.js 应用程序中的修改，实时更新
 
 ### 工具库
@@ -124,14 +124,16 @@ A list of resources I use（Perspective of F2E）
 - [**download**](https://github.com/rndme/download) - 使用客户端 javascript 下载文件
 - [**markdown-table**](https://github.com/wooorm/markdown-table) - node.js 生成 markdown table 表
 - [**darken**](https://github.com/ColinEspinas/darken) - 页面黑夜模式切换
-
+- [**highlight.js**](https://github.com/highlightjs/highlight.js) - Javascript 语法高亮
+- [**tagcanvas.js**](https://github.com/goat1000/TagCanvas) - HTML5 基于 canvas 的标签云
+- [**countUp.js**](https://github.com/inorganik/countUp.js) - 通过对数值进行动画处理
 
 ### 工程化
 
 - [**prettier**](https://github.com/prettier/prettier/) - 漂亮的代码格式化 https://prettier.io
 - [**eslint**](https://github.com/eslint/eslint) - 静态代码检查 https://eslint.org/docs/rules/
-- [**lint-staged**](https://github.com/okonet/lint-staged) - 在git暂存文件上运行linters
-- [**jest**](https://github.com/facebook/jest) - JavaScript测试
+- [**lint-staged**](https://github.com/okonet/lint-staged) - 在 git 暂存文件上运行 linters
+- [**jest**](https://github.com/facebook/jest) - JavaScript 测试
 - [**husky**](https://github.com/typicode/husky) - 容易的使用 Git hooks
 - [**cross-env**](https://github.com/kentcdodds/cross-env) - 跨平台的环境变量声明
 - [**codecov**](https://codecov.io/) - 测试覆盖率

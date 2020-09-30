@@ -30,13 +30,14 @@ A list of resources I use（Perspective of F2E）
 - **无损音乐** [无损音乐吧](http://www.wsyyb.com/) [超高无损音乐](https://www.sq688.com/)
 - [**草料二维码**](https://cli.im/) - 二维码生成器
 - [**Temporary Email Address**](https://temp-mail.org) - 临时邮件使用
+- [**lsjgcx**](http://www.lsjgcx.com/) - 历史价格查询
 
 ### 开发中
 
+- **在线 PS** - https://www.uupoop.com/
 - [**tinypng**](https://tinypng.com/) / [**squoosh**](https://squoosh.app) - 图片压缩
 - [**runpkg**](https://github.com/FormidableLabs/runpkg) - 在线 npm 包浏览器 https://runpkg.com/
 - [**Package Diff**](https://diff.intrinsic.com/)，比较 npm 包两个版本直接的区别
-- **在线 PS** - https://www.uupoop.com/
 - [**Material icons**](https://material.io/resources/icons/?style=baseline) - material 图标
 - [**DNS 查询**](http://tool.chinaz.com/dns)
 - [**图片转文字**](https://drive.google.com/drive/my-drive) - [借助 Google 云端硬盘](https://www.youtube.com/watch?v=cbORCzg2nIM)
@@ -100,7 +101,12 @@ A list of resources I use（Perspective of F2E）
 - [**git-tips**](https://github.com/521xueweihan/git-tips) - Git 的奇技淫巧
 - [**project-guidelines**](https://github.com/elsewhencode/project-guidelines/blob/master/README-zh.md) - JavaScript 工程项目规范
 - [**nodebestpractices**](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.chinese.md) - 最大的 Node.js 最佳实践列表
+- [**fe-camp**](https://github.com/webzhao/fe-camp) - 75team front-end camp
 - [**javascript-testing-best-practices**](https://github.com/goldbergyoni/javascript-testing-best-practices/blob/master/readme-zh-CN.md) - 全面而详尽的 JavaScript 和 Node.js 测试最佳实践
+- [**jstraining**](https://github.com/ruanyf/jstraining) 全栈工程师培训材料
+- [**horseshoe**](https://github.com/veedrin/horseshoe) "马蹄铁"专题学习计划
+- [**hacksplaining-lessons**](https://www.hacksplaining.com/lessons) - 通过课程实例了解安全漏洞
+
 
 **[⬆ 返回顶部](#目录)**
 

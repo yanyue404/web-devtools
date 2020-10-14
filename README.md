@@ -141,6 +141,7 @@ A list of resources I use（Perspective of F2E）
 - [**js-cookie**](https://github.com/js-cookie/js-cookie) - 简单，轻便的JavaScript API，用于处理浏览器cookie
 - [**pinyin**](https://github.com/hotoo/pinyin) - 🇨🇳 汉字拼音 ➜ hàn zì pīn yīn
 - [**screenfull.js**](https://github.com/sindresorhus/screenfull.js) - JavaScript全屏API的跨浏览器使用的简单包装
+- [**compressorjs**](https://github.com/fengyuanchen/compressorjs) - JavaScript图像压缩器
 
 ### 工程化
 

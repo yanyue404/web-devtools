@@ -122,6 +122,7 @@ A list of resources I use（Perspective of F2E）
 ### CSS
 
 - [**materialize.css**](https://github.com/Dogfalo/materialize) - [A CSS Framework based on Material Design](https://materializecss.com/)
+- [**github-markdown-css**](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
 
 ### 工具库
 

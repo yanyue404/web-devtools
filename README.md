@@ -25,6 +25,8 @@ A list of resources I use（Perspective of F2E）
     - [辅助开发](#辅助开发)
     - [应用 apps](#应用-apps)
   - [Windows 平台](#Windows-平台)
+    - [基础环境](#基础环境)
+    - [工作中](#工作中) 
   - [Android 平台](#Android-平台)
 - [参考资料](#参考资料)
 
@@ -227,7 +229,7 @@ A list of resources I use（Perspective of F2E）
 
 ### Windows 平台
 
-**基础搭建**
+#### 基础环境
 
 - [**QuickLook**](https://pooi.moe/QuickLook/) - 文件预览
 - [**Listary**](https://www.listary.com/) - 快速检索文件
@@ -241,7 +243,7 @@ A list of resources I use（Perspective of F2E）
 - [**ConEmu**](https://github.com/Maximus5/ConEmu/) - Terminal 终端
 - [**ScreenToGif**](https://www.screentogif.com/) - gif 动画录制
 
-**工作中**
+#### 工作中
 
 - Git 版本控制：[TortoiseGit](https://tortoisegit.org/download/) + [Git bash](https://gitforwindows.org/) + Sourcetree ?
 - [**Navicat Premium**](https://www.navicat.com.cn/products/navicat-premium) - 数据库合集开发工具
@@ -273,7 +275,6 @@ A list of resources I use（Perspective of F2E）
 - Chrome
 - [**Inoreader**](https://play.google.com/store/apps/details?id=com.innologica.inoreader&hl=zh_TW) - RSS 和新闻阅读器
 - Google 翻译
-- Dir - 垃圾清理
 - OpenHub - GitHub 客户端
 - Snapseed -美化图片
 - 微读圣经 + [**圣经**](https://play.google.com/store/apps/details?id=com.sirma.mobile.bible.android&hl=zh_TW)

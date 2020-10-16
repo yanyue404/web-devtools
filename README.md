@@ -18,6 +18,12 @@ A list of resources I use（Perspective of F2E）
   - [工程化](#工程化)
 - [软件](#软件)
   - [Chrome 扩展](#Chrome-扩展)
+    - [优化基础环境](#优化基础环境)
+    - [Youtube](#Youtube)
+    - [下载](#下载)
+    - [Github 相关](#Github-相关)
+    - [辅助开发](#辅助开发)
+    - [应用 apps](#应用-apps)
   - [Windows 平台](#Windows-平台)
   - [Android 平台](#Android-平台)
 - [参考资料](#参考资料)
@@ -160,7 +166,7 @@ A list of resources I use（Perspective of F2E）
 
 ### Chrome 扩展
 
-**优化基础环境**
+#### 优化基础环境
 
 - [**谷歌访问助手**](https://github.com/haotian-wang/google-access-helper) - Google Search
 - [**Vimium**](https://github.com/philc/vimium) - 脱离鼠标操控浏览器
@@ -174,13 +180,13 @@ A list of resources I use（Perspective of F2E）
 - JSONView
 - Wappalyzer - 查看网站所用技术栈
 
-**Youtube**
+#### Youtube
 
 - Looper for YouTube - 自动重播
 - YouTube? 双字幕
 - 油猴脚本 - 本地 YouTube 下載器
 
-**下载**
+#### 下载
 
 - Video DownloadHelper
 - Image Downloader
@@ -188,7 +194,7 @@ A list of resources I use（Perspective of F2E）
 - Video Downloader professional
 - YAAW for Chrome
 
-**Github 相关**
+#### Github 相关
 
 - [**GayHub**](https://github.com/jawil/GayHub) - 文件目录树
 - Octotree + Sourcegraph + [**OctoLinker**](https://github.com/OctoLinker/OctoLinker) - 查看代码
@@ -199,7 +205,7 @@ A list of resources I use（Perspective of F2E）
 - [**github-file-icon**](https://github.com/xxhomey19/github-file-icon)- Github 文件图标
 - Git History Browser Extension - 点击**Open in Git History**按钮 显示文件修改历史
 
-**辅助开发**
+#### 辅助开发
 
 - Clear Cache - 强制刷新清理缓存
 - [**ReRes**](https://github.com/annnhan/ReRes) - 更改页面请求响应的映射，可映射到本机调试
@@ -212,7 +218,7 @@ A list of resources I use（Perspective of F2E）
   - [**网页限制解除**](https://greasyfork.org/zh-TW/scripts/28497-remove-web-limits-modified) - 通殺大部分網站,可以解除禁止復制、剪切、選擇文本、右鍵菜單的限制
   - [**本地 YouTube 下載器**](https://greasyfork.org/zh-TW/scripts/369400-local-youtube-downloader) - 下载视频与音乐
 
-**应用 apps**
+#### 应用 apps
 
 - Postman
 - Gliffy 绘图工具

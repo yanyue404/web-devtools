@@ -8,6 +8,7 @@ A list of resources I use（Perspective of F2E）
   - [Top](#top)
   - [开发中](#开发中)
   - [格式化](#格式化)
+  - [图片集](#图片集合)
   - [开放 API](#开放-API)
 - [网络](#网络)
 - [教程](#教程)
@@ -26,7 +27,7 @@ A list of resources I use（Perspective of F2E）
     - [应用 apps](#应用-apps)
   - [Windows 平台](#Windows-平台)
     - [基础环境](#基础环境)
-    - [工作中](#工作中) 
+    - [工作中](#工作中)
   - [Android 平台](#Android-平台)
 - [参考资料](#参考资料)
 
@@ -57,9 +58,6 @@ A list of resources I use（Perspective of F2E）
 - [**regulex**](https://jex.im/regulex/) - 正则可视化
 - [**regex101**](https://regex101.com/) - 正则表达式测试
 - [**remove bg**](https://www.remove.bg/zh/upload) - 为上传的图片消除背景
-- [**grabient**](https://www.grabient.com/) - 生成漂亮的 CSS 渐变
-- [**animista**](https://animista.net/) - 在线生成 CSS 动画
-- [**easings**](https://easings.net/) - 缓动函数速查表
 - [**webpack-autoconf**](https://github.com/jakoblind/webpack-autoconf) - webpack 配置工具
 - [**netlify**](https://www.netlify.com/) - 静态网站托管服务
 - [**visualgo**](https://visualgo.net/zh/) - 数据结构，算法可视化
@@ -77,6 +75,23 @@ A list of resources I use（Perspective of F2E）
 - [**彩云小译**](https://fanyi.caiyunapp.com/#/web) - [小译同传](https://www.caiyunapp.com/interpretation/)
 - [**Bitly**](https://bitly.com/) - 短网址 [**国内 1**](https://tool.chinaz.com/tools/dwz.aspx)
 - [**Temp**](https://temp.pm/) - 短信息（可加密）
+
+### 图片集
+
+下面都是图库网站，提供免费的商业级高清晰度图片下载。（参考自 https://github.com/ruanyf/weekly）
+
+- [Unsplash](https://unsplash.com/)
+- [Pexels](https://www.pexels.com/)
+- [Gratisography](https://gratisography.com/)
+- [picjumbo](https://picjumbo.com/)
+- [Pixabay](https://pixabay.com/)
+- [Canva](https://www.canva.com/photos/free/)
+- [reshot](https://www.reshot.com/)
+- [rawpixel](https://www.rawpixel.com/)
+- [Morguefile](https://morguefile.com/)
+- [pxhere](https://pxhere.com/)
+- [ISO Republic](https://isorepublic.com/)
+- [泼辣有图](https://www.polaxiong.com/)
 
 ### 开放 API
 
@@ -115,7 +130,6 @@ A list of resources I use（Perspective of F2E）
 - [**horseshoe**](https://github.com/veedrin/horseshoe) "马蹄铁"专题学习计划
 - [**hacksplaining-lessons**](https://www.hacksplaining.com/lessons) - 通过课程实例了解安全漏洞
 
-
 **[⬆ 返回顶部](#目录)**
 
 ## 前端库
@@ -129,8 +143,17 @@ A list of resources I use（Perspective of F2E）
 
 ### CSS
 
+- [**grabient**](https://www.grabient.com/) - 生成漂亮的 CSS 渐变
+- [**animista**](https://animista.net/) - 在线生成 CSS 动画
+- [**easings**](https://easings.net/) - 缓动函数速查表
+- [**css-triangle-generator**](http://apps.eky.hk/css-triangle-generator/zh-hant) - CSS 三角形产生器
 - [**materialize.css**](https://github.com/Dogfalo/materialize) - [A CSS Framework based on Material Design](https://materializecss.com/)
 - [**github-markdown-css**](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
+- [Brand Colors](https://brandcolors.net/) - 各大热门社交网站的配色方案
+- [Material Palette](https://www.materialpalette.com/) - 提供 Material Design 配色的线上工具（从自选两种颜色开始）
+- [Material UI Colors](https://www.materialui.co/colors) - Material UI Colors 是为 Material Design 而生的配色模板
+- [0 to 255](https://www.0to255.com/) - 一个作为出发点的颜色（起始颜色），有序呈现色彩变化的颜色列表
+- [Adobe Color CC](https://color.adobe.com/zh/create/color-wheel) - 快速创建 5 色的新色彩主题
 
 ### 工具库
 
@@ -147,10 +170,10 @@ A list of resources I use（Perspective of F2E）
 - [**highlight.js**](https://github.com/highlightjs/highlight.js) - Javascript 语法高亮
 - [**tagcanvas.js**](https://github.com/goat1000/TagCanvas) - HTML5 基于 canvas 的标签云
 - [**countUp.js**](https://github.com/inorganik/countUp.js) - 通过对数值进行动画处理
-- [**js-cookie**](https://github.com/js-cookie/js-cookie) - 简单，轻便的JavaScript API，用于处理浏览器cookie
+- [**js-cookie**](https://github.com/js-cookie/js-cookie) - 简单，轻便的 JavaScript API，用于处理浏览器 cookie
 - [**pinyin**](https://github.com/hotoo/pinyin) - 🇨🇳 汉字拼音 ➜ hàn zì pīn yīn
-- [**screenfull.js**](https://github.com/sindresorhus/screenfull.js) - JavaScript全屏API的跨浏览器使用的简单包装
-- [**compressorjs**](https://github.com/fengyuanchen/compressorjs) - JavaScript图像压缩器
+- [**screenfull.js**](https://github.com/sindresorhus/screenfull.js) - JavaScript 全屏 API 的跨浏览器使用的简单包装
+- [**compressorjs**](https://github.com/fengyuanchen/compressorjs) - JavaScript 图像压缩器
 
 ### 工程化
 

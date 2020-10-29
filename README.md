@@ -8,7 +8,7 @@ A list of resources I use（Perspective of F2E）
   - [Top](#top)
   - [开发中](#开发中)
   - [格式化](#格式化)
-  - [图片集](#图片集合)
+  - [图库](#图库)
   - [开放 API](#开放-API)
 - [网络](#网络)
 - [教程](#教程)
@@ -76,7 +76,7 @@ A list of resources I use（Perspective of F2E）
 - [**Bitly**](https://bitly.com/) - 短网址 [**国内 1**](https://tool.chinaz.com/tools/dwz.aspx)
 - [**Temp**](https://temp.pm/) - 短信息（可加密）
 
-### 图片集
+### 图库
 
 下面都是图库网站，提供免费的商业级高清晰度图片下载。（参考自 https://github.com/ruanyf/weekly）
 

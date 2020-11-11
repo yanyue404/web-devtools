@@ -95,6 +95,7 @@ A list of resources I use（Perspective of F2E）
 
 ### 开放 API
 
+- [**18位身份证号和名字**](http://sfzdq.uzuzuz.com/)
 - [**jsonplaceholder**](https://github.com/typicode/jsonplaceholder) A simple online fake REST API server https://jsonplaceholder.typicode.com
 - [**GitHub API v3**](https://developer.github.com/v3/)
 - [**cnode**](https://cnodejs.org/api)

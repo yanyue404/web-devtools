@@ -167,6 +167,7 @@ A list of resources I use（Perspective of F2E）
 - [**object.omit**](https://github.com/jonschlinkert/object.omit) - 返回忽略 key 的对象副本
 - [**download**](https://github.com/rndme/download) - 使用客户端 javascript 下载文件
 - [**FileSaver.js**](https://github.com/eligrey/FileSaver.js) - HTML5 saveAs（）FileSaver实现
+- [**sheetjs**](https://github.com/SheetJS/sheetjs) - JS SheetJS社区版 Excel 数据工具包
 - [**markdown-table**](https://github.com/wooorm/markdown-table) - node.js 生成 markdown table 表
 - [**darken**](https://github.com/ColinEspinas/darken) - 页面黑夜模式切换
 - [**highlight.js**](https://github.com/highlightjs/highlight.js) - Javascript 语法高亮

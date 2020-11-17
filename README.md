@@ -260,6 +260,7 @@ A list of resources I use（Perspective of F2E）
 - [**QuickLook**](https://pooi.moe/QuickLook/) - 文件预览
 - [**Listary**](https://www.listary.com/) - 快速检索文件
 - [**Notepad2-mod**](https://xhmikosr.github.io/notepad2-mod/) - 代替自带 windows 记事本
+- [**QTTabBar**](http://qttabbar.wikidot.com/) - 增强 windows 资源管理器
 - [**Snipaste**](https://zh.snipaste.com/) - 截图 + 取色
 - [**eyefoo**](http://eyefoo.com/) / [**f.lux**](https://justgetflux.com/) / [**Sunset Screen**](https://www.skytopia.com/software/sunsetscreen/)- 保护眼睛
 - [**FiraCode**](https://github.com/tonsky/FiraCode) Vscode 使用的字体
@@ -269,6 +270,7 @@ A list of resources I use（Perspective of F2E）
 - [**ConEmu**](https://github.com/Maximus5/ConEmu/) - Terminal 终端
 - [**ScreenToGif**](https://www.screentogif.com/) - gif 动画录制
 - [**Sumatra PDF**](https://www.sumatrapdfreader.org/free-pdf-reader.html) - 电子书阅读 （或 看图王 PDF 阅读器）
+- [**AnyTXT Searcher**](https://anytxt.net/) - 文本文件的全文搜索，支持 txt、xls、docx、pptx、pdf 等文件格式
 
 #### 工作中
 

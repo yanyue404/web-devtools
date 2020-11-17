@@ -268,6 +268,7 @@ A list of resources I use（Perspective of F2E）
 - [**PotPlayer**](https://daumpotplayer.com/download/) - 视频播放
 - [**ConEmu**](https://github.com/Maximus5/ConEmu/) - Terminal 终端
 - [**ScreenToGif**](https://www.screentogif.com/) - gif 动画录制
+- [**Sumatra PDF**](https://www.sumatrapdfreader.org/free-pdf-reader.html) - 电子书阅读 （或 看图王 PDF 阅读器）
 
 #### 工作中
 

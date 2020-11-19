@@ -319,6 +319,8 @@ A list of resources I use（Perspective of F2E）
 ## 资源
 
 - [standardebooks](https://standardebooks.org/) - 免费开放的电子书，为真正的书迷精心制作。
+- [Programming Notes for Professionals books](https://goalkicker.com/) - 专业人士编程笔记书
+- [Best Computer Science Books](https://coderscat.com/best-cs-books/) - 一个详细的关于计算机科学方面的书单
 
 ## 参考资料
 

@@ -29,6 +29,7 @@ A list of resources I use（Perspective of F2E）
     - [基础环境](#基础环境)
     - [工作中](#工作中)
   - [Android 平台](#Android-平台)
+- [资源](#资源)
 - [参考资料](#参考资料)
 
 ## 在线使用
@@ -314,6 +315,10 @@ A list of resources I use（Perspective of F2E）
 - ReadEra - pdf, epub, word 电子书
 
 **[⬆ 返回顶部](#目录)**
+
+## 资源
+
+- [standardebooks](https://standardebooks.org/) - 免费开放的电子书，为真正的书迷精心制作。
 
 ## 参考资料
 

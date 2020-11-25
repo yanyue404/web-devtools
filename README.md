@@ -178,6 +178,7 @@ A list of resources I use（Perspective of F2E）
 - [**pinyin**](https://github.com/hotoo/pinyin) - 🇨🇳 汉字拼音 ➜ hàn zì pīn yīn
 - [**screenfull.js**](https://github.com/sindresorhus/screenfull.js) - JavaScript 全屏 API 的跨浏览器使用的简单包装
 - [**compressorjs**](https://github.com/fengyuanchen/compressorjs) - JavaScript 图像压缩器
+- [**nprogress**](https://github.com/rstacruz/nprogress) - 异步请求进度条
 
 ### 工程化
 

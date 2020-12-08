@@ -96,7 +96,7 @@ A list of resources I use（Perspective of F2E）
 
 ### 开放 API
 
-- [**18位身份证号和名字**](http://sfzdq.uzuzuz.com/)
+- [**18 位身份证号和名字**](http://sfzdq.uzuzuz.com/)
 - [**jsonplaceholder**](https://github.com/typicode/jsonplaceholder) A simple online fake REST API server https://jsonplaceholder.typicode.com
 - [**GitHub API v3**](https://developer.github.com/v3/)
 - [**cnode**](https://cnodejs.org/api)
@@ -167,8 +167,8 @@ A list of resources I use（Perspective of F2E）
 - [**debug**](https://github.com/visionmedia/debug) - 打印调试信息
 - [**object.omit**](https://github.com/jonschlinkert/object.omit) - 返回忽略 key 的对象副本
 - [**download**](https://github.com/rndme/download) - 使用客户端 javascript 下载文件
-- [**FileSaver.js**](https://github.com/eligrey/FileSaver.js) - HTML5 saveAs（）FileSaver实现
-- [**sheetjs**](https://github.com/SheetJS/sheetjs) - JS SheetJS社区版 Excel 数据工具包
+- [**FileSaver.js**](https://github.com/eligrey/FileSaver.js) - HTML5 saveAs（）FileSaver 实现
+- [**sheetjs**](https://github.com/SheetJS/sheetjs) - JS SheetJS 社区版 Excel 数据工具包
 - [**markdown-table**](https://github.com/wooorm/markdown-table) - node.js 生成 markdown table 表
 - [**darken**](https://github.com/ColinEspinas/darken) - 页面黑夜模式切换
 - [**highlight.js**](https://github.com/highlightjs/highlight.js) - Javascript 语法高亮
@@ -179,6 +179,8 @@ A list of resources I use（Perspective of F2E）
 - [**screenfull.js**](https://github.com/sindresorhus/screenfull.js) - JavaScript 全屏 API 的跨浏览器使用的简单包装
 - [**compressorjs**](https://github.com/fengyuanchen/compressorjs) - JavaScript 图像压缩器
 - [**nprogress**](https://github.com/rstacruz/nprogress) - 异步请求进度条
+- [**async-validator**](https://github.com/yiminghe/async-validator) - 异步表单验证
+- [**popperjs**](https://github.com/popperjs/popper-core) - 定位工具提示和弹出窗口
 
 ### 工程化
 

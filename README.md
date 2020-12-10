@@ -15,6 +15,7 @@ A list of resources I use（Perspective of F2E）
 - [前端库](#前端库)
   - [命令行](#命令行)
   - [CSS](#CSS)
+    - [配色方案](#配色方案)
   - [工具库](#工具库)
   - [工程化](#工程化)
 - [软件](#软件)
@@ -145,12 +146,18 @@ A list of resources I use（Perspective of F2E）
 
 ### CSS
 
+- [animate.css](https://github.com/animate-css/animate.css) - 最有名的动画效果库
 - [**grabient**](https://www.grabient.com/) - 生成漂亮的 CSS 渐变
 - [**animista**](https://animista.net/) - 在线生成 CSS 动画
 - [**easings**](https://easings.net/) - 缓动函数速查表
 - [**css-triangle-generator**](http://apps.eky.hk/css-triangle-generator/zh-hant) - CSS 三角形产生器
 - [**materialize.css**](https://github.com/Dogfalo/materialize) - [A CSS Framework based on Material Design](https://materializecss.com/)
 - [**github-markdown-css**](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
+- [direction-reveal](https://github.com/NigelOToole/direction-reveal) - 根据鼠标进入位置，展现从不同方向 展现 hover 效果
+- [**micron**](https://github.com/webkul/micron) - 通过在元素上绑定属性从而实现动画效果的库
+
+#### 配色方案
+
 - [Brand Colors](https://brandcolors.net/) - 各大热门社交网站的配色方案
 - [Material Palette](https://www.materialpalette.com/) - 提供 Material Design 配色的线上工具（从自选两种颜色开始）
 - [Material UI Colors](https://www.materialui.co/colors) - Material UI Colors 是为 Material Design 而生的配色模板
@@ -181,6 +188,7 @@ A list of resources I use（Perspective of F2E）
 - [**nprogress**](https://github.com/rstacruz/nprogress) - 异步请求进度条
 - [**async-validator**](https://github.com/yiminghe/async-validator) - 异步表单验证
 - [**popperjs**](https://github.com/popperjs/popper-core) - 定位工具提示和弹出窗口
+- [**vue-multiselect**](https://github.com/shentao/vue-multiselect) - vue select 组件
 
 ### 工程化
 

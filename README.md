@@ -142,6 +142,7 @@ A list of resources I use（Perspective of F2E）
 - [**rimraf**](https://github.com/isaacs/rimraf) - 删除文件 `rimraf node_modules`
 - [**kill-port-process**](https://github.com/hilleer/kill-port-process) - 命令行杀死被占用的端口服务 `kill-port 3000`
 - [**tree-cli**](https://github.com/MrRaindrop/tree-cli) - 生成 tree 目录结构 `tree -l 2 -o output.txt --ignore 'node_modules'`
+- [**tree-node-cli**](https://github.com/yangshun/tree-node-cli) - node 根据目录结构生成 tree
 - [**nodemon**](https://github.com/remy/nodemon/) - 监视 node.js 应用程序中的修改，实时更新
 
 ### CSS
@@ -192,6 +193,7 @@ A list of resources I use（Perspective of F2E）
 
 ### 工程化
 
+- [**cross-env**](https://github.com/kentcdodds/cross-env) - 跨平台的环境变量声明
 - [**prettier**](https://github.com/prettier/prettier/) - 漂亮的代码格式化 https://prettier.io
 - [**eslint**](https://github.com/eslint/eslint) - 静态代码检查 https://eslint.org/docs/rules/
 - [**lint-staged**](https://github.com/okonet/lint-staged) - 在 git 暂存文件上运行 linters
@@ -199,6 +201,7 @@ A list of resources I use（Perspective of F2E）
 - [**husky**](https://github.com/typicode/husky) - 容易的使用 Git hooks
 - [**cross-env**](https://github.com/kentcdodds/cross-env) - 跨平台的环境变量声明
 - [**codecov**](https://codecov.io/) - 测试覆盖率
+- [**onchange**](https://github.com/Qard/onchange) - 监听文件变动然后做一些事
 
 **[⬆ 返回顶部](#目录)**
 
@@ -279,21 +282,22 @@ A list of resources I use（Perspective of F2E）
 - [**typora**](https://typora.io/#windows) windows markdown 编辑器
 - [**7ZIP**](https://www.7-zip.org/) - 工具压缩工具（逃离 2345）
 - [**PotPlayer**](https://daumpotplayer.com/download/) - 视频播放
-- [**ConEmu**](https://github.com/Maximus5/ConEmu/) - Terminal 终端
 - [**ScreenToGif**](https://www.screentogif.com/) - gif 动画录制
 - [**Sumatra PDF**](https://www.sumatrapdfreader.org/free-pdf-reader.html) - 电子书阅读 （或 看图王 PDF 阅读器）
 - [**AnyTXT Searcher**](https://anytxt.net/) - 文本文件的全文搜索，支持 txt、xls、docx、pptx、pdf 等文件格式
+- [**有道云笔记**](https://note.youdao.com/)
+- [**网易邮箱大师**](https://mail.163.com/dashi/)
 
 #### 工作中
 
+- [VS Code](https://code.visualstudio.com/) - 我的编辑器
 - Git 版本控制：[TortoiseGit](https://tortoisegit.org/download/) + [Git bash](https://gitforwindows.org/) + Sourcetree ?
+- [**ConEmu**](https://github.com/Maximus5/ConEmu/) - Terminal 终端
+- [**Charles**](https://www.charlesproxy.com/) - 抓包用，支持 https
 - [**Navicat Premium**](https://www.navicat.com.cn/products/navicat-premium) - 数据库合集开发工具
 - [**Postman**](https://www.getpostman.com/) - api 请求，通过 chrome apps 使用
 - [**npm**](https://github.com/npm/cli) + [**yarn**](https://yarnpkg.com/zh-Hant) - node 包管理
 - [**Beyond Compare**](https://www.scootersoftware.com/download.php) - 快速比较文件和文件夹
-- [**Xmind**](https://www.xmind.cn/xmind8-pro/) - 思维导图
-- [**有道云笔记**](https://note.youdao.com/)
-- [**网易邮箱大师**](https://mail.163.com/dashi/)
 
 **其他**
 

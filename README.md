@@ -58,6 +58,7 @@ A list of resources I use（Perspective of F2E）
 - [**loupe**](https://github.com/latentflip/loupe) - 可视化的 javascript 实时运行,理解异步, Built by [**Philip Roberts**](http://github.com/latentflip)
 - [**RMind**](https://github.com/Mongkii/RMind) - 基于 React Hooks 与 flex 布局 的思维导图 https://mongkii.github.io/RMind/
 - [**regulex**](https://jex.im/regulex/) - 正则可视化
+- [**RegExper**](https://regexper.com/) - 同上
 - [**regex101**](https://regex101.com/) - 正则表达式测试
 - [**remove bg**](https://www.remove.bg/zh/upload) - 为上传的图片消除背景
 - [**webpack-autoconf**](https://github.com/jakoblind/webpack-autoconf) - webpack 配置工具
@@ -190,6 +191,7 @@ A list of resources I use（Perspective of F2E）
 - [**async-validator**](https://github.com/yiminghe/async-validator) - 异步表单验证
 - [**popperjs**](https://github.com/popperjs/popper-core) - 定位工具提示和弹出窗口
 - [**vue-multiselect**](https://github.com/shentao/vue-multiselect) - vue select 组件
+- [**texme**](https://github.com/susam/texme) - 一个 JS 库，可以将 Markdown 自动渲染成网页内容
 
 ### 工程化
 

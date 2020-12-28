@@ -1,50 +1,42 @@
 {
-  // 关闭自动更新
-  // 配色、图标、字体以及其他外观配置项
-  "workbench.colorTheme": "Solarized Dark",
-  "editor.wordWrap": "on",
+  // ! 基本外观配置项 -- start
+
+  "breadcrumbs.enabled": true,
+  "editor.fontSize": 13.5,
+  "files.autoSave": "afterDelay",
   "editor.cursorStyle": "block",
   "editor.fontFamily": "Fira Code",
   "editor.fontLigatures": true,
-  "editor.lineHeight": 24,
+  "editor.lineHeight": 21,
   "editor.lineNumbers": "on",
   "editor.minimap.enabled": true,
-  "files.autoSave": "afterDelay",
-  // 当选择其中一项时，将突出显示匹配的括号
   "editor.matchBrackets": "always",
   "editor.formatOnSave": true,
   "editor.rulers": [120],
+  "editor.snippetSuggestions": "top",
+  "workbench.startupEditor": "none",
+  "emmet.triggerExpansionOnTab": true,
   "emmet.includeLanguages": {
     "vue-html": "html",
     "javascript": "javascriptreact",
     "wxml": "html"
   },
-  "editor.snippetSuggestions": "top",
-  // emmet
-  "emmet.triggerExpansionOnTab": true,
   "emmet.syntaxProfiles": {
     "vue-html": "html",
     "javascript": "javascriptreact"
   },
-  "workbench.startupEditor": "none",
-  // git
-  "git.ignoreMissingGitWarning": true,
-  "git.path": "D:/Alike/git/Git/cmd/git.exe",
-  "git.autofetch": true,
-  "git.confirmSync": false,
-  "window.menuBarVisibility": "default", // 自动拉取
-  // 浏览器
   "view-in-browser.customBrowser": "chrome",
+  "workbench.colorTheme": "Solarized Dark",
   "workbench.sideBar.location": "left",
   "workbench.iconTheme": "vscode-icons",
+  // 将当前行代码高亮显示
+  "workbench.colorCustomizations": {
+    "editor.lineHighlightBackground": "#135564",
+    "editor.lineHighlightBorder": "#135564"
+  },
   "window.zoomLevel": 0,
-  "terminal.integrated.shell.windows": "C:\\windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
-  "vsicons.dontShowNewVersionMessage": true,
-  "sync.gist": "6ec0cfa175274df2dd12e4614a59b756",
-  "extensions.ignoreRecommendations": true,
-  "javascript.updateImportsOnFileMove.enabled": "always",
-  "css.validate": true,
-  "scss.validate": false,
+  "explorer.confirmDelete": true,
+  "editor.multiCursorModifier": "ctrlCmd",
   // 在使用搜索功能时，将这些文件夹/文件排除在外
   "search.exclude": {
     "**/node_modules": true,
@@ -52,47 +44,24 @@
     "package-lock.json": true,
     "yarn.lock": true
   },
-  "files.associations": {
-    "*.cjson": "jsonc",
-    "*.wxss": "css",
-    "*.wxs": "javascript"
-  },
   // 这些文件将不会显示在工作空间中
   "files.exclude": {
     "**/.git": true,
     "**/.svn": true,
     "**/node_modules": true
   },
-  // 支持 webpack alias
-  "path-autocomplete.excludedItems": {
-    "**/*.js": { "when": "**/*.ts" }, // ignore js files if i'm inside a ts file
-    "**/*.map": { "when": "**" }, // always ignore *.map files
-    "**/{.git,node_modules}": { "when": "**" } // always ignore .git and node_modules folders
-  },
+  // 支持 import 别名 @
   "path-autocomplete.pathMappings": {
     "@": "${folder}/src"
   },
-  // prettier
-  // "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "[javascript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "[javascriptreact]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "[vue]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "minapp-vscode.wxmlFormatter": "prettier",
-  "minapp-vscode.prettier": {
-    "parser": "html"
-  },
-  "easysass.formats": [
-    {
-      "format": "expanded", // 没有缩进的、扩展的css代码
-      "extension": ".wxss" //转化的后缀名
-    }
-  ],
+  // Guides 插件设置缩进参考
+  "guides.normal.color.dark": "rgba(91, 91, 91, 0.6)",
+  "guides.normal.color.light": "rgba(220, 220, 220, 0.7)",
+  "guides.active.color.dark": "rgba(210, 110, 210, 0.6)",
+  "guides.active.color.light": "rgba(200, 100, 100, 0.7)",
+  "guides.active.style": "dashed",
+  "guides.normal.style": "dashed",
+  "guides.stack.style": "dashed",
   // todo-tree
   "todo-tree.general.tags": ["TODO:", "FIXME:"],
   "todo-tree.highlights.defaultHighlight": {
@@ -111,25 +80,58 @@
       "iconColour": "#f06292"
     }
   },
-  "explorer.confirmDelete": true,
-  "typescript.updateImportsOnFileMove.enabled": "always",
-  "editor.fontSize": 15,
-  "explorer.compactFolders": false,
-  "editor.multiCursorModifier": "ctrlCmd",
+  // ! 基本外观配置项 -- end
+  // ? 自定义 git
+  "git.ignoreMissingGitWarning": true,
+  "git.path": "D:/Environment/git/Git/cmd/git.exe",
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  // ? 自定义 terminal
+  "terminal.integrated.shell.windows": "C:\\windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+  "terminal.integrated.fontSize": 13,
+  "terminal.integrated.lineHeight": 1.2,
+  "terminal.integrated.fontWeight": "500",
+  "terminal.integrated.fontFamily": "Fira Code",
+  // ? 格式化 prettier start
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  //分号和双引号确实不会再自动添加了，但是不会在方法括号之间插入空格，可以再加入这条配置即可
+  "vetur.format.defaultFormatter.js": "vscode-typescript",
+  "minapp-vscode.wxmlFormatter": "prettier",
+  "minapp-vscode.prettier": {
+    "parser": "html"
+  },
   "minapp-vscode.disableAutoConfig": true,
+  // ? 格式化 prettier end
+  "vsicons.dontShowNewVersionMessage": true,
+  "sync.gist": "6ec0cfa175274df2dd12e4614a59b756",
+  "extensions.ignoreRecommendations": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "css.validate": true,
+  "scss.validate": false,
+  "files.associations": {
+    "*.cjson": "jsonc",
+    "*.wxss": "css",
+    "*.wxs": "javascript"
+  },
+  "eslint.enable": false,
   "rss.accounts": {
     "257ef0e0-d2f8-11ea-8c6e-3be1149b6528": {
       "name": "Default",
       "type": "local",
-      "feeds": [
-        "http://www.ruanyifeng.com/blog/atom.xml"
-      ]
+      "feeds": ["http://www.ruanyifeng.com/blog/atom.xml"]
     }
   },
   "tabnine.experimentalAutoImports": true,
-   // terminal
-  "terminal.integrated.fontSize": 13,
-  "terminal.integrated.lineHeight": 1.2,
-  "terminal.integrated.fontWeight": "500",
-  "terminal.integrated.fontFamily": "Fira Code"
+  "editor.renderIndentGuides": false,
+  "gitlens.views.repositories.files.layout": "list"
 }

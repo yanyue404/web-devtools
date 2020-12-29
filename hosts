@@ -21,8 +21,24 @@
 # localhost name resolution is handled within DNS itself.
 
   198.35.26.96    zh.wikipedia.org
-  140.82.112.3  github.com  
-  199.232.68.133 githubusercontent.com
+  140.82.112.3  github.com
+  199.232.96.133 githubusercontent.com
+  199.232.96.133 raw.githubusercontent.com
+  199.232.96.133 camo.githubusercontent.com
+  199.232.96.133 gist.githubusercontent.com
+  199.232.96.133 cloud.githubusercontent.com
+  199.232.96.133 assets-cdn.githubusercontent.com
+  199.232.96.133 user-images.githubusercontent.com
+  199.232.96.133 avatars0.githubusercontent.com
+  199.232.96.133 avatars1.githubusercontent.com
+  199.232.96.133 avatars2.githubusercontent.com
+  199.232.96.133 avatars3.githubusercontent.com
+  199.232.96.133 avatars4.githubusercontent.com
+  199.232.96.133 avatars5.githubusercontent.com
+  199.232.96.133 avatars6.githubusercontent.com
+  199.232.96.133 avatars7.githubusercontent.com
+  199.232.96.133 avatars8.githubusercontent.com
+  47.100.4.72 fuyin.tv
   127.0.0.1 localhost
 # 127.0.0.1 pvp.qq.com
 # 127.0.0.1 www.huya.com

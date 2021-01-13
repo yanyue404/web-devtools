@@ -331,6 +331,7 @@ A list of resources I use（Perspective of F2E）
 - VLC for Android
 - OfficeSuite + PDF Editor - 查看，编辑，创建，Word，Excel 和 PowerPoint 文档
 - ReadEra - pdf, epub, word 电子书
+- [code-reader](https://github.com/loopeer/code-reader) 代码阅读器
 
 **[⬆ 返回顶部](#目录)**
 

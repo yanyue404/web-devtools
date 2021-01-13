@@ -258,6 +258,7 @@ A list of resources I use（Perspective of F2E）
 - Axure RP Extension for Chrome - 原型图查看
 - [**ReplaceGoogleCDN**](https://github.com/justjavac/ReplaceGoogleCDN) - 将 Google CDN 替换为国内的
 - 高效网页截图编辑插件
+- [**Code-Injector**](https://github.com/Lor-Saba/Code-Injector) 一个基于 WebExtensions 的插件，允许用户将代码注入网站
 - [**Tampermonkey**](https://greasyfork.org/zh-TW)
   - [**SaveFrom.net helper**](https://zh.savefrom.net/1-how-to-download-youtube-video.html) - 速度最快的免费 YouTube 下载器
   - [**网页限制解除**](https://greasyfork.org/zh-TW/scripts/28497-remove-web-limits-modified) - 通殺大部分網站,可以解除禁止復制、剪切、選擇文本、右鍵菜單的限制

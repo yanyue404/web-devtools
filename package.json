@@ -1,0 +1,28 @@
+{
+  "name": "awesome-studio",
+  "version": "1.0.0",
+  "description": "A list of resources I use（Perspective of F2E）",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rainbow-design/awesome-studio.git"
+  },
+  "keywords": [
+    "awesome",
+    "studio",
+    "front-end"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rainbow-design/awesome-studio/issues"
+  },
+  "homepage": "https://github.com/rainbow-design/awesome-studio#readme",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}

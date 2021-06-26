@@ -45,7 +45,7 @@ A list of resources I use（Perspective of F2E）
 
 ### 开发中
 
-- **在线 PS** - https://www.uupoop.com/
+- [**在线 PS**](https://www.uupoop.com/#/old)
 - [**tinypng**](https://tinypng.com/) / [**squoosh**](https://squoosh.app) - 图片压缩
 - [**runpkg**](https://github.com/FormidableLabs/runpkg) - 在线 npm 包浏览器 https://runpkg.com/
 - [**Package Diff**](https://diff.intrinsic.com/)，比较 npm 包两个版本直接的区别
@@ -98,7 +98,6 @@ A list of resources I use（Perspective of F2E）
 
 ### 开放 API
 
-- [**18 位身份证号和名字**](http://sfzdq.uzuzuz.com/)
 - [**jsonplaceholder**](https://github.com/typicode/jsonplaceholder) A simple online fake REST API server https://jsonplaceholder.typicode.com
 - [**GitHub API v3**](https://developer.github.com/v3/)
 - [**cnode**](https://cnodejs.org/api)
@@ -133,6 +132,7 @@ A list of resources I use（Perspective of F2E）
 - [**jstraining**](https://github.com/ruanyf/jstraining) 全栈工程师培训材料
 - [**horseshoe**](https://github.com/veedrin/horseshoe) "马蹄铁"专题学习计划
 - [**hacksplaining-lessons**](https://www.hacksplaining.com/lessons) - 通过课程实例了解安全漏洞
+- [**vue-advanced-workshop**](https://github.com/zhengguorong/vue-advanced-workshop) - 尤雨溪亲自讲解 vue 高级特性
 
 **[⬆ 返回顶部](#目录)**
 
@@ -195,6 +195,7 @@ A list of resources I use（Perspective of F2E）
 
 ### 工程化
 
+- [Create App](https://createapp.dev/) - Frontend build config generator
 - [**cross-env**](https://github.com/kentcdodds/cross-env) - 跨平台的环境变量声明
 - [**prettier**](https://github.com/prettier/prettier/) - 漂亮的代码格式化 https://prettier.io
 - [**eslint**](https://github.com/eslint/eslint) - 静态代码检查 https://eslint.org/docs/rules/
@@ -204,6 +205,7 @@ A list of resources I use（Perspective of F2E）
 - [**cross-env**](https://github.com/kentcdodds/cross-env) - 跨平台的环境变量声明
 - [**codecov**](https://codecov.io/) - 测试覆盖率
 - [**onchange**](https://github.com/Qard/onchange) - 监听文件变动然后做一些事
+- [**quicklink**](https://github.com/GoogleChromeLabs/quicklink) - 让浏览器在空闲时间预加载（prefetch）可见界面上的链接来实现让网站体验更好
 
 **[⬆ 返回顶部](#目录)**
 

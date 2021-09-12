@@ -4,6 +4,7 @@ A list of resources I use（Perspective of F2E）
 
 ## 目录
 
+- [基督徒](#基督徒)
 - [前端圈](#前端圈)
 - [Node](#node)
 - [互联网](#互联网)
@@ -11,6 +12,11 @@ A list of resources I use（Perspective of F2E）
 - [Windows 平台](#windows-平台)
 - [Android 设备](#android-设备)
 - [书籍](#书籍)
+
+## 基督徒
+
+- [王明道文库精选](http://www.jonahome.net/files/wmd/index.htm)
+- [天上的灵粮-王明道](https://www.tingdao.org/dist/#/SectionList?lxid=10&author=%E7%8E%8B%E6%98%8E%E9%81%93)
 
 ## 前端圈
 
@@ -173,6 +179,7 @@ A list of resources I use（Perspective of F2E）
 
 ### 有趣
 
+- [**Git.io**](https://git.io/) - 短链接
 - [**Temporary Email Address**](https://temp-mail.org) - 临时邮件使用
 - [**Temp**](https://temp.pm/) - 短信息（可加密）
 - **无损音乐** [无损音乐吧](http://www.wsyyb.com/) [超高无损音乐](https://www.sq688.com/)

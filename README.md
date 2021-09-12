@@ -4,13 +4,13 @@ A list of resources I use（Perspective of F2E）
 
 ## 目录
 
-- 前端圈
-- Node
-- 互联网
-- Chrome 扩展
-- Windows 平台
-- Android 设备
-- 书籍
+- [前端圈](#前端圈)
+- [Node](#node)
+- [互联网](#互联网)
+- [Chrome-扩展](#chrome-扩展)
+- [Windows 平台](#windows-平台)
+- [Android 设备](#android-设备)
+- [书籍](#书籍)
 
 ## 前端圈
 
@@ -32,6 +32,7 @@ A list of resources I use（Perspective of F2E）
 - [**waifu2x**](https://github.com/nagadomi/waifu2x) - 图片进行放大操作 http://waifu2x.udp.jp/index.zh-CN.html
 - [**Picas**](https://github.com/djyde/Picas) - Google 字体生成的项目徽标 https://picas.now.sh/
 - [**wechat-format**](https://github.com/lyricat/wechat-format) - [微信公众号排版编辑器](https://lab.lyric.im/wxformat)
+- [**md**](https://github.com/doocs/md) - 微信公众号 Markdown 编辑器，基于 wechat-format 进行了二次开发
 - [**logoly**](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator https://www.logoly.pro/
 - [**remove bg**](https://www.remove.bg/zh/upload) - 为上传的图片消除背景
 - [**carbon**](https://carbon.now.sh/) 在线代码生成图片 https://carbon.now.sh/
@@ -39,6 +40,7 @@ A list of resources I use（Perspective of F2E）
 - [**tui.editor**](https://github.com/nhn/tui.editor) - Markdown 所见即所得编辑器
 - [**clipboard2markdown**](https://euangoddard.github.io/clipboard2markdown/) - 将你所有复制进去的内容都转化为 markdown
 - [**to_markdown**](https://github.com/liangtengyu/to_markdown) - 一键解析多平台文章地址链接 为 Markdown http://markdown.liangtengyu.com:9999/#/
+- [**图片转文字**](https://drive.google.com/drive/my-drive) - [借助 Google 云端硬盘](https://www.youtube.com/watch?v=cbORCzg2nIM)
 - [**document-style-guide**](https://github.com/ruanyf/document-style-guide) - 中文技术文档的写作规范，by [ruanyf](https://github.com/ruanyf)
 - [**How-To-Ask-Questions-The-Smart-Way**](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md) - 提问的智慧
 
@@ -136,6 +138,8 @@ A list of resources I use（Perspective of F2E）
 - [**WAV to MP3 -- Bear Audio online tool**](https://www.bearaudiotool.com/wav-to-mp3)
 - [**mammoth.js**](https://github.com/mwilliamson/mammoth.js) - Convert Word documents (.docx files) to HTML
 - [**texme**](https://github.com/susam/texme) - 一个 JS 库，可以将 Markdown 自动渲染成网页内容
+- [**在线将 Youtube 转换为 mp3/mp4**](https://www.y2meta.com/zh-cn26/youtube-to-mp3)
+- [**JS 音频转换器**](https://js-audio-converter.com/zh/)
 
 ### 开放 API
 
@@ -147,15 +151,6 @@ A list of resources I use（Perspective of F2E）
 - [**Twilio API Docs**](https://www.twilio.com/docs/)
 - [**paperplane**](https://docs.paperplane.app/) High quality HTML to PDF conversion API
 - [**Awesome_APIs**](https://github.com/TonnyL/Awesome_APIs/blob/master/README-zh.md)
-
-### 有趣
-
-- [**Temporary Email Address**](https://temp-mail.org) - 临时邮件使用
-- [**Temp**](https://temp.pm/) - 短信息（可加密）
-- [**有声圣经**](https://sj.fuyin.tv/?ref=weixin_menu)
-- **无损音乐** [无损音乐吧](http://www.wsyyb.com/) [超高无损音乐](https://www.sq688.com/)
-- [**lsjgcx**](http://www.lsjgcx.com/) - 历史价格查询
-- [**图片转文字**](https://drive.google.com/drive/my-drive) - [借助 Google 云端硬盘](https://www.youtube.com/watch?v=cbORCzg2nIM)
 
 ### 教程
 
@@ -175,6 +170,13 @@ A list of resources I use（Perspective of F2E）
 - [**webpack-autoconf**](https://github.com/jakoblind/webpack-autoconf) - webpack 配置工具 https://createapp.dev/
 - [**webpack-to-vite**](https://github.com/originjs/webpack-to-vite) - 将 Webpack 项目转为 Vite 项目
 - [**webpack-chain**](https://github.com/githoniel/webpack-chain)
+
+### 有趣
+
+- [**Temporary Email Address**](https://temp-mail.org) - 临时邮件使用
+- [**Temp**](https://temp.pm/) - 短信息（可加密）
+- **无损音乐** [无损音乐吧](http://www.wsyyb.com/) [超高无损音乐](https://www.sq688.com/)
+- [**lsjgcx**](http://www.lsjgcx.com/) - 历史价格查询
 
 **[⬆ 返回顶部](#目录)**
 
@@ -224,6 +226,8 @@ A list of resources I use（Perspective of F2E）
 
 ## 互联网
 
+- [**GitHub520**](https://github.com/521xueweihan/GitHub520) - 😘 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）raw.hellogithub.com/
+- [**SwitchHosts**](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [**lantern**](https://github.com/getlantern/download) - [最新版下载](https://lantern.io/en_US/index.html)
 - [Shadowsocks](https://shadowsocks.org/en/index.html)
   - [**shadowsocks-windows**](https://github.com/shadowsocks/shadowsocks-windows)
@@ -244,8 +248,8 @@ A list of resources I use（Perspective of F2E）
 - 捕捉网页截图 - FireShot
 - 云盘万能钥匙
 - OneTab
-- JSONView
 - Wappalyzer - 查看网站所用技术栈
+- JSON Viewer Pro
 
 ### Youtube
 

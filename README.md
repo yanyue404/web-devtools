@@ -241,7 +241,7 @@ A list of resources I use（Perspective of F2E）
   - [**shadowsocks-windows**](https://github.com/shadowsocks/shadowsocks-windows)
   - [**freess**](https://github.com/max2max/freess) (免费账号)
   - [免费上网账号](https://free-ss.site/)
-- [**google-access-helper**](https://github.com/haotian-wang/google-access-helper) - 谷歌访问助手
+- <del>[**google-access-helper**](https://github.com/haotian-wang/google-access-helper) - 谷歌访问助手</del>
 
 **[⬆ 返回顶部](#目录)**
 

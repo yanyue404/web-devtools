@@ -1,10 +1,9 @@
-# Awesome Bookmarks
+# Web Devtools
 
 A list of resources I use（Perspective of F2E）
 
 ## 目录
 
-- [基督徒](#基督徒)
 - [前端圈](#前端圈)
 - [Node](#node)
 - [互联网](#互联网)
@@ -13,27 +12,24 @@ A list of resources I use（Perspective of F2E）
 - [Android 设备](#android-设备)
 - [书籍](#书籍)
 
-## 基督徒
-
-- [王明道文库精选](http://www.jonahome.net/files/wmd/index.htm)
-- [天上的灵粮-王明道](https://www.tingdao.org/dist/#/SectionList?lxid=10&author=%E7%8E%8B%E6%98%8E%E9%81%93)
-
 ## 前端圈
 
 ### 前端常用
 
+- [**smallfunc**](http://mtest.tkcn.cc/tk-online/common/smallfunc/#/qrcode/index) 小工具
 - [**在线 PS**](https://www.uupoop.com/#/old)
 - [**彩云小译**](https://fanyi.caiyunapp.com/#/web) - [小译同传](https://www.caiyunapp.com/interpretation/)
 - [**tinypng**](https://tinypng.com/) / [**squoosh**](https://squoosh.app) - 图片压缩
-- [**regulex**](https://jex.im/regulex/) - 正则可视化 / [ **RegExper**](https://regexper.com/)
+- [**regulex**](https://jex.im/regulex/) / [ **RegExper**](https://regexper.com/) 正则可视化
 - [**regex101**](https://regex101.com/) - 正则表达式测试
+- [**turndown**](https://github.com/mixmark-io/turndown/) - 将 HTML 转换为 Markdown https://mixmark-io.github.io/turndown/
 - [**runpkg**](https://github.com/FormidableLabs/runpkg) - 在线 npm 包浏览器 https://runpkg.com/
+- [Can I use](https://caniuse.com/) 查询浏览器的特性支持情况
 - [**Package Diff**](https://diff.intrinsic.com/)，比较 npm 包两个版本直接的区别
 - [**netlify**](https://www.netlify.com/) - 静态网站托管服务
 
 ### markdown
 
-- [**turndown**](https://github.com/mixmark-io/turndown/) - An HTML to Markdown converter written in JavaScript https://mixmark-io.github.io/turndown/
 - [**resumd**](https://github.com/timqian/resumd) - 使用 markdown 写简历，支持自定义主题，`html`,`pdf`,`md`导出 https://resumd.t9t.io
 - [**waifu2x**](https://github.com/nagadomi/waifu2x) - 图片进行放大操作 http://waifu2x.udp.jp/index.zh-CN.html
 - [**Picas**](https://github.com/djyde/Picas) - Google 字体生成的项目徽标 https://picas.now.sh/
@@ -88,7 +84,7 @@ A list of resources I use（Perspective of F2E）
 - [0 to 255](https://www.0to255.com/) - 一个作为出发点的颜色（起始颜色），有序呈现色彩变化的颜色列表
 - [Adobe Color CC](https://color.adobe.com/zh/create/color-wheel) - 快速创建 5 色的新色彩主题
 
-### Roadmap
+### 前端工程
 
 - [**TypeScript**](https://github.com/microsoft/TypeScript) - TypeScript 是 JavaScript 的超集，可以编译为干净的 JavaScript 输出。
 - [**nuxt.js**](https://github.com/nuxt/nuxt.js) - 直观的 Vue 框架
@@ -96,7 +92,7 @@ A list of resources I use（Perspective of F2E）
 - [**vite**](https://github.com/vitejs/vite) - 下一代前端工具。它很快！
 - [**vuepress**](https://github.com/vuejs/vuepress) - 简约的 Vue 驱动的静态站点生成器
 - [**postcss**](https://github.com/postcss/postcss) - 使用 JS 插件转换样式
-- [**https**](https://github.com/rollup/rollup) - 下一代 ES 模块打包器
+- [**rollup**](https://github.com/rollup/rollup) - 下一代 ES 模块打包器
 - [**cross-env**](https://github.com/kentcdodds/cross-env) - 跨平台的环境变量声明
 - [**prettier**](https://github.com/prettier/prettier/) - 漂亮的代码格式化 https://prettier.io
 - [**eslint**](https://github.com/eslint/eslint) - 静态代码检查 https://eslint.org/docs/rules/
@@ -332,7 +328,6 @@ A list of resources I use（Perspective of F2E）
 - [VS Code](https://code.visualstudio.com/) - 我的编辑器
 - Git 版本控制：[TortoiseGit](https://tortoisegit.org/download/) + [Git bash](https://gitforwindows.org/) + [Sourcetree](https://www.sourcetreeapp.com/)
 - [**ConEmu**](https://github.com/Maximus5/ConEmu/) - Terminal 终端
-- [**Charles**](https://www.charlesproxy.com/) - 抓包用，支持 https
 - [**Navicat Premium**](https://www.navicat.com.cn/products/navicat-premium) - 数据库合集开发工具
 - [**Postman**](https://www.getpostman.com/) - api 请求，通过 chrome apps 使用
 - [**npm**](https://github.com/npm/cli) + [**yarn**](https://yarnpkg.com/zh-Hant) - node 包管理
@@ -361,10 +356,9 @@ A list of resources I use（Perspective of F2E）
 - Google 翻译
 - OpenHub - GitHub 客户端
 - Snapseed -美化图片
-- 微读圣经 + [**圣经**](https://play.google.com/store/apps/details?id=com.sirma.mobile.bible.android&hl=zh_TW)
+- 微读圣经
 - 维基百科
-- MX Player - 视频播放器
-- VLC for Android
+- MX Player/VLC - 视频播放器
 - OfficeSuite + PDF Editor - 查看，编辑，创建，Word，Excel 和 PowerPoint 文档
 - ReadEra - pdf, epub, word 电子书
 - [code-reader](https://github.com/loopeer/code-reader) 代码阅读器

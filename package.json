@@ -1,15 +1,16 @@
 {
-  "name": "awesome-studio",
+  "name": "web-devtools",
   "version": "1.0.0",
   "description": "A list of resources I use（Perspective of F2E）",
   "main": "index.js",
   "scripts": {
     "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "build": "vuepress build docs",
+    "deploy": "bash deploy.sh"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rainbow-design/awesome-studio.git"
+    "url": "git+https://github.com/yanyue404/web-devtools.git"
   },
   "keywords": [
     "awesome",
@@ -19,9 +20,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rainbow-design/awesome-studio/issues"
+    "url": "https://github.com/yanyue404/web-devtools/issues"
   },
-  "homepage": "https://github.com/rainbow-design/awesome-studio#readme",
+  "homepage": "https://github.com/yanyue404/web-devtools#readme",
   "devDependencies": {
     "vuepress": "^1.8.2"
   }

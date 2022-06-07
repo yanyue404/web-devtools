@@ -1,18 +1,31 @@
 module.exports = {
-  base: "/awesome-studio/",
+  base: "/web-devtools/",
   title: "A list of resources I use（Perspective of F2E）",
-  head: [["meta", { name: "referrer", content: "no-referrer" }]],
   themeConfig: {
-    sidebar: [
-      "/",
-      ["/Online-tools", "在线使用"],
-      ["/Tutorials", "教程"],
-      ["/Front-end-library", "前端库"],
-      ["/Useful-software", "常用软件"]
+    nav: [
+      {
+        text: "Web Devtools",
+        link: "/",
+      },
+      {
+        text: "前端知识体系",
+        link: "/fe/",
+      },
     ],
+    sidebar: {
+      "/fe/": ["",
+      'html',  /* /fe/html.html */
+      'css',  /* /fe/css.html */
+      'js',   /* /fe/js.html */
+      'write',   
+      'vue',
+      'engineering' 
+    ],
+      "/": [""],
+    },
+    sidebarDepth: 2,
     displayAllHeaders: true,
-    repo: "https://github.com/rainbow-design/awesome-studio",
+    repo: "https://github.com/yanyue404/web-devtools",
     repoLabel: "给作者的 Github 点个 star 吧！",
-    smoothScroll: true
-  }
+  },
 };

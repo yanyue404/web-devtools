@@ -13,14 +13,16 @@ module.exports = {
       },
     ],
     sidebar: {
-      "/fe/": ["",
-      'html',  /* /fe/html.html */
-      'css',  /* /fe/css.html */
-      'js',   /* /fe/js.html */
-      'write',   
-      'vue',
-      'engineering' 
-    ],
+      "/fe/": [
+        ["", "主页"],
+        ["h5", "Html"],
+        ["c3", "CSS"],
+        ["js", "JavaScript"],
+        ["write", "手写代码"],
+        ["vue", "Vue"],
+        ["browser", "浏览器"],
+        ["webpack", "工程化"],
+      ],
       "/": [""],
     },
     sidebarDepth: 2,
